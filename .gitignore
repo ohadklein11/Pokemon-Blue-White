@@ -1,4 +1,4 @@
 
 *.rxdata
-!spec/Data/Map043.rxdata
+!/Data/Map*.rxdata
 *.dat
