@@ -19440,7 +19440,7 @@ Habitat=Forest
 Kind=Electric Cockatiel
 Pokedex=Can mimic sounds, its fringe spreads mostly in attack situations.
 BattlerPlayerY=0
-BattlerEnemyY=17
+BattlerEnemyY=0
 BattlerAltitude=0
 Evolutions=ZAPZAP,Level,36
 #-------------------------------
