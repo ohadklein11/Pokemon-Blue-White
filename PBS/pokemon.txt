@@ -19150,7 +19150,7 @@ Habitat=Grassland
 Kind=Fire Bat
 Pokedex=Kuheat is known for being the perfect pokemon to scare off bug pokemon from agricultural fields.
 BattlerPlayerY=0
-BattlerEnemyY=21
+BattlerEnemyY=40
 BattlerAltitude=0
 Evolutions=STRELETON,Level,16
 #-------------------------------
@@ -19237,7 +19237,7 @@ Habitat=WatersEdge
 Kind=Water Salamander
 Pokedex=Its' eyes are not necessarily synchronized, what gives it the ability to look in opposite directions.
 BattlerPlayerY=0
-BattlerEnemyY=22
+BattlerEnemyY=32
 BattlerAltitude=0
 Evolutions=MEDIRIST,Level,16
 #-------------------------------
