@@ -241,6 +241,12 @@ MapPosition=0,15,10
 Outdoor=true
 ShowArea=true
 #-------------------------------
+[048]
+# Rehovot
+Bicycle=true
+Outdoor=false
+ShowArea=true
+#-------------------------------
 [049]
 # Rock Cave
 Bicycle=true
