@@ -19470,6 +19470,6 @@ RegionalNumbers=18,12
 Kind=Electric Kakadoo
 Pokedex=Has electric energy on its wings which allows him to fly without moving them at all, so he barely spends any energy flying.
 BattlerPlayerY=0
-BattlerEnemyY=8
+BattlerEnemyY=0
 BattlerAltitude=10
 Evolutions=
