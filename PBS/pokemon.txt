@@ -19119,8 +19119,8 @@ Shape=6
 Habitat=Forest
 Kind=Grass Deer
 Pokedex=Mistelopes are very rare in nature, for they are scared of human-beings. It is known though, that if one manages to befriend one of them, it will be very loyal and assist the trainer to grow plants with his mystic powers.
-BattlerPlayerY=0
-BattlerEnemyY=11
+BattlerPlayerY=-7
+BattlerEnemyY=5
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -19179,7 +19179,7 @@ Habitat=Grassland
 Kind=Fire Bat
 Pokedex=Part of its body is made of thick strong bones, strong enough to burden its' fierce body temperature. It is very aggresive towards bug pokemon.
 BattlerPlayerY=0
-BattlerEnemyY=13
+BattlerEnemyY=5
 BattlerAltitude=0
 Evolutions=VESPYRE,Level,36
 #-------------------------------
@@ -19208,7 +19208,7 @@ Habitat=Grassland
 Kind=Long Wingspan
 Pokedex=After evolving, its' body gets as tough as steel, what makes him stronger both in attack and defense, but makes him much heavier. Even so, it is known that it is strong enough to fly.
 BattlerPlayerY=0
-BattlerEnemyY=10
+BattlerEnemyY=0
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -19265,7 +19265,7 @@ Habitat=WatersEdge
 Kind=Water Salamander.
 Pokedex=Medirists don't like to do much. They love slacking off and sleeping in the sunlight to warm up their body temperature.
 BattlerPlayerY=0
-BattlerEnemyY=16
+BattlerEnemyY=5
 BattlerAltitude=0
 Evolutions=RAPIDARD,Level,36
 #-------------------------------
@@ -19294,13 +19294,13 @@ Habitat=WatersEdge
 Kind=Water Salamander
 Pokedex=After evolving, the Rapidards shed themselves and become stronger, faster and smarter. Rapidards are so fast they can run on the water.
 BattlerPlayerY=0
-BattlerEnemyY=13
+BattlerEnemyY=0
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
 [659]
 Name=Grassect
-InternalName=RAPIDARD
+InternalName=GRASSECT
 Type1=WATER
 Type2=FIGHTING
 BaseStats=100,110,90,60,85,90
@@ -19329,7 +19329,7 @@ Evolutions=
 #-------------------------------
 [660]
 Name= Grassycada
-InternalName=RAPIDARD
+InternalName=GRASSYCADA
 Type1=WATER
 Type2=FIGHTING
 BaseStats=100,110,90,60,85,90
@@ -19358,7 +19358,7 @@ Evolutions=
 #-------------------------------
 [661]
 Name=Cykadrassgon
-InternalName=RAPIDARD
+InternalName=CYKADRASSGON
 Type1=WATER
 Type2=FIGHTING
 BaseStats=100,110,90,60,85,90
@@ -19411,7 +19411,7 @@ Habitat=Forest
 Kind=Electric Parrot
 Pokedex=Creates voltage through its cheeks. Electricity runs through its wings and makes them a lot lighter.
 BattlerPlayerY=0
-BattlerEnemyY=23
+BattlerEnemyY=5
 BattlerAltitude=0
 Evolutions=ZIPZAP,Level,18
 #-------------------------------
@@ -19440,7 +19440,7 @@ Habitat=Forest
 Kind=Electric Cockatiel
 Pokedex=Can mimic sounds, its fringe spreads mostly in attack situations.
 BattlerPlayerY=0
-BattlerEnemyY=0
+BattlerEnemyY=18
 BattlerAltitude=0
 Evolutions=ZAPZAP,Level,36
 #-------------------------------
