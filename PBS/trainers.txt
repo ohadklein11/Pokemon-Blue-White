@@ -132,3 +132,10 @@ Leah
 STRELETON,1
 MISTELOPE,1
 RUDORN,1
+#-------------------------------
+LASS
+Noa
+3
+GRASSECT,3
+GRASSYCADA,3
+CYKADRASSGON,3
