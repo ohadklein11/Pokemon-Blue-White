@@ -384,3 +384,7 @@ MapPosition=0,12,10
 # Tiall Region
 MapPosition=1,13,16
 Outdoor=true
+#-------------------------------
+[081]
+# Tel Aviv
+Outdoor=true
