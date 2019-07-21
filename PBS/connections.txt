@@ -38,5 +38,11 @@
 21,East,77,47,West,0
 # Route 410 (43) - Yavne (33)
 43,South,0,33,North,0
+# Route 1 (84) - Route 431 (83)
+84,South,4,83,North,0
+# Rehovot (48) - Route 431 (83)
+48,East,0,83,West,19
+# Tel Aviv (81) - Route 1 (84)
+81,South,16,84,North,0
 # Route 410 (43) - Rehovot (48)
 43,North,34,48,South,0

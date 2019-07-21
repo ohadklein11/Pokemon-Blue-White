@@ -155,9 +155,18 @@ MapPosition=0,14,6
 Outdoor=true
 ShowArea=true
 #-------------------------------
+[032]
+# Water Tower
+Bicycle=false
+Outdoor=false
+ShowArea=true
+#-------------------------------
 [033]
 # Yavne
-Outdoor=false
+Bicycle=true
+MapPosition=0,11,23
+Outdoor=true
+HealingSpot=33,17,23
 ShowArea=true
 #-------------------------------
 [034]
@@ -210,7 +219,8 @@ ShowArea=true
 #-------------------------------
 [043]
 # Route 410
-Outdoor=false
+Bicycle=true
+Outdoor=true
 ShowArea=true
 #-------------------------------
 [044]
@@ -244,7 +254,8 @@ ShowArea=true
 [048]
 # Rehovot
 Bicycle=true
-Outdoor=false
+MapPosition=0,13,21
+Outdoor=true
 ShowArea=true
 #-------------------------------
 [049]
@@ -387,4 +398,19 @@ Outdoor=true
 #-------------------------------
 [081]
 # Tel Aviv
+Bicycle=true
+MapPosition=0,14,18
 Outdoor=true
+ShowArea=true
+#-------------------------------
+[083]
+# Route 431
+Bicycle=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[084]
+# Route 1
+Bicycle=true
+Outdoor=true
+ShowArea=true
