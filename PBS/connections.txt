@@ -42,7 +42,17 @@
 84,South,4,83,North,0
 # Rehovot (48) - Route 431 (83)
 48,East,0,83,West,19
+# Raanana (92) - Route 60 (95)
+92,East,7,95,West,0
+# Route 20 (91) - Route 1 (84)
+91,South,0,84,North,103
 # Tel Aviv (81) - Route 1 (84)
 81,South,16,84,North,0
+# Tel Aviv (81) - Route 20 (91)
+81,East,0,91,West,36
+# Raanana (92) - Route 20 (91)
+92,West,24,91,East,0
 # Route 410 (43) - Rehovot (48)
 43,North,34,48,South,0
+# Route 71 (97) - Beit She'an (93)
+97,East,0,93,West,16

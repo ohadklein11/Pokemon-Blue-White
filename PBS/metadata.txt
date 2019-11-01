@@ -220,6 +220,7 @@ ShowArea=true
 [043]
 # Route 410
 Bicycle=true
+MapPosition=0,12,22
 Outdoor=true
 ShowArea=true
 #-------------------------------
@@ -406,11 +407,75 @@ ShowArea=true
 [083]
 # Route 431
 Bicycle=true
+MapPosition=0,14,20
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [084]
 # Route 1
 Bicycle=true
+MapPosition=0,17,19
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[085]
+# Jerusalem
+Bicycle=true
+MapPosition=0,18,21
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+#-------------------------------
+[088]
+# Unown Temple
+Bicycle=false
+MapPosition=0,18,19
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[090]
+# Route 90
+Bicycle=true
+MapPosition=0,21,17
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+#-------------------------------
+[091]
+# Route 20
+Bicycle=true
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+#-------------------------------
+[092]
+# Raanana
+Bicycle=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[093]
+# Beit She'an
+Bicycle=true
+MapPosition=0,20,14
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[095]
+# Route 60
+Bicycle=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[096]
+# Iron Forest
+Bicycle=true
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[097]
+# Route 71
+Bicycle=true
+MapPosition=0,19,14
 Outdoor=true
 ShowArea=true
