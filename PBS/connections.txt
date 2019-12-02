@@ -56,3 +56,19 @@
 43,North,34,48,South,0
 # Route 71 (97) - Beit She'an (93)
 97,East,0,93,West,16
+# Nahariya (103) - Route 89 (104)
+103,East,0,104,West,31
+# Route 77 (101) - Tiberias (99)
+101,East,0,99,West,17
+# Route 89 (104) - Route 90 (90)
+104,96,210,90,0,0
+# Haifa (98) - Route 77 (101)
+98,East,37,101,West,0
+# Nahariya (103) - Route 4 (102)
+103,South,0,102,North,0
+# Haifa (98) - Route 4 (102)
+98,North,53,102,South,0
+# Route 31 (109) - Arad (110)
+109,South,0,110,North,6
+# Route 31 (109) - Dead Sea (107)
+109,East,0,107,West,6

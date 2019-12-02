@@ -221,7 +221,7 @@ ShowArea=true
 # Route 410
 Bicycle=true
 MapPosition=0,12,22
-Outdoor=true
+Outdoor=false
 ShowArea=true
 #-------------------------------
 [044]
@@ -426,6 +426,10 @@ Outdoor=true
 BicycleAlways=false
 ShowArea=true
 #-------------------------------
+[087]
+# Stalactite Cave
+ShowArea=true
+#-------------------------------
 [088]
 # Unown Temple
 Bicycle=false
@@ -478,4 +482,67 @@ ShowArea=true
 Bicycle=true
 MapPosition=0,19,14
 Outdoor=true
+ShowArea=true
+#-------------------------------
+[098]
+# Haifa
+Bicycle=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[099]
+# Tiberias
+Bicycle=true
+ShowArea=true
+#-------------------------------
+[100]
+# Tiberias-Route 90
+Bicycle=true
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[101]
+# Route 77
+Bicycle=true
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[102]
+# Route 4
+ShowArea=true
+#-------------------------------
+[103]
+# Nahariya
+ShowArea=true
+#-------------------------------
+[104]
+# Route 89
+ShowArea=true
+#-------------------------------
+[105]
+# Mt. Hermon
+ShowArea=true
+#-------------------------------
+[107]
+# Dead Sea
+ShowArea=true
+#-------------------------------
+[109]
+# Route 31
+ShowArea=true
+#-------------------------------
+[110]
+# Arad
+ShowArea=true
+#-------------------------------
+[113]
+# Mysterious Tunnel
+Bicycle=false
+MapPosition=0,11,27
+DarkMap=true
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[115]
+# Gaza
 ShowArea=true

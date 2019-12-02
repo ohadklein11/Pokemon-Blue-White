@@ -7686,7 +7686,7 @@ Kind=Wood Gecko
 Pokedex=Leaves grow out of this Pokémon's body. They help obscure a Grovyle from the eyes of its enemies while it is in a thickly overgrown forest.
 BattlerPlayerY=0
 BattlerEnemyY=15
-BattlerAltitude=7
+BattlerAltitude=0
 Evolutions=SCEPTILE,Level,36
 #-------------------------------
 [254]
@@ -19827,9 +19827,9 @@ Color=Blue
 Shape=8
 Kind=Kids Channel
 Pokedex=New Kidschannel was created following Tal Mosseri's retirement from the kids' channel, and started wandering the interwebs.
-BattlerPlayerY=0
+BattlerPlayerY=2
 BattlerEnemyY=20
-BattlerAltitude=16
+BattlerAltitude=20
 Evolutions=PKIDSCHANNEL,Item,MOONSTONE
 #-------------------------------
 [677]
@@ -19855,8 +19855,8 @@ Shape=12
 Kind=Social Network
 Pokedex=Researchers aren't sure if Prev evolves into New or vice-versa, for its confusing name. It mostly wanders social networks, makes people use it and consumes their lives.
 BattlerPlayerY=0
-BattlerEnemyY=22
-BattlerAltitude=19
+BattlerEnemyY=6
+BattlerAltitude=8
 Evolutions=
 #-------------------------------
 [678]
@@ -19883,7 +19883,7 @@ Shape=8
 Kind=Fortnite
 Pokedex=He likes destroying buildings, attacking other llamas and dancing after he defeats enemies. Legend tells that if a hundred of them gather around a single spot, they will fight until only one stays living.
 BattlerPlayerY=0
-BattlerEnemyY=5
+BattlerEnemyY=4
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -19913,7 +19913,7 @@ Kind=Forbidden
 Pokedex=Legend tells of a monster which haunts Jerusalem, visiting and scaring off little children at nights. Mothers who wanted their kids to grow tough used to say 'If you won't finish your meal - Abulele will be visiting you.'
 BattlerPlayerY=0
 BattlerEnemyY=18
-BattlerAltitude=14
+BattlerAltitude=25
 Evolutions=
 #-------------------------------
 [680]
@@ -19973,7 +19973,7 @@ Pokedex=This Pokemon is known as a parasite in Pokemon farms which spreads disea
 WildItemCommon=PECHABERRY
 WildItemUncommon=POISONBARB
 BattlerPlayerY=0
-BattlerEnemyY=14
+BattlerEnemyY=13
 BattlerAltitude=0
 Evolutions=SASOLEECH,Level,30
 #-------------------------------
@@ -20267,8 +20267,8 @@ Habitat=Urban
 Kind=Fighter
 Pokedex=This Pokemon is very rare in the wild. Its only record is on the icicle caves' walls at the mountains of Jerusalem. According to the legend, it used to hold legendary powers.
 BattlerPlayerY=0
-BattlerEnemyY=11
-BattlerAltitude=0
+BattlerEnemyY=13
+BattlerAltitude=18
 Evolutions=
 #-------------------------------
 [692]
@@ -20379,7 +20379,7 @@ Shape=7
 Kind=Alien
 Pokedex=it sees to a distance of six kilometers at least when using all of its eyes. some believe it can even see through thick objects.
 BattlerPlayerY=0
-BattlerEnemyY=2
+BattlerEnemyY=4
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -20409,7 +20409,7 @@ RegionalNumbers=0,1
 Kind=Leaf
 Pokedex=Heneion feeds off from sunlight, and uses the flower on its head to absorb it. On rainy and dark days it hides under trees and rests until the sun will come out again.
 BattlerPlayerY=0
-BattlerEnemyY=22
+BattlerEnemyY=20
 BattlerAltitude=0
 Evolutions=ANALOSEM,Level,16
 #-------------------------------
@@ -20438,7 +20438,7 @@ RegionalNumbers=0,2
 Kind=Sunflower
 Pokedex=Analosem's leafy tail can track water, it shakes in a sudden when there is a nearby source of water. Trainers often use it in desserts for that reason.
 BattlerPlayerY=0
-BattlerEnemyY=14
+BattlerEnemyY=11
 BattlerAltitude=0
 Evolutions=DINEWORKS,Level,32
 #-------------------------------
@@ -20496,9 +20496,9 @@ Pokedex=From the moment it is hatched, Loophicooty can ride on the long curl of 
 WildItemCommon=LUMBERRY
 WildItemUncommon=LUMBERRY
 WildItemRare=LUMBERRY
-BattlerPlayerY=0
-BattlerEnemyY=20
-BattlerAltitude=17
+BattlerPlayerY=2
+BattlerEnemyY=16
+BattlerAltitude=20
 Evolutions=
 #-------------------------------
 [700]
@@ -20724,7 +20724,7 @@ RegionalNumbers=0,159
 Kind=Urban Bear
 Pokedex=This Pokemon likes to hang around humans, befriend them, gain their trust and eat thier food. In exchange it guards them and their homes from strangers.
 BattlerPlayerY=0
-BattlerEnemyY=11
+BattlerEnemyY=13
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -20754,7 +20754,7 @@ Pokedex=Furanbear uses its abilities to make others sleep well. Some say it can 
 WildItemCommon=OVALSTONE
 WildItemUncommon=LUCKYEGG
 BattlerPlayerY=0
-BattlerEnemyY=22
+BattlerEnemyY=20
 BattlerAltitude=0
 Evolutions=HOTTOLEAP,Happiness,
 #-------------------------------
@@ -20849,7 +20849,7 @@ RegionalNumbers=140,227
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=30
+BattlerEnemyY=19
 BattlerAltitude=0
 Evolutions=THORNLIDOT,Level,40
 #-------------------------------
@@ -20910,8 +20910,8 @@ WildItemCommon=CHERIBERRY
 WildItemUncommon=CHERIBERRY
 WildItemRare=CHERIBERRY
 BattlerPlayerY=0
-BattlerEnemyY=13
-BattlerAltitude=13
+BattlerEnemyY=14
+BattlerAltitude=20
 Evolutions=
 #-------------------------------
 [714]
@@ -20941,8 +20941,8 @@ Kind=-
 Pokedex=-
 WildItemUncommon=QUICKCLAW
 BattlerPlayerY=0
-BattlerEnemyY=12
-BattlerAltitude=0
+BattlerEnemyY=10
+BattlerAltitude=12
 Evolutions=
 #-------------------------------
 [715]
@@ -21031,7 +21031,7 @@ Kind=-
 Pokedex=-
 WildItemUncommon=EVERSTONE
 BattlerPlayerY=0
-BattlerEnemyY=16
+BattlerEnemyY=11
 BattlerAltitude=0
 Evolutions=KOSHIMAAYAN,Level,43
 #-------------------------------
@@ -21124,7 +21124,7 @@ Kind=-
 Pokedex=-
 WildItemUncommon=WIDELENS
 BattlerPlayerY=0
-BattlerEnemyY=23
+BattlerEnemyY=15
 BattlerAltitude=13
 Evolutions=AFIFON,Level,30
 #-------------------------------
@@ -21154,8 +21154,8 @@ Kind=-
 Pokedex=-
 WildItemUncommon=WIDELENS
 BattlerPlayerY=0
-BattlerEnemyY=14
-BattlerAltitude=7
+BattlerEnemyY=13
+BattlerAltitude=19
 Evolutions=
 #-------------------------------
 [722]
@@ -21183,9 +21183,9 @@ Habitat=Grassland
 RegionalNumbers=96,87
 Kind=-
 Pokedex=-
-BattlerPlayerY=0
-BattlerEnemyY=18
-BattlerAltitude=0
+BattlerPlayerY=5
+BattlerEnemyY=23
+BattlerAltitude=22
 Evolutions=STRAKING,Level,26
 #-------------------------------
 [723]
@@ -21274,7 +21274,7 @@ RegionalNumbers=115,210
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=11
+BattlerEnemyY=15
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21303,9 +21303,9 @@ Habitat=Forest
 RegionalNumbers=0,15
 Kind=-
 Pokedex=-
-BattlerPlayerY=-4
-BattlerEnemyY=20
-BattlerAltitude=12
+BattlerPlayerY=5
+BattlerEnemyY=19
+BattlerAltitude=20
 Evolutions=KOSMOSHOOF,HappinessDay,,YANSHUMORDOR,HappinessNight,
 #-------------------------------
 [727]
@@ -21334,7 +21334,7 @@ RegionalNumbers=45,85
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=9
+BattlerEnemyY=10
 BattlerAltitude=11
 Evolutions=
 #-------------------------------
@@ -21364,8 +21364,8 @@ RegionalNumbers=0,86
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=27
-BattlerAltitude=0
+BattlerEnemyY=6
+BattlerAltitude=7
 Evolutions=
 #-------------------------------
 [729]
@@ -21393,7 +21393,7 @@ Shape=6
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=22
+BattlerEnemyY=21
 BattlerAltitude=0
 Evolutions=TANKRAVI,Level,35
 #-------------------------------
@@ -21421,7 +21421,7 @@ Shape=12
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=24
+BattlerEnemyY=9
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21450,7 +21450,7 @@ Habitat=Forest
 Kind=Fig
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=16
+BattlerEnemyY=18
 BattlerAltitude=0
 Evolutions=FIGROOT,Level,35
 #-------------------------------
@@ -21480,7 +21480,7 @@ Kind=Fig
 Pokedex=-
 WildItemUncommon=KEBIABERRY
 BattlerPlayerY=0
-BattlerEnemyY=1
+BattlerEnemyY=4
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21507,7 +21507,7 @@ Kind=-
 Pokedex=-
 WildItemUncommon=MIRACLESEED
 BattlerPlayerY=0
-BattlerEnemyY=19
+BattlerEnemyY=18
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21538,7 +21538,7 @@ RegionalNumbers=0,32
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=32
+BattlerEnemyY=16
 BattlerAltitude=0
 Evolutions=STINKBOMB,Level,25
 #-------------------------------
@@ -21568,7 +21568,7 @@ RegionalNumbers=0,33
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=20
+BattlerEnemyY=5
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21599,7 +21599,7 @@ RegionalNumbers=46,70
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=33
+BattlerEnemyY=16
 BattlerAltitude=0
 Evolutions=TIKTIKAN,Level,24
 #-------------------------------
@@ -21629,7 +21629,7 @@ RegionalNumbers=47,71
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=21
+BattlerEnemyY=11
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21658,7 +21658,7 @@ Shape=14
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=36
+BattlerEnemyY=16
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21690,8 +21690,8 @@ Kind=-
 Pokedex=-
 WildItemUncommon=POISONBARB
 BattlerPlayerY=0
-BattlerEnemyY=28
-BattlerAltitude=11
+BattlerEnemyY=10
+BattlerAltitude=0
 Evolutions=
 #-------------------------------
 [740]
@@ -21720,8 +21720,8 @@ Habitat=Sea
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=18
-BattlerAltitude=11
+BattlerEnemyY=13
+BattlerAltitude=12
 Evolutions=
 #-------------------------------
 [741]
@@ -21775,7 +21775,7 @@ Shape=5
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=13
+BattlerEnemyY=14
 BattlerAltitude=0
 Evolutions=BUBBLE,Level,40
 #-------------------------------
@@ -21835,7 +21835,7 @@ Pokedex=-
 WildItemCommon=GRIPCLAW
 WildItemUncommon=QUICKCLAW
 BattlerPlayerY=0
-BattlerEnemyY=19
+BattlerEnemyY=13
 BattlerAltitude=0
 Evolutions=ZOHAM,Level,40
 #-------------------------------
@@ -21865,7 +21865,7 @@ Pokedex=-
 WildItemCommon=GRIPCLAW
 WildItemUncommon=QUICKCLAW
 BattlerPlayerY=0
-BattlerEnemyY=15
+BattlerEnemyY=5
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21894,8 +21894,8 @@ Habitat=Mountain
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=20
-BattlerAltitude=12
+BattlerEnemyY=13
+BattlerAltitude=20
 Evolutions=CRYSTITE,Level,32
 #-------------------------------
 [747]
@@ -21924,7 +21924,7 @@ Kind=-
 Pokedex=-
 BattlerPlayerY=0
 BattlerEnemyY=5
-BattlerAltitude=0
+BattlerAltitude=10
 Evolutions=
 #-------------------------------
 [748]
@@ -21954,7 +21954,7 @@ RegionalNumbers=131,224
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=13
+BattlerEnemyY=5
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -21971,17 +21971,17 @@ EffortPoints=0,1,0,1,1,0
 Rareness=3
 Happiness=0
 Abilities=DOWNLOAD
-Moves=1,TECHNOBLAST,1,QUICKATTACK,1,MAGNETRISE,1,METALCLAW,1,SCREECH,7,FURYCUTTER,11,LOCKON,18,FLAMECHARGE,22,MAGNETBOMB,29,SLASH,33,METALSOUND,40,SIGNALBEAM,44,TRIATTACK,51,XSCISSOR,55,BUGBUZZ,62,SIMPLEBEAM,66,ZAPCANNON,73,HYPERBEAM,77,SELFDESTRUCT
+Moves=1,STARPREDICT
 Compatibility=Undiscovered
 StepsToHatch=30855
-Height=1.5
+Height=2.5
 Weight=82.5
 Color=Red
 Shape=12
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=19
+BattlerEnemyY=9
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -22038,8 +22038,8 @@ Kind=-
 Pokedex=-
 FormName=Anger
 BattlerPlayerY=0
-BattlerEnemyY=27
-BattlerAltitude=19
+BattlerEnemyY=8
+BattlerAltitude=10
 Evolutions=
 #-------------------------------
 [752]
@@ -22184,9 +22184,9 @@ Color=White
 Shape=4
 Kind=Luring
 Pokedex=Being consumed in Chandelure's flame burns up the spirit, leaving the body behind.
-BattlerPlayerY=-5
-BattlerEnemyY=20
-BattlerAltitude=23
+BattlerPlayerY=4
+BattlerEnemyY=9
+BattlerAltitude=15
 Evolutions=
 #-------------------------------
 [757]
@@ -22216,7 +22216,7 @@ RegionalNumbers=140,227
 Kind=Shellfish
 Pokedex=It is a Pokémon that has been regenerated from a fossil. However, in rare cases, living examples have been discovered. Kabuto have not changed for 300 million years.
 BattlerPlayerY=0
-BattlerEnemyY=22
+BattlerEnemyY=24
 BattlerAltitude=0
 Evolutions=ILKABUTOPS,Level,40
 #-------------------------------
@@ -22305,8 +22305,8 @@ Shape=8
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=17
-BattlerAltitude=5
+BattlerEnemyY=15
+BattlerAltitude=20
 Evolutions=
 #-------------------------------
 [761]
@@ -22361,8 +22361,8 @@ Shape=9
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=28
-BattlerAltitude=18
+BattlerEnemyY=4
+BattlerAltitude=0
 Evolutions=
 #-------------------------------
 [763]
@@ -22477,7 +22477,7 @@ Shape=8
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=25
+BattlerEnemyY=14
 BattlerAltitude=0
 Evolutions=CROLLSTONE,Level,30
 #-------------------------------
@@ -22505,7 +22505,7 @@ Shape=8
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=5
+BattlerEnemyY=6
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -22534,7 +22534,7 @@ Habitat=Mountain
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=21
+BattlerEnemyY=15
 BattlerAltitude=0
 Evolutions=ZAAMAMU,Level,40
 #-------------------------------
@@ -22563,7 +22563,7 @@ Habitat=Mountain
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=12
+BattlerEnemyY=5
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -22592,7 +22592,7 @@ Kind=-
 Pokedex=-
 BattlerPlayerY=0
 BattlerEnemyY=18
-BattlerAltitude=10
+BattlerAltitude=13
 Evolutions=KRALODON,Level,40
 #-------------------------------
 [771]
@@ -22647,8 +22647,8 @@ Shape=9
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=7
-BattlerAltitude=3
+BattlerEnemyY=8
+BattlerAltitude=12
 Evolutions=
 #-------------------------------
 [773]
@@ -22733,7 +22733,7 @@ RegionalNumbers=26,23
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=12
+BattlerEnemyY=11
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -22791,8 +22791,8 @@ Shape=5
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=18
-BattlerAltitude=14
+BattlerEnemyY=15
+BattlerAltitude=10
 Evolutions=
 #-------------------------------
 [778]
@@ -22817,8 +22817,8 @@ Shape=1
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=19
-BattlerAltitude=10
+BattlerEnemyY=14
+BattlerAltitude=21
 Evolutions=
 #-------------------------------
 [779]
@@ -22878,7 +22878,7 @@ Kind=-
 Pokedex=-
 BattlerPlayerY=0
 BattlerEnemyY=16
-BattlerAltitude=0
+BattlerAltitude=20
 Evolutions=
 #-------------------------------
 [781]
@@ -22907,7 +22907,7 @@ RegionalNumbers=26,23
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=12
+BattlerEnemyY=9
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -22937,7 +22937,7 @@ Kind=-
 Pokedex=-
 BattlerPlayerY=0
 BattlerEnemyY=19
-BattlerAltitude=18
+BattlerAltitude=25
 Evolutions=
 #-------------------------------
 [783]
@@ -22967,7 +22967,7 @@ Kind=-
 Pokedex=-
 WildItemUncommon=QUICKCLAW
 BattlerPlayerY=0
-BattlerEnemyY=20
+BattlerEnemyY=11
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -22997,7 +22997,7 @@ Kind=-
 Pokedex=-
 WildItemUncommon=CHESTOBERRY
 BattlerPlayerY=0
-BattlerEnemyY=19
+BattlerEnemyY=13
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -23026,7 +23026,7 @@ Habitat=Mountain
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=19
+BattlerEnemyY=15
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -23055,8 +23055,8 @@ Habitat=Cave
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=21
-BattlerAltitude=0
+BattlerEnemyY=10
+BattlerAltitude=13
 Evolutions=
 #-------------------------------
 [787]
@@ -23084,7 +23084,7 @@ Habitat=Grassland
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=12
+BattlerEnemyY=4
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -23112,8 +23112,8 @@ Shape=5
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=18
-BattlerAltitude=14
+BattlerEnemyY=4
+BattlerAltitude=10
 Evolutions=
 #-------------------------------
 [789]
@@ -23140,8 +23140,8 @@ Shape=5
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=18
-BattlerAltitude=14
+BattlerEnemyY=5
+BattlerAltitude=11
 Evolutions=
 #-------------------------------
 [790]
@@ -23167,8 +23167,8 @@ Shape=10
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=15
-BattlerAltitude=10
+BattlerEnemyY=6
+BattlerAltitude=0
 Evolutions=
 #-------------------------------
 [791]
@@ -23195,8 +23195,8 @@ Shape=8
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=36
-BattlerAltitude=13
+BattlerEnemyY=16
+BattlerAltitude=0
 Evolutions=
 #-------------------------------
 [792]
@@ -23224,7 +23224,7 @@ Habitat=Grassland
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=12
+BattlerEnemyY=14
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -23253,7 +23253,7 @@ Habitat=Grassland
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=18
+BattlerEnemyY=10
 BattlerAltitude=11
 Evolutions=
 #-------------------------------
@@ -23282,7 +23282,7 @@ Shape=12
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=31
+BattlerEnemyY=20
 BattlerAltitude=0
 Evolutions=CAPTAINROCK,Level,25
 #-------------------------------
@@ -23338,7 +23338,7 @@ Shape=12
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=3
+BattlerEnemyY=5
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -23365,9 +23365,9 @@ Shape=12
 Habitat=Mountain
 Kind=-
 Pokedex=-
-BattlerPlayerY=0
-BattlerEnemyY=24
-BattlerAltitude=14
+BattlerPlayerY=2
+BattlerEnemyY=18
+BattlerAltitude=21
 Evolutions=
 #-------------------------------
 [798]
@@ -23393,7 +23393,7 @@ Shape=10
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=12
+BattlerEnemyY=10
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -23419,8 +23419,8 @@ Shape=2
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=5
-BattlerAltitude=0
+BattlerEnemyY=4
+BattlerAltitude=9
 Evolutions=
 #-------------------------------
 [800]
@@ -23445,6 +23445,6 @@ Shape=12
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=6
+BattlerEnemyY=5
 BattlerAltitude=0
 Evolutions=

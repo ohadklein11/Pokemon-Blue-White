@@ -325,28 +325,28 @@ EndSpeechLose="Man, I lost!"
 Name=WARITA
 PokemonNos=0,24,46,51,52,71
 BeginSpeech=Here I come!
-Type=TEAMROCKET_F
+Type=TEAMHAMAS_F
 EndSpeechWin="Yes, I won!"
 [047]
 EndSpeechLose="Man, I lost!"
 Name=HANKA
 PokemonNos=3,4,7,29,38,46,50,55,56,57,58,75,78,84,89,119
 BeginSpeech=Here I come!
-Type=TEAMROCKET_F
+Type=TEAMHAMAS_F
 EndSpeechWin="Yes, I won!"
 [048]
 EndSpeechLose="Man, I lost!"
 Name=ZABA
 PokemonNos=0,1,34,71,97,107
 BeginSpeech=Here I come!
-Type=TEAMROCKET_F
+Type=TEAMHAMAS_F
 EndSpeechWin="Yes, I won!"
 [049]
 EndSpeechLose="Man, I lost!"
 Name=ORELLE
 PokemonNos=4,29,30,32,38,39,44,55,92,99,102,106,109
 BeginSpeech=Here I come!
-Type=TEAMROCKET_F
+Type=TEAMHAMAS_F
 EndSpeechWin="Yes, I won!"
 [050]
 EndSpeechLose="Man, I lost!"
@@ -360,35 +360,35 @@ EndSpeechLose="Man, I lost!"
 Name=MIZO
 PokemonNos=9,17,25,31,32,34,41,53,62,72,75,88,95,101,113
 BeginSpeech=Here I come!
-Type=TEAMROCKET_M
+Type=TEAMHAMAS_M
 EndSpeechWin="Yes, I won!"
 [052]
 EndSpeechLose="Man, I lost!"
 Name=ALA
 PokemonNos=0,29,42,59,63,67,72,77,81,83,85,86,93,99,120
 BeginSpeech=Here I come!
-Type=TEAMROCKET_F
+Type=TEAMHAMAS_F
 EndSpeechWin="Yes, I won!"
 [053]
 EndSpeechLose="Man, I lost!"
 Name=CEZHA
 PokemonNos=15,16,38,54,82,91,100,105,110,119
 BeginSpeech=Here I come!
-Type=TEAMROCKET_F
+Type=TEAMHAMAS_F
 EndSpeechWin="Yes, I won!"
 [054]
 EndSpeechLose="Man, I lost!"
 Name=INICA
 PokemonNos=10,12,28,45,50,68,79,83,87,89,100,109,115
 BeginSpeech=Here I come!
-Type=TEAMROCKET_F
+Type=TEAMHAMAS_F
 EndSpeechWin="Yes, I won!"
 [055]
 EndSpeechLose="Man, I lost!"
 Name=KLONA
 PokemonNos=9,36,48,73,83,86,92
 BeginSpeech=Here I come!
-Type=TEAMROCKET_F
+Type=TEAMHAMAS_F
 EndSpeechWin="Yes, I won!"
 [056]
 EndSpeechLose="Man, I lost!"
@@ -1109,28 +1109,28 @@ EndSpeechLose="Man, I lost!"
 Name=MORDEK
 PokemonNos=248,259,265,279,285,303,305,308,309,313,321,322,328
 BeginSpeech=Here I come!
-Type=TEAMROCKET_M
+Type=TEAMHAMAS_M
 EndSpeechWin="Yes, I won!"
 [159]
 EndSpeechLose="Man, I lost!"
 Name=GAKOT
 PokemonNos=262,267,276,280,289,291,292,295,309,311,354,358,361
 BeginSpeech=Here I come!
-Type=TEAMROCKET_F
+Type=TEAMHAMAS_F
 EndSpeechWin="Yes, I won!"
 [160]
 EndSpeechLose="Man, I lost!"
 Name=KUHOC
 PokemonNos=246,271,284,288,297,345,360
 BeginSpeech=Here I come!
-Type=TEAMROCKET_M
+Type=TEAMHAMAS_M
 EndSpeechWin="Yes, I won!"
 [161]
 EndSpeechLose="Man, I lost!"
 Name=LELD
 PokemonNos=243,249,251,258,269,281,295,313,348,349,358,359
 BeginSpeech=Here I come!
-Type=TEAMROCKET_M
+Type=TEAMHAMAS_M
 EndSpeechWin="Yes, I won!"
 [162]
 EndSpeechLose="Man, I lost!"
@@ -1172,63 +1172,63 @@ EndSpeechLose="Man, I lost!"
 Name=RIMAND
 PokemonNos=252,255,260,274,280,298,300,307,310,321,332,343,345,359
 BeginSpeech=Here I come!
-Type=TEAMROCKET_M
+Type=TEAMHAMAS_M
 EndSpeechWin="Yes, I won!"
 [168]
 EndSpeechLose="Man, I lost!"
 Name=LIE
 PokemonNos=247,252,256,257,271,276,281,305,306,318,324,327,343,344,358
 BeginSpeech=Here I come!
-Type=TEAMROCKET_M
+Type=TEAMHAMAS_M
 EndSpeechWin="Yes, I won!"
 [169]
 EndSpeechLose="Man, I lost!"
 Name=GORP
 PokemonNos=250,254,256,264,279,285,295,299,303,320,327,328,333,360
 BeginSpeech=Here I come!
-Type=TEAMROCKET_M
+Type=TEAMHAMAS_M
 EndSpeechWin="Yes, I won!"
 [170]
 EndSpeechLose="Man, I lost!"
 Name=GRALAT
 PokemonNos=242,244,246,268,272,288,327,332,335,361
 BeginSpeech=Here I come!
-Type=TEAMROCKET_M
+Type=TEAMHAMAS_M
 EndSpeechWin="Yes, I won!"
 [171]
 EndSpeechLose="Man, I lost!"
 Name=BARUM
 PokemonNos=289,291,295,306,314,332,342,344,355,358,360
 BeginSpeech=Here I come!
-Type=TEAMROCKET_M
+Type=TEAMHAMAS_M
 EndSpeechWin="Yes, I won!"
 [172]
 EndSpeechLose="Man, I lost!"
 Name=ECHIE
 PokemonNos=276,278,279,282,285,291,301,302,312,332,336,338,359,360,362
 BeginSpeech=Here I come!
-Type=TEAMROCKET_F
+Type=TEAMHAMAS_F
 EndSpeechWin="Yes, I won!"
 [173]
 EndSpeechLose="Man, I lost!"
 Name=IRMILI
 PokemonNos=243,251,254,259,265,271,274,276,277,279,284,286,296,304,308,311,326
 BeginSpeech=Here I come!
-Type=TEAMROCKET_F
+Type=TEAMHAMAS_F
 EndSpeechWin="Yes, I won!"
 [174]
 EndSpeechLose="Man, I lost!"
 Name=CECHIE
 PokemonNos=246,251,252,260,276,283,288,295,296,311,330,335,341,342
 BeginSpeech=Here I come!
-Type=TEAMROCKET_F
+Type=TEAMHAMAS_F
 EndSpeechWin="Yes, I won!"
 [175]
 EndSpeechLose="Man, I lost!"
 Name=ACA
 PokemonNos=252,259,261,271,275,280,338,343,346
 BeginSpeech=Here I come!
-Type=TEAMROCKET_F
+Type=TEAMHAMAS_F
 EndSpeechWin="Yes, I won!"
 [176]
 EndSpeechLose="Man, I lost!"
