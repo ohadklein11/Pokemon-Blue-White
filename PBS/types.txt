@@ -7,26 +7,26 @@ Immunities=GHOST
 [1]
 Name=Fighting
 InternalName=FIGHTING
-Weaknesses=FLYING,PSYCHIC
+Weaknesses=FLYING,PSYCHIC,FAIRY,CULTURE
 Resistances=ROCK,BUG,DARK
 
 [2]
 Name=Flying
 InternalName=FLYING
 Weaknesses=ROCK,ELECTRIC,ICE
-Resistances=FIGHTING,BUG,GRASS
+Resistances=FIGHTING,BUG,GRASS,CULTURE
 Immunities=GROUND
 
 [3]
 Name=Poison
 InternalName=POISON
-Weaknesses=GROUND,PSYCHIC
-Resistances=FIGHTING,POISON,BUG,GRASS
+Weaknesses=GROUND,PSYCHIC,SCIENCE
+Resistances=FIGHTING,POISON,BUG,GRASS,FAIRY,RELIGION
 
 [4]
 Name=Ground
 InternalName=GROUND
-Weaknesses=WATER,GRASS,ICE
+Weaknesses=WATER,GRASS,ICE,CULTURE
 Resistances=POISON,ROCK
 Immunities=ELECTRIC
 
@@ -40,20 +40,20 @@ Resistances=NORMAL,FLYING,POISON,FIRE
 Name=Bug
 InternalName=BUG
 Weaknesses=FLYING,ROCK,FIRE
-Resistances=FIGHTING,GROUND,GRASS
+Resistances=FIGHTING,GROUND,GRASS,FAIRY,CULTURE
 
 [7]
 Name=Ghost
 InternalName=GHOST
-Weaknesses=GHOST,DARK
-Resistances=POISON,BUG
+Weaknesses=GHOST,DARK,RELIGION
+Resistances=POISON,BUG,SCIENCE
 Immunities=NORMAL,FIGHTING
 
 [8]
 Name=Steel
 InternalName=STEEL
-Weaknesses=FIGHTING,GROUND,FIRE
-Resistances=NORMAL,FLYING,ROCK,BUG,GHOST,STEEL,GRASS,PSYCHIC,ICE,DRAGON,DARK
+Weaknesses=FIGHTING,GROUND,FIRE,SCIENCE
+Resistances=NORMAL,FLYING,ROCK,BUG,GHOST,STEEL,GRASS,PSYCHIC,ICE,DRAGON,DARK, FAIRY
 Immunities=POISON
 
 [9]
@@ -86,15 +86,15 @@ Resistances=GROUND,WATER,GRASS,ELECTRIC
 Name=Electric
 InternalName=ELECTRIC
 IsSpecialType=true
-Weaknesses=GROUND
-Resistances=FLYING,STEEL,ELECTRIC
+Weaknesses=GROUND,SCIENCE,CULTURE
+Resistances=FLYING,STEEL,ELECTRIC,SCIENCE
 
 [14]
 Name=Psychic
 InternalName=PSYCHIC
 IsSpecialType=true
-Weaknesses=BUG,GHOST,DARK
-Resistances=FIGHTING,PSYCHIC
+Weaknesses=BUG,GHOST,DARK,RELIGION
+Resistances=FIGHTING,PSYCHIC,SCIENCE
 
 [15]
 Name=Ice
@@ -108,14 +108,14 @@ Name=Dragon
 InternalName=DRAGON
 IsSpecialType=true
 Weaknesses=ICE,DRAGON
-Resistances=FIRE,WATER,GRASS,ELECTRIC
+Resistances=FIRE,WATER,GRASS,ELECTRIC,CULTURE
 
 [17]
 Name=Dark
 InternalName=DARK
 IsSpecialType=true
-Weaknesses=FIGHTING,BUG
-Resistances=GHOST,DARK
+Weaknesses=FIGHTING,BUG,RELIGION
+Resistances=GHOST,DARK,FAIRY
 Immunities=PSYCHIC
 
 [18]
@@ -123,26 +123,29 @@ Name=Fairy
 InternalName=FAIRY
 IsSpecialType=true
 Weaknesses=POISON,STEEL
-Resistances=FIGHTING,BUG,DARK
+Resistances=FIGHTING,BUG,DARK,RELIGION,SCIENCE
 Immunities=DRAGON
 
 [19]
 Name=Culture
 InternalName=CULTURE
 IsSpecialType=true
-Weaknesses=RELIGION
-Resistances=SCIENCE
+Weaknesses=DRAGON, FLYING, BUG
+Resistances=FIGHTING, GROUND, ELECTRIC
+Immunities=SCIENCE
 
 [20]
 Name=Science
 InternalName=SCIENCE
 IsSpecialType=true
-Weaknesses=CULTURE
-Resistances=RELIGION
+Weaknesses=FAIRY, PSYCHIC, GHOST
+Resistances=ELECTRIC, POISON, STEEL
+Immunities=RELIGION
 
 [21]
 Name=Religion
 InternalName=RELIGION
 IsSpecialType=true
-Weaknesses=SCIENCE
-Resistances=CULTURE
+Weaknesses=POISON, FAIRY, ELECTRIC
+Resistances=GHOST, DARK, PSYCHIC
+Immunities=CULTURE
