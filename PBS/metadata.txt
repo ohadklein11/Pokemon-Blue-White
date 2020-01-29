@@ -535,6 +535,10 @@ ShowArea=true
 # Arad
 ShowArea=true
 #-------------------------------
+[111]
+# Beer Sheva
+ShowArea=true
+#-------------------------------
 [113]
 # Mysterious Tunnel
 Bicycle=false
@@ -545,4 +549,16 @@ ShowArea=true
 #-------------------------------
 [115]
 # Gaza
+ShowArea=true
+#-------------------------------
+[117]
+# Route 80
+ShowArea=true
+#-------------------------------
+[118]
+# Dimona
+ShowArea=true
+#-------------------------------
+[119]
+# Route 25
 ShowArea=true

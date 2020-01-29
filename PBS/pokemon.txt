@@ -19564,7 +19564,7 @@ RegionalNumbers=0,9
 Kind=Assault Pokemon
 Pokedex=Storaid raids villages where it feels threatened. It creates storms of frozen crystals.
 BattlerPlayerY=0
-BattlerEnemyY=6
+BattlerEnemyY=2
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -20062,7 +20062,7 @@ Kind=Five Volts
 Pokedex=This Pokemon jumps on the ground to discharge its electricity. The angrier it gets, the more electric power it stores.
 WildItemUncommon=CHOPLEBERRY
 BattlerPlayerY=0
-BattlerEnemyY=15
+BattlerEnemyY=10
 BattlerAltitude=0
 Evolutions=BLETZ,Happiness,
 #-------------------------------
@@ -23253,8 +23253,8 @@ Habitat=Grassland
 Kind=-
 Pokedex=-
 BattlerPlayerY=0
-BattlerEnemyY=10
-BattlerAltitude=11
+BattlerEnemyY=9
+BattlerAltitude=0
 Evolutions=
 #-------------------------------
 [794]

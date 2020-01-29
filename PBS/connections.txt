@@ -68,7 +68,15 @@
 103,South,0,102,North,0
 # Haifa (98) - Route 4 (102)
 98,North,53,102,South,0
+# Route 80 (117) - Arad (110)
+117,East,0,110,West,4
 # Route 31 (109) - Arad (110)
 109,South,0,110,North,6
+# Route 25 (119) - Beer Sheva (111)
+119,West,0,111,East,20
+# Route 25 (119) - Route 80 (117)
+119,East,6,117,West,0
+# Route 25 (119) - Dimona (118)
+119,East,49,118,West,0
 # Route 31 (109) - Dead Sea (107)
 109,East,0,107,West,6
