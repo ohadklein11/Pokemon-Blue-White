@@ -72,14 +72,17 @@
 117,East,0,110,West,4
 # Route 31 (109) - Arad (110)
 109,South,0,110,North,6
-# Route 31 (109) - Dead Sea (107)
-109,East,0,107,West,6
-# Route 25 (119) - Dimona (118)
-119,East,49,118,West,0
+# Route 204 (127) - Route 204 (121)
+127,East,0,121,West,26
+# Dimona (118) - Route 204 (121)
+118,East,15,121,West,0
+# Dimona (118) - Route 204 (127)
+118,South,0,127,North,15
 # Route 25 (119) - Beer Sheva (111)
 119,West,0,111,East,20
 # Route 25 (119) - Route 80 (117)
 119,East,6,117,West,0
-# Dimona (118) - Route 204 (121)
-118,East,15,121,West,0
-
+# Route 31 (109) - Dead Sea (107)
+109,East,0,107,West,6
+# Route 25 (119) - Dimona (118)
+119,East,49,118,West,0
