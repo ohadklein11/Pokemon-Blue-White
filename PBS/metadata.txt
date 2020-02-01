@@ -562,3 +562,23 @@ ShowArea=true
 [119]
 # Route 25
 ShowArea=true
+#-------------------------------
+[121]
+# Route 204
+ShowArea=true
+#-------------------------------
+[127]
+# Route 204
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[137]
+# Mizpe Ramon
+Bicycle=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[138]
+# Nordau Beach
+Outdoor=true
+ShowArea=true
