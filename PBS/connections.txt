@@ -90,3 +90,5 @@
 81,East,0,91,West,36
 # Route 410 (43) - Rehovot (48)
 43,North,34,48,South,0
+# Eilat (147) - Route 40 (139)
+147,North,0,139,South,5
