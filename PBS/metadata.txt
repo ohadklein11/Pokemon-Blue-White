@@ -582,3 +582,7 @@ ShowArea=true
 # Nordau Beach
 Outdoor=true
 ShowArea=true
+#-------------------------------
+[147]
+# Eilat
+DiveMap=158
