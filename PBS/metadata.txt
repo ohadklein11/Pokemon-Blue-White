@@ -580,9 +580,21 @@ ShowArea=true
 #-------------------------------
 [138]
 # Nordau Beach
+DiveMap=135
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [147]
 # Eilat
 DiveMap=158
+#-------------------------------
+[174]
+# Underwater Cave
+#-------------------------------
+[175]
+# Water cave
+DiveMap=174
+#-------------------------------
+[176]
+# The Mediterranean Sea
+DiveMap=177
