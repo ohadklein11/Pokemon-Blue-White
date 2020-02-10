@@ -4,7 +4,7 @@ PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf,boy_run,boy_surf,boy_fish
 PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,xxx
 TrainerVictoryME=Battle victory trainer.ogg
 WildVictoryME=Battle victory wild.ogg
-TrainerBattleBGM=Battle trainer.mid
+TrainerBattleBGM=Trainer Battle.ogg
 SurfBGM=Surfing.mid
 BicycleBGM=Bicycle.mid
 Home=3,7,5,8
@@ -221,7 +221,7 @@ ShowArea=true
 # Route 410
 Bicycle=true
 MapPosition=0,12,22
-Outdoor=false
+Outdoor=true
 ShowArea=true
 #-------------------------------
 [044]
@@ -487,12 +487,15 @@ ShowArea=true
 [098]
 # Haifa
 Bicycle=true
+MapPosition=0,17,9
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [099]
 # Tiberias
 Bicycle=true
+MapPosition=0,21,8
+Outdoor=true
 ShowArea=true
 #-------------------------------
 [100]
@@ -504,23 +507,38 @@ ShowArea=false
 [101]
 # Route 77
 Bicycle=true
-Outdoor=false
+MapPosition=0,19,8
+Outdoor=true
 ShowArea=true
 #-------------------------------
 [102]
 # Route 4
+Weather=Rain,100
+Bicycle=true
+MapPosition=0,18,7
+Outdoor=true
 ShowArea=true
 #-------------------------------
 [103]
 # Nahariya
+Bicycle=true
+MapPosition=0,18,5
+Outdoor=true
 ShowArea=true
 #-------------------------------
 [104]
 # Route 89
+Weather=Snow,100
+Bicycle=true
+MapPosition=0,21,5
+Outdoor=true
 ShowArea=true
 #-------------------------------
 [105]
 # Mt. Hermon
+Weather=Snow,100
+MapPosition=0,23,4
+Outdoor=true
 ShowArea=true
 #-------------------------------
 [107]
