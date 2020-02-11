@@ -545,6 +545,13 @@ ShowArea=true
 # Dead Sea
 ShowArea=true
 #-------------------------------
+[108]
+# Dead Sea-Route 90
+Bicycle=true
+MapPosition=0,20,23
+Outdoor=false
+ShowArea=false
+#-------------------------------
 [109]
 # Route 31
 ShowArea=true
