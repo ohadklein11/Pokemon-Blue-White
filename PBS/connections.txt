@@ -38,28 +38,6 @@
 21,East,77,47,West,0
 # Route 71 (97) - Beit She'an (93)
 97,East,0,93,West,16
-# Route 204 (127) - Mizpe Ramon (137)
-127,South,0,137,North,0
-# Route 80 (117) - Arad (110)
-117,East,0,110,West,4
-# Route 31 (109) - Arad (110)
-109,South,0,110,North,6
-# Route 204 (127) - Route 204 (121)
-127,East,0,121,West,26
-# Dimona (118) - Route 204 (121)
-118,East,15,121,West,0
-# Dimona (118) - Route 204 (127)
-118,South,0,127,North,15
-# Route 25 (119) - Beer Sheva (111)
-119,West,0,111,East,20
-# Route 25 (119) - Route 80 (117)
-119,East,6,117,West,0
-# Route 31 (109) - Dead Sea (107)
-109,East,0,107,West,6
-# Route 25 (119) - Dimona (118)
-119,East,49,118,West,0
-# Eilat (147) - Route 40 (139)
-147,North,0,139,South,5
 # The Mediterranean Sea (176) - League Island (159)
 176,North,0,159,South,9
 # Route 410 (43) - Yavne (33)
@@ -98,3 +76,27 @@
 103,South,0,102,North,0
 # Haifa (98) - Route 4 (102)
 98,North,53,102,South,0
+# Route 204 (127) - Mizpe Ramon (137)
+127,South,0,137,North,0
+# Route 40 (139) - Mizpe Ramon (137)
+139,North,0,137,South,0
+# Route 80 (117) - Arad (110)
+117,East,0,110,West,4
+# Route 31 (109) - Arad (110)
+109,South,0,110,North,6
+# Route 204 (127) - Route 204 (121)
+127,East,0,121,West,26
+# Dimona (118) - Route 204 (121)
+118,East,15,121,West,0
+# Dimona (118) - Route 204 (127)
+118,South,0,127,North,15
+# Route 25 (119) - Beer Sheva (111)
+119,West,0,111,East,20
+# Eilat (147) - Route 40 (139)
+147,North,0,139,South,5
+# Route 25 (119) - Route 80 (117)
+119,East,6,117,West,0
+# Route 31 (109) - Dead Sea (107)
+109,East,0,107,West,6
+# Route 25 (119) - Dimona (118)
+119,East,49,118,West,0
