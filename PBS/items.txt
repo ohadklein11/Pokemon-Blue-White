@@ -524,3 +524,5 @@
 524,OVALCHARM,Oval Charm,Oval Charms,8,0,"An oval charm said to increase the chance of Eggs being found at the Day Care.",0,0,6,
 525,SHINYCHARM,Shiny Charm,Shiny Charms,8,0,"A shiny charm said to increase the chance of finding a Shiny Pokémon.",0,0,6,
 526,HOSOPAD,HosoPad,HosoPads,8,0,"A unique remote made with advanced tech that will call the nearest Hoso around to take you anywhere!",2,0,6,
+527,AIRPOCKET,Air Pocket,Air Pockets,8,0,"Use the airpocket to dive when your pokemon cannot.",2,0,6,
+528,ENERGYGLOVE,Energy Glove,Energy Gloves,8,0,"A high tech glove that stores energy which can be utilized to push boulders.",2,0,6,

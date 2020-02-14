@@ -593,6 +593,9 @@ ShowArea=true
 #-------------------------------
 [121]
 # Route 204
+Bicycle=true
+MapPosition=0,17,33
+Outdoor=true
 ShowArea=true
 #-------------------------------
 [127]
@@ -637,3 +640,13 @@ DiveMap=174
 [176]
 # The Mediterranean Sea
 DiveMap=177
+#-------------------------------
+[280]
+# Water cave
+DiveMap=279
+Weather=Storm,100
+Bicycle=false
+DarkMap=true
+Outdoor=false
+WildBattleBGM=Mythical Battle.ogg
+ShowArea=false
