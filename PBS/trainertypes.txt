@@ -57,7 +57,7 @@
 54,TWINS,Twins,24,,,,Mixed,,
 55,YOUNGCOUPLE,Young Couple,60,,,,Mixed,32,
 56,TEAMHAMAS_M,Hamas Grunt,32,Battle Hamas.ogg,,IntroHamas.ogg,Male,,
-57,TEAMHAMAS_F,Hamas Grunt,32,,,,Female,,
+57,TEAMHAMAS_F,Hamas Grunt,32,Battle Hamas.ogg,,IntroHamas.ogg,Female,,
 58,ROCKETBOSS,Rocket Boss,100,,,,Male,,
 59,LEADER_Brock,Gym Leader,100,Battle Gym Leader,,,Male,,
 60,LEADER_Misty,Gym Leader,100,Battle Gym Leader,,,Female,,
