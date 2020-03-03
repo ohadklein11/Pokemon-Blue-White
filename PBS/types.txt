@@ -87,7 +87,7 @@ Name=Electric
 InternalName=ELECTRIC
 IsSpecialType=true
 Weaknesses=GROUND,SCIENCE,CULTURE
-Resistances=FLYING,STEEL,ELECTRIC,SCIENCE
+Resistances=FLYING,STEEL,ELECTRIC,RELIGION
 
 [14]
 Name=Psychic

@@ -6,7 +6,7 @@ TrainerVictoryME=Battle victory trainer.ogg
 WildVictoryME=Battle victory wild.ogg
 TrainerBattleBGM=Trainer Battle.ogg
 SurfBGM=Surfing.mid
-BicycleBGM=Bicycle.mid
+BicycleBGM=Bicycle.ogg
 Home=76,7,5,8
 WildBattleBGM=Wild Pokemon Battle looped.ogg
 #-------------------------------
