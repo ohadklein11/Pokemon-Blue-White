@@ -130,4 +130,4 @@
 127,ELITETHREE_RELIGION,Elite Three,100,Battle Elite,,,Male,,
 128,PROFESSOR_HERZEL,Professor,100,,,,Male,,
 129,PROFESSOR_DOCK,Professor,100,,,,Male,,
-130,ARMY_LEADER,Ramatkal,100,,,IntroArmy.ogg,Male,,
+130,FACTORY_MANAGER,Factory Manager,80,,,IntroArmy.ogg,Male,,
