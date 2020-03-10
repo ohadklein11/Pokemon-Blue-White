@@ -65,7 +65,7 @@ IsPseudoType=true
 Name=Fire
 InternalName=FIRE
 IsSpecialType=true
-Weaknesses=GROUND,ROCK,WATER
+Weaknesses=GROUND,ROCK,WATER,CULTURE
 Resistances=BUG,STEEL,FIRE,GRASS,ICE
 
 [11]
@@ -86,7 +86,7 @@ Resistances=GROUND,WATER,GRASS,ELECTRIC
 Name=Electric
 InternalName=ELECTRIC
 IsSpecialType=true
-Weaknesses=GROUND,SCIENCE,CULTURE
+Weaknesses=GROUND,SCIENCE
 Resistances=FLYING,STEEL,ELECTRIC,RELIGION
 
 [14]
@@ -131,7 +131,7 @@ Name=Culture
 InternalName=CULTURE
 IsSpecialType=true
 Weaknesses=DRAGON, FLYING, BUG
-Resistances=FIGHTING, GROUND, ELECTRIC
+Resistances=FIGHTING, GROUND, FIRE
 Immunities=SCIENCE
 
 [20]
