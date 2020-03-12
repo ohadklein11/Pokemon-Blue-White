@@ -673,3 +673,23 @@ DarkMap=true
 Outdoor=false
 WildBattleBGM=Mythical Battle.ogg
 ShowArea=false
+#-------------------------------
+[291]
+# Cave
+Weather=Blizzard,100
+Bicycle=false
+DarkMap=true
+Outdoor=false
+BicycleAlways=false
+WildBattleBGM=Mythical Battle.ogg
+ShowArea=false
+#-------------------------------
+[292]
+# Secret room
+Weather=Sunny,100
+Bicycle=false
+DarkMap=true
+Outdoor=false
+BicycleAlways=false
+WildBattleBGM=Mythical Battle.ogg
+ShowArea=false

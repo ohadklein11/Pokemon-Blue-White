@@ -21493,7 +21493,7 @@ Evolutions=
 #-------------------------------
 [733]
 Name=Halakik
-InternalName=HALALKIK
+InternalName=HALAKIK
 Type1=GRASS
 BaseStats=65,65,80,100,80,80
 GenderRate=Female50Percent
@@ -22584,7 +22584,7 @@ Moves=1,POUND,1,DEFENSECURL,6,ICESHARD,10,STOMP,12,ICYWIND,15,ROCKTOMB,17,HAIL,2
 Compatibility=Field,Monster
 StepsToHatch=10455
 Height=5.5
-Weight=8000.0
+Weight=1446.4
 Color=Brown
 Shape=3
 Habitat=Mountain
@@ -23412,8 +23412,8 @@ RegionalNumbers=148
 Kind=David's Shield
 Pokedex=It was created by the three fathers - Abraham, Isaac and Jacob. Legend tells that once an atheist tries to capture it, the atheist will become religious.
 BattlerPlayerY=0
-BattlerEnemyY=24
-BattlerAltitude=14
+BattlerEnemyY=14
+BattlerAltitude=21
 Evolutions=
 #-------------------------------
 [798]
