@@ -530,7 +530,7 @@
 530,AXE,Axe,Axes,8,0,Use to cut your way through small trees.,2,0,6,
 531,INFLATABLETOY,Inflatable Toy,Inflatable Toys,8,0,Fill it with air near water and hop on its back to swim!,2,0,6,
 532,THRUSTERS,Thrusters,Thrusters,8,0,Use the Thrusters when in water to push through waterfalls.,2,0,6,
-533,POKIPPA,Pokippa,Pokippas,1,9800,An item to be put on a Pokémon's head. It makes the Pokemon feel more connected to the heavens and boosts Religion-type moves.,0,0,0,
+533,POKIPPA,Pokippa,Pokippas,1,9800,An item to be put on a Pokémon's head. It makes the Pokemon feel more connected to the one above and boosts Religion-type moves.,0,0,0,
 534,HEADPHONES,Headphones,Headphones,1,9800,An item to be put on a Pokemon's head. It enables the Pokemon to listen to music while battling and boosts Culture-type moves.,0,0,0,
 535,MAGNIFYINGGLASS,Magnifying Glass,Magnifying Glasses,1,9800,An Item to be held by a Pokemon. It helps the Pokemon examine its opponent more carefully and boosts Science-type moves.,0,0,0,
 536,OLIVEBRANCH,Olive Branch,Olive Branches,1,9800,Heals the Pokemon greatly if it didn't attack on its turn.,0,0,0,
