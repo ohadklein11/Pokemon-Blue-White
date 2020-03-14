@@ -537,3 +537,9 @@
 537,POKX25,PokX25 Material,PokX25 Materials,1,2100,A very weird substance. It contains unstable nuclear material.,1,0,7,
 538,LIGHTSABER,LightSaber,LightSabers,1,5000,A special Lightsaber that is most favored by geeks who like the Star-Wars franchise.,1,0,7,
 539,MAGICWAND,Magic Wand,Magic Wands,1,5000,A Magical Wand that is most favored by geeks who like the Lord of the Rings franchise.,1,0,7,
+540,TM96,TM96,TM96s,4,2000,"An aura of holiness increases both defense stats.",3,0,0,HOLYAURA
+541,TM97,TM97,TM97s,4,3000,"A spiritual enlightment which hurts the foe greatly.",3,0,0,EPIPHANY
+542,TM98,TM98,TM98s,4,2000,"Goaaaaal!",3,0,0,BALLKICK
+543,TM99,TM99,TM99s,4,3000,"Resets all stats for every Pokemon that is in the battle.",3,0,0,ERASE
+544,TM99,TM99,TM99s,4,1000,"The user injects a syringe to inflict direct damage on the opponent.",3,0,0,INFECTIONSYRINGE
+545,TM100,TM100,TM100s,4,3000,"The user Shakes the foe's head in a way that leaves its brain in a traumatic state.",3,0,0,CONCUSSION
