@@ -130,4 +130,5 @@
 127,ELITETHREE_RELIGION,Elite Three Master,100,Battle League Religion.ogg,,,Male,,
 128,PROFESSOR_HERZEL,Professor,100,,,,Male,,
 129,PROFESSOR_DOCK,Professor,100,,,,Male,,
-130,FACTORY_MANAGER,Factory Manager,80,,,,Male,,
+130,PROFESSOR_DOCK_EVIL,Professor,100,,,,Male,,
+131,FACTORY_MANAGER,Factory Manager,80,,,,Male,,
