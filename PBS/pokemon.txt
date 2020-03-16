@@ -22058,7 +22058,7 @@ Pokedex=It looks like a regular walking staff, but if a trainer which holds it f
 FormName=Anger
 BattlerPlayerY=0
 BattlerEnemyY=27
-BattlerAltitude=19
+BattlerAltitude=25
 Evolutions=
 #-------------------------------
 [752]
@@ -22306,7 +22306,8 @@ Evolutions=
 [760]
 Name=Gloark
 InternalName=GLOARK
-Type1=CULTURE
+Type1=GHOST
+Type2=ELECTRIC
 BaseStats=65,45,60,120,90,90
 GenderRate=Female50Percent
 GrowthRate=Medium
