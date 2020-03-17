@@ -674,6 +674,14 @@ Outdoor=false
 WildBattleBGM=Mythical Battle.ogg
 ShowArea=false
 #-------------------------------
+[281]
+# Jail - Dark Gym
+Bicycle=false
+DarkMap=true
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
 [291]
 # Cave
 Weather=Blizzard,100
