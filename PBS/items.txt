@@ -357,7 +357,7 @@
 357,TM70,TM70,TM70s,4,1000,The user flashes a bright light that cuts the target's accuracy. It can also be used to illuminate caves.,3,0,0,FLASH
 358,TM71,TM71,TM71s,4,3000,The user stabs the foe with sharpened stones from below. It has a high critical-hit ratio.,3,0,0,STONEEDGE
 359,TM72,TM72,TM72s,4,3000,"After making its attack, the user rushes back to switch places with a party Pokémon in waiting.",3,0,0,VOLTSWITCH
-360,TM73,TM73,TM73s,4,2000,A weak electric charge is launched at the target. It causes paralysis if it hits.,3,0,0,THUNDERWAVE
+360,TM73,TM73,TM73s,4,2000,The user attacks by nuzzling its electrified cheeks against the target. This also leaves the target with paralysis.,3,0,0,NUZZLE
 361,TM74,TM74,TM74s,4,3000,"The user tackles the target with a high-speed spin. The slower the user, the greater the damage.",3,0,0,GYROBALL
 362,TM75,TM75,TM75s,4,1500,A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.,3,0,0,SWORDSDANCE
 363,TM76,TM76,TM76s,4,2000,"Resisting, the user attacks the opposing Pokémon. The targets' Sp. Atk stat is reduced.",3,0,0,STRUGGLEBUG
@@ -379,7 +379,7 @@
 379,TM92,TM92,TM92s,4,5500,The user creates a bizarre space in which slower Pokémon get to move first for five turns.,3,0,0,TRICKROOM
 380,TM93,TM93,TM93s,4,3000,The user shrouds itself in electricity and smashes into its target. It also damages the user a little.,3,0,0,WILDCHARGE
 381,TM94,TM94,TM94s,4,1000,The user attacks with a punch that can shatter a rock. It may also lower the target's Defense stat.,3,0,0,ROCKSMASH
-382,TM95,TM95,TM95s,4,3000,"The user yells as if it is ranting about something, making the target's Sp. Atk stat decrease.",3,0,0,SNARL
+382,TM95,TM95,TM95s,4,3000,"The user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.",3,0,0,BEATUP
 383,HM01,HM01,HM01s,4,0,The target is cut with a scythe or claw. It can also be used to cut down thin trees.,4,0,0,CUT
 384,HM02,HM02,HM02s,4,0,"The user soars, then strikes on the second turn. It can also be used to fly to any familiar town.",4,0,0,FLY
 385,HM03,HM03,HM03s,4,0,It swamps the area around the user with a giant wave. It can also be used for crossing water.,4,0,0,SURF
