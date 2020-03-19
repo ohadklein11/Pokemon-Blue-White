@@ -20186,7 +20186,7 @@ Rareness=45
 Happiness=70
 Abilities=PRANKSTER
 HiddenAbility=NOGUARD
-Moves=1,ASTONISH,1,SCARYFACE,4,BEATUP,8,TAUNT,12,OMINOUSWIND,16,TRICKORTREAT,20,FEINTATTACK,24,FAKETEARS,28,HEX,32,WILLOWISP,36,IRONHEAD,40,NIGHTSLASH,44,SHADOWPUNCH,48,PHANTOMFORCE
+Moves=1,ASTONISH,1,SCARYFACE,4,BEATUP,8,TAUNT,12,OMINOUSWIND,16,TRICKORTREAT,20,FEINTATTACK,24,FAKETEARS,28,HEX,32,WILLOWISP,38,IRONHEAD,44,NIGHTSLASH,50,SHADOWPUNCH,60,PHANTOMFORCE,62,THEBIGBANG
 EggMoves=LICK,CURSE,METALCLAW,SHADOWSNEAK,SUCKERPUNCH
 Compatibility=Amorphous
 StepsToHatch=5355
@@ -20201,7 +20201,7 @@ Pokedex=It is born straight after Purim, when a lonely spirit meets a deserted P
 BattlerPlayerY=6
 BattlerEnemyY=24
 BattlerAltitude=10
-Evolutions=DEADEX,Level,35
+Evolutions=DEADEX,Level,50
 #-------------------------------
 [690]
 Name=Deadex
@@ -20217,7 +20217,7 @@ Rareness=45
 Happiness=70
 Abilities=PRANKSTER
 HiddenAbility=NOGUARD
-Moves=1,ASTONISH,1,SCARYFACE,4,BEATUP,8,TAUNT,12,OMINOUSWIND,16,TRICKORTREAT,20,FEINTATTACK,24,FAKETEARS,28,HEX,32,WILLOWISP,38,IRONHEAD,44,NIGHTSLASH,50,SHADOWPUNCH,56,PHANTOMFORCE,62,THEBIGBANG
+Moves=1,ASTONISH,1,SCARYFACE,4,BEATUP,8,TAUNT,12,OMINOUSWIND,16,TRICKORTREAT,20,FEINTATTACK,24,FAKETEARS,28,HEX,32,WILLOWISP,38,IRONHEAD,44,NIGHTSLASH,50,SHADOWPUNCH,60,PHANTOMFORCE,64,THEBIGBANG
 Compatibility=Amorphous
 StepsToHatch=5355
 Height=0.5
@@ -20231,7 +20231,7 @@ Pokedex=Even before Pokemon Sword and Shield came to the world there was an anci
 BattlerPlayerY=1
 BattlerEnemyY=19
 BattlerAltitude=7
-Evolutions=DEADFIGHT,Level,45
+Evolutions=DEADFIGHT,Level,60
 #-------------------------------
 [691]
 Name=Deadfight
@@ -20277,7 +20277,7 @@ Rareness=255
 Happiness=70
 Abilities=ANALYTIC,MOTORDRIVE
 HiddenAbility=LIGHTMETAL
-Moves=1,CHARGE,4,STOREDPOWER,7,TELEPORT,10,CHARGEBEAM,13,IONDELUGE,16,SWIFT,19,PSYBEAM,22,CHIPAWAY,25,PARABOLICCHARGE,28,REWRITE,31,EXTRASENSORY,34,THUNDERWAVE,37,HEADCHARGE,40,VOLTSWITCH,43,THUNDERBOLT,46,LECTURE,49,PSYCHIC,53,EUREKA
+Moves=1,CHARGE,4,STOREDPOWER,7,TELEPORT,10,CHARGEBEAM,13,IONDELUGE,16,SWIFT,19,PSYBEAM,22,CHIPAWAY,25,PARABOLICCHARGE,28,REWRITE,32,EXTRASENSORY,36,THUNDERWAVE,40,HEADCHARGE,44,VOLTSWITCH,48,THUNDERBOLT,52,LECTURE,54,PSYCHIC,56,EUREKA
 EggMoves=DISCHARGE,FLAMECHARGE,WILDCHARGE,ENCORE,SIMPLEBEAM
 Compatibility=Mineral
 StepsToHatch=5355
@@ -20292,7 +20292,7 @@ WildItemUncommon=METALCOAT
 BattlerPlayerY=0
 BattlerEnemyY=18
 BattlerAltitude=19
-Evolutions=MEMODOK,Level,30
+Evolutions=MEMODOK,Level,52
 #-------------------------------
 [693]
 Name=Memodok
@@ -20352,7 +20352,7 @@ WildItemUncommon=METRONOME
 BattlerPlayerY=0
 BattlerEnemyY=13
 BattlerAltitude=0
-Evolutions=EIRIANSESS,Level,37
+Evolutions=EIRIANSESS,Level,45
 #-------------------------------
 [695]
 Name=Eiriansess
@@ -20512,7 +20512,7 @@ Rareness=180
 Happiness=70
 Abilities=GUTS,IRONFIST
 HiddenAbility=SCRAPPY
-Moves=1,MUDSLAP,1,TACKLE,5,KARATECHOP,8,MUDSPORT,13,NEEDLEARM,16,BULLDOZE,21,REVENGE,24,CAMOUFLAGE,29,MAGNITUDE,32,BULKUP,37,DRAINPUNCH,40,DRILLRUN,45,LEAFBLADE,48,CLOSECOMBAT
+Moves=1,MUDSLAP,1,TACKLE,5,KARATECHOP,8,MUDSPORT,13,NEEDLEARM,16,BULLDOZE,21,REVENGE,24,CAMOUFLAGE,29,MAGNITUDE,32,BULKUP,37,DRAINPUNCH,40,DRILLRUN,51,LEAFBLADE,56,CLOSECOMBAT
 EggMoves=DYNAMICPUNCH,FORESIGHT,SECRETPOWER,BULLETSEED,SEEDBOMB
 Compatibility=Humanlike,Field
 StepsToHatch=5355
@@ -20527,7 +20527,7 @@ Pokedex=It can hide very well between trees, and uses that ability to hide or to
 BattlerPlayerY=0
 BattlerEnemyY=11
 BattlerAltitude=0
-Evolutions=MAGIKIN,Level,34
+Evolutions=MAGIKIN,Level,50
 #-------------------------------
 [701]
 Name=Magikin
@@ -20586,7 +20586,7 @@ Pokedex=Common in cold climate. Warms itself with its thick wool. It jumps aroun
 BattlerPlayerY=0
 BattlerEnemyY=16
 BattlerAltitude=0
-Evolutions=HADSHOFKERN,Level,25
+Evolutions=HADSHOFKERN,Level,43
 #-------------------------------
 [703]
 Name=Had Shofkern
@@ -20601,7 +20601,7 @@ Rareness=120
 Happiness=70
 Abilities=ICEBODY
 HiddenAbility=RUNAWAY
-Moves=1,TACKLE,1,GROWL,4,POWDERSNOW,7,ECHOEDVOICE,10,ICESHARD,13,ROCKTOMB,13,HAZE,19,HAIL,22,AURORABEAM,25,ROCKSLIDE,30,HORNATTACK,32,REVENGE,35,AFTERYOU,39,COTTONGUARD,43,AVALANCHE
+Moves=1,TACKLE,1,GROWL,4,POWDERSNOW,7,ECHOEDVOICE,10,ICESHARD,13,ROCKTOMB,13,HAZE,19,HAIL,22,AURORABEAM,25,ROCKSLIDE,30,HORNATTACK,32,REVENGE,35,AFTERYOU,39,COTTONGUARD,43,AVALANCHE,47,HEADBUTT,51,HYPERVOICE
 Compatibility=Field
 StepsToHatch=5355
 Height=1.0
@@ -20614,7 +20614,7 @@ Pokedex=Lives and moves with its pack. Its duty is to protect its younglings. Th
 BattlerPlayerY=0
 BattlerEnemyY=13
 BattlerAltitude=0
-Evolutions=JACULY,Level,40
+Evolutions=JACULY,Level,53
 #-------------------------------
 [704]
 Name=Jaculy
@@ -20836,7 +20836,7 @@ Rareness=45
 Happiness=70
 Abilities=INTIMIDATE
 HiddenAbility=DRYSKIN
-Moves=1,TAILWHIP,1,SCRATCH,4,DRAGONRAGE,8,BITE,12,DRAGONBREATH,16,POISONTAIL,20,TAILSLAP,24,DRAGONTAIL,28,AQUATAIL,32,TAILWIND,36,DRAGONCLAW,40,ZENHEADBUTT,44,OUTRAGE
+Moves=1,TAILWHIP,1,SCRATCH,4,DRAGONRAGE,8,BITE,12,DRAGONBREATH,16,POISONTAIL,20,TAILSLAP,24,DRAGONTAIL,28,AQUATAIL,32,TAILWIND,36,DRAGONCLAW,42,ZENHEADBUTT,50,OUTRAGE
 EggMoves=FUTURESIGHT,DRACOMETEOR,PSYCHOCUT,AMNESIA,PSYWAVE
 Compatibility=Dragon,Monster
 StepsToHatch=7905
@@ -20851,7 +20851,7 @@ Pokedex=Spikdott is mostly friendly, but when it feels in danger it will use its
 BattlerPlayerY=0
 BattlerEnemyY=19
 BattlerAltitude=0
-Evolutions=THORNLIDOT,Level,38
+Evolutions=THORNLIDOT,Level,50
 #-------------------------------
 [712]
 Name=Thornlidot
@@ -21007,7 +21007,7 @@ WildItemUncommon=EVERSTONE
 BattlerPlayerY=0
 BattlerEnemyY=18
 BattlerAltitude=0
-Evolutions=KASHLOS,Level,25
+Evolutions=KASHLOS,Level,40
 #-------------------------------
 [717]
 Name=Kashlos
@@ -21036,7 +21036,7 @@ Pokedex=Lives underwater and near water resources. The colder its habitat - the 
 BattlerPlayerY=0
 BattlerEnemyY=11
 BattlerAltitude=0
-Evolutions=KOSHIMAAYAN,Level,43
+Evolutions=KOSHIMAAYAN,Level,53
 #-------------------------------
 [718]
 Name=Koshi Maayan
@@ -21535,7 +21535,7 @@ Rareness=255
 Happiness=70
 Abilities=STENCH,AFTERMATH
 HiddenAbility=DRYSKIN
-Moves=1,POISONSTING,1,STRINGSHOT,5,TWINEEDLE,8,POISONGAS,12,ACID,15,BUGBITE,19,BITE,22,ACIDSPRAY,26,CONCUSSION,29,BRICKBREAK,33,BULKUP,36,VENOSHOCK,40,SIGNALBEAM,43,POISONJAB,47,CRUNCH,50,UTURN,54,GUNKSHOT
+Moves=1,POISONSTING,1,STRINGSHOT,5,TWINEEDLE,8,POISONGAS,12,ACID,15,BUGBITE,19,BITE,22,ACIDSPRAY,26,CONCUSSION,29,BRICKBREAK,33,BULKUP,36,VENOSHOCK,40,SIGNALBEAM,43,POISONJAB,52,CRUNCH,53,UTURN,55,GUNKSHOT
 EggMoves=NIGHTSLASH,PURSUIT,RAGEPOWDER,SIGNALBEAM,TOXICSPIKES,TWINEEDLE,RADIATION,INFECTIONSYRINGE
 Compatibility=Bug
 StepsToHatch=4080
@@ -21550,7 +21550,7 @@ Pokedex=It secretes liquid which contains poisonous chemical matter which spread
 BattlerPlayerY=0
 BattlerEnemyY=17
 BattlerAltitude=0
-Evolutions=STINKBOMB,Level,25
+Evolutions=STINKBOMB,Level,51
 #-------------------------------
 [735]
 Name=Stink Bomb
@@ -21596,7 +21596,7 @@ Rareness=190
 Happiness=70
 Abilities=DAMP,PICKPOCKET
 HiddenAbility=RUNAWAY
-Moves=1,BITE,1,SNATCH,1,FELLSTINGER,5,PINMISSILE,9,STRUGGLEBUG,15,THIEF,19,DIG,23,IRONDEFENSE,29,NASTYPLOT,33,CRUNCH,37,XSCISSOR,43,BUGBUZZ,43,DARKPULSE,47,THEBIGBANG
+Moves=1,BITE,1,SNATCH,1,FELLSTINGER,5,PINMISSILE,9,STRUGGLEBUG,15,THIEF,19,DIG,23,IRONDEFENSE,27,POWERTRICK,31,NASTYPLOT,36,CRUNCH,41,XSCISSOR,48,BUGBUZZ,48,DARKPULSE,53,THEBIGBANG
 EggMoves=AGILITY,BUGBITE,CROSSPOISON,PURSUIT,SCREECH,TAUNT,HEADBUTT
 Compatibility=Bug
 StepsToHatch=5355
@@ -21611,7 +21611,7 @@ Pokedex=It steals food and valuables at night and stores them in its mouth. It h
 BattlerPlayerY=0
 BattlerEnemyY=16
 BattlerAltitude=0
-Evolutions=TIKTIKAN,Level,24
+Evolutions=TIKTIKAN,Level,51
 #-------------------------------
 [737]
 Name=Tiktikan
@@ -22506,7 +22506,7 @@ Pokedex=According to researches, Rocks that move at night are actually Rockton. 
 BattlerPlayerY=0
 BattlerEnemyY=14
 BattlerAltitude=0
-Evolutions=CROLLSTONE,Level,42
+Evolutions=CROLLSTONE,Level,45
 #-------------------------------
 [767]
 Name=Crollstone
