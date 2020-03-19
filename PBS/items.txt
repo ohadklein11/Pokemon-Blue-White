@@ -545,3 +545,5 @@
 545,TM100,TM100,TM100s,4,3000,"The user Shakes the foe's head in a way that leaves its brain in a traumatic state.",3,0,0,CONCUSSION
 546,EXPALL,Exp. All,Exp. Alls,8,0,TURNED ON. An Item that gives all Pokemon experience.,2,0,6,
 547,EXPALLOFF,Exp. All,Exp. Alls,8,0,TURNED OFF. An Item that gives all Pokemon experience.,2,0,6,
+548,FANGFOSSIL,Fang Fossil,Fang Fossils,1,1000,A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a jaw.,0,0,8,
+549,TUSKFOSSIL,Tusk Fossil,Tusk Fossils,1,1000,A fossil of an ancient Pokémon that lived in the snow. It appears to be part of a tusk.,0,0,8,
