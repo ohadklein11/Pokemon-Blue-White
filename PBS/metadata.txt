@@ -701,3 +701,12 @@ Outdoor=false
 BicycleAlways=false
 WildBattleBGM=Mythical Battle.ogg
 ShowArea=false
+#-------------------------------
+[293]
+# Cobieye Room
+Bicycle=false
+MapPosition=0,14,18
+DarkMap=true
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
