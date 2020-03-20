@@ -66,7 +66,7 @@ Name=Fire
 InternalName=FIRE
 IsSpecialType=true
 Weaknesses=GROUND,ROCK,WATER,CULTURE
-Resistances=BUG,STEEL,FIRE,GRASS,ICE
+Resistances=BUG,STEEL,FIRE,GRASS,ICE,FAIRY
 
 [11]
 Name=Water
@@ -107,7 +107,7 @@ Resistances=ICE
 Name=Dragon
 InternalName=DRAGON
 IsSpecialType=true
-Weaknesses=ICE,DRAGON
+Weaknesses=ICE,DRAGON,FAIRY
 Resistances=FIRE,WATER,GRASS,ELECTRIC,CULTURE
 
 [17]
