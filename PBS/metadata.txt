@@ -222,6 +222,7 @@ ShowArea=true
 Bicycle=true
 MapPosition=0,12,22
 Outdoor=true
+BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [044]
@@ -409,6 +410,7 @@ ShowArea=true
 Bicycle=true
 MapPosition=0,14,20
 Outdoor=true
+BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [084]
@@ -416,6 +418,7 @@ ShowArea=true
 Bicycle=true
 MapPosition=0,17,19
 Outdoor=true
+BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [085]
@@ -426,16 +429,39 @@ Outdoor=true
 BicycleAlways=false
 ShowArea=true
 #-------------------------------
+[086]
+# Stalactite Cave
+Bicycle=false
+MapPosition=0,18,19
+Outdoor=false
+BicycleAlways=false
+ShowArea=true
+#-------------------------------
 [087]
 # Stalactite Cave
+Bicycle=false
+MapPosition=0,18,19
+DarkMap=false
+Outdoor=false
+BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [088]
 # Unown Temple
 Bicycle=false
 MapPosition=0,18,19
+DarkMap=false
 Outdoor=false
+BicycleAlways=false
 ShowArea=true
+#-------------------------------
+[089]
+# Jerusalem-Route 90
+Bicycle=true
+MapPosition=0,19,21
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
 #-------------------------------
 [090]
 # Route 90
@@ -448,6 +474,7 @@ ShowArea=true
 [091]
 # Route 20
 Bicycle=true
+MapPosition=0,15,17
 Outdoor=true
 BicycleAlways=false
 ShowArea=true
@@ -465,16 +492,28 @@ MapPosition=0,20,14
 Outdoor=true
 ShowArea=true
 #-------------------------------
+[094]
+# Beit She'an-Route 90
+Bicycle=true
+MapPosition=0,20,14
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
 [095]
 # Route 60
 Bicycle=true
+MapPosition=0,18,16
 Outdoor=true
+BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [096]
 # Iron Forest
-Bicycle=true
-Outdoor=false
+Bicycle=false
+MapPosition=0,18,15
+Outdoor=true
+BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [097]
@@ -482,6 +521,7 @@ ShowArea=true
 Bicycle=true
 MapPosition=0,19,14
 Outdoor=true
+BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [098]
@@ -501,7 +541,9 @@ ShowArea=true
 [100]
 # Tiberias-Route 90
 Bicycle=true
+MapPosition=0,21,8
 Outdoor=false
+BicycleAlways=false
 ShowArea=false
 #-------------------------------
 [101]
@@ -509,6 +551,7 @@ ShowArea=false
 Bicycle=true
 MapPosition=0,19,8
 Outdoor=true
+BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [102]
@@ -517,6 +560,7 @@ Weather=Rain,100
 Bicycle=true
 MapPosition=0,18,7
 Outdoor=true
+BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [103]
@@ -532,6 +576,7 @@ Weather=Snow,100
 Bicycle=true
 MapPosition=0,21,5
 Outdoor=true
+BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [105]
@@ -540,6 +585,14 @@ Weather=Snow,100
 MapPosition=0,23,4
 Outdoor=true
 ShowArea=true
+#-------------------------------
+[106]
+# Hermon-Route 89
+Bicycle=false
+MapPosition=0,23,4
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
 #-------------------------------
 [107]
 # Dead Sea
@@ -551,8 +604,9 @@ ShowArea=true
 [108]
 # Dead Sea-Route 90
 Bicycle=true
-MapPosition=0,20,23
+MapPosition=0,20,24
 Outdoor=false
+BicycleAlways=false
 ShowArea=false
 #-------------------------------
 [109]
@@ -560,6 +614,7 @@ ShowArea=false
 Bicycle=true
 MapPosition=0,18,25
 Outdoor=true
+BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [110]
@@ -579,7 +634,16 @@ Bicycle=false
 MapPosition=0,11,27
 DarkMap=true
 Outdoor=false
+BicycleAlways=false
 ShowArea=true
+#-------------------------------
+[114]
+# Beersheva-tunnel
+Bicycle=false
+MapPosition=0,14,27
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
 #-------------------------------
 [115]
 # Gaza
@@ -588,8 +652,20 @@ MapPosition=0,9,26
 Outdoor=true
 ShowArea=true
 #-------------------------------
+[116]
+# Gaza-tunnel
+Bicycle=false
+MapPosition=0,9,26
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
 [117]
 # Route 80
+Bicycle=true
+MapPosition=0,17,29
+Outdoor=true
+BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [118]
@@ -601,6 +677,10 @@ ShowArea=true
 #-------------------------------
 [119]
 # Route 25
+Bicycle=true
+MapPosition=0,15,29
+Outdoor=true
+BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [121]
@@ -612,8 +692,19 @@ ShowArea=true
 #-------------------------------
 [127]
 # Route 204
+Bicycle=true
+MapPosition=0,16,34
 Outdoor=true
+BicycleAlways=false
 ShowArea=true
+#-------------------------------
+[135]
+# Underwater
+Bicycle=false
+MapPosition=0,13,17
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
 #-------------------------------
 [137]
 # Mizpe Ramon
@@ -624,7 +715,10 @@ ShowArea=true
 [138]
 # Nordau Beach
 DiveMap=135
+Bicycle=true
+MapPosition=0,13,17
 Outdoor=true
+BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [139]
@@ -632,6 +726,7 @@ ShowArea=true
 Bicycle=true
 MapPosition=0,15,41
 Outdoor=true
+BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [147]
@@ -647,14 +742,25 @@ ShowArea=true
 Bicycle=true
 MapPosition=0,6,7
 Outdoor=true
+BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [174]
 # Underwater Cave
+Bicycle=false
+MapPosition=0,12,17
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
 #-------------------------------
 [175]
 # Water cave
 DiveMap=174
+Bicycle=false
+MapPosition=0,12,17
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
 #-------------------------------
 [176]
 # The Mediterranean Sea
@@ -662,7 +768,16 @@ DiveMap=177
 Bicycle=true
 MapPosition=0,10,14
 Outdoor=true
+BicycleAlways=false
 ShowArea=true
+#-------------------------------
+[177]
+# Underwater
+Bicycle=false
+MapPosition=0,10,14
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
 #-------------------------------
 [280]
 # Water cave
@@ -686,6 +801,7 @@ ShowArea=false
 # Cave
 Weather=Blizzard,100
 Bicycle=false
+MapPosition=0,19,8
 DarkMap=true
 Outdoor=false
 BicycleAlways=false
