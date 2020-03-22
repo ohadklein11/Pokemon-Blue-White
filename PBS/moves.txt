@@ -619,7 +619,7 @@
 619,PRECIPICEBLADES,Precipice Blades,000,120,GROUND,Physical,85,10,0,04,0,bef,"The user attacks opposing Pokémon by manifesting the power of the land in fearsome blades of stone."
 620,DRAGONASCENT,Dragon Ascent,03B,120,DRAGON,Physical,100,5,0,00,0,abef,"After soaring upward, the user attacks its target by dropping out of the sky at high speeds, although it lowers its own Defense and Sp. Def in the process."
 621,HYPERSPACEFURY,Hyperspace Fury,13B,100,DARK,Physical,100,5,0,00,0,ef,"Using its many arms, the user unleashes a barrage of attacks that ignore the effects of moves like Protect and Detect. This attack lowers the user's Defense."
-622,INFECTIONSYRINGE,Infection Syringe,005,40,SCIENCE,Physical,100,15,75,00,0,bef,"The user injects a syringe to inflict direct damage on the opponent."
+622,INFECTIONSYRINGE,Infect Syringe,005,40,SCIENCE,Physical,100,15,75,00,0,bef,"The user injects a syringe to inflict direct damage on the opponent."
 623,ROBOTICARM,Robotic Arm,000,60,SCIENCE,Physical,100,20,0,00,0,abefj,"The user punches the enemy with a powerful robotic arm."
 624,CONCUSSION,Concussion,000,80,SCIENCE,Physical,100,15,0,00,0,abef,"The user Shakes the foe's head in a way that leaves its brain in a traumatic state."
 625,DEATHSYRINGE,Death Syringe,000,100,SCIENCE,Physical,80,10,0,00,0,bef,"The user injects a deadly syringe which heavily damages the foe."

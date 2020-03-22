@@ -131,5 +131,5 @@
 128,PROFESSOR_HERZEL,Professor,100,,,,Male,,
 129,PROFESSOR_DOCK,Professor,100,,,,Male,,
 130,PROFESSOR_DOCK_EVIL,Professor,100,,,,Male,,
-131,FACTORY_MANAGER,Factory Manager,80,,,,Male,,
+131,DOJOMASTER,Dojo Master,80,,,,Male,,
 132,TEAMHAMAS_SECRET,???,32,Battle Hamas.ogg,,IntroHamas.ogg,Male,,
