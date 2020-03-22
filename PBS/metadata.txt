@@ -74,32 +74,62 @@ MapPosition=0,14,10
 MapPosition=0,14,10
 #-------------------------------
 [014]
-# Cedolan Dept. 1F
-MapPosition=0,13,10
+# Gaza Dept. 1F
+Bicycle=false
+MapPosition=0,9,26
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=115,21,10
 #-------------------------------
 [015]
-# Cedolan Dept. 2F
-MapPosition=0,13,10
+# Gaza Dept. 2F
+Bicycle=false
+MapPosition=0,9,26
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=115,21,10
 #-------------------------------
 [016]
-# Cedolan Dept. 3F
-MapPosition=0,13,10
+# Gaza Dept. 3F
+Bicycle=false
+MapPosition=0,9,26
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=115,21,10
 #-------------------------------
 [017]
-# Cedolan Dept. 4F
-MapPosition=0,13,10
+# Gaza Dept. 4F
+Bicycle=false
+MapPosition=0,9,26
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=115,21,10
 #-------------------------------
 [018]
-# Cedolan Dept. 5F
-MapPosition=0,13,10
+# Gaza Dept. 5F
+Bicycle=false
+MapPosition=0,9,26
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=115,21,10
 #-------------------------------
 [019]
 # Cedolan Dept. Rooftop
 MapPosition=0,13,10
 #-------------------------------
 [020]
-# Cedolan Dept. Elevator
-MapPosition=0,13,10
+# Gaza Dept. Elevator
+Bicycle=false
+MapPosition=0,9,26
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=115,21,10
 #-------------------------------
 [021]
 # Route 2
@@ -158,8 +188,11 @@ ShowArea=true
 [032]
 # Water Tower
 Bicycle=false
+MapPosition=0,11,23
 Outdoor=false
-ShowArea=true
+BicycleAlways=false
+HealingSpot=33,17,23
+ShowArea=false
 #-------------------------------
 [033]
 # Yavne
@@ -217,6 +250,15 @@ Outdoor=true
 BicycleAlways=true
 ShowArea=true
 #-------------------------------
+[042]
+# Upper house
+Bicycle=false
+MapPosition=0,11,23
+Outdoor=false
+BicycleAlways=false
+HealingSpot=33,17,23
+ShowArea=false
+#-------------------------------
 [043]
 # Route 410
 Bicycle=true
@@ -258,6 +300,8 @@ ShowArea=true
 Bicycle=true
 MapPosition=0,13,21
 Outdoor=true
+BicycleAlways=false
+HealingSpot=48,30,32
 ShowArea=true
 #-------------------------------
 [049]
@@ -398,12 +442,59 @@ MapPosition=0,12,10
 MapPosition=1,13,16
 Outdoor=true
 #-------------------------------
+[076]
+# Player's house
+Bicycle=false
+MapPosition=0,11,23
+Outdoor=false
+BicycleAlways=false
+HealingSpot=33,17,23
+ShowArea=false
+#-------------------------------
+[077]
+# Professor's lab
+Bicycle=false
+MapPosition=0,11,23
+Outdoor=false
+BicycleAlways=false
+HealingSpot=33,17,23
+ShowArea=false
+#-------------------------------
+[078]
+# Right house
+Bicycle=false
+MapPosition=0,11,23
+Outdoor=false
+BicycleAlways=false
+HealingSpot=33,17,23
+ShowArea=false
+#-------------------------------
+[079]
+# Rehovot City Poké Center
+Bicycle=false
+MapPosition=0,13,21
+Outdoor=false
+BicycleAlways=false
+HealingSpot=48,30,32
+ShowArea=false
+#-------------------------------
 [081]
 # Tel Aviv
 Bicycle=true
 MapPosition=0,14,18
 Outdoor=true
 ShowArea=true
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[082]
+# Bike Shop
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
 #-------------------------------
 [083]
 # Route 431
@@ -425,6 +516,7 @@ ShowArea=true
 # Jerusalem
 Bicycle=true
 MapPosition=0,18,21
+HealingSpot=85,11,42
 Outdoor=true
 BicycleAlways=false
 ShowArea=true
@@ -482,7 +574,10 @@ ShowArea=true
 [092]
 # Raanana
 Bicycle=true
+MapPosition=0,16,16
+HealingSpot=92,37,33
 Outdoor=true
+BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [093]
@@ -491,6 +586,8 @@ Bicycle=true
 MapPosition=0,20,14
 Outdoor=true
 ShowArea=true
+HealingSpot=93,12,15
+BicycleAlways=false
 #-------------------------------
 [094]
 # Beit She'an-Route 90
@@ -529,14 +626,18 @@ ShowArea=true
 Bicycle=true
 MapPosition=0,17,9
 Outdoor=true
+BicycleAlways=false
 ShowArea=true
+HealingSpot=98,26,27
 #-------------------------------
 [099]
 # Tiberias
 Bicycle=true
 MapPosition=0,21,8
 Outdoor=true
+BicycleAlways=false
 ShowArea=true
+HealingSpot=99,16,34
 #-------------------------------
 [100]
 # Tiberias-Route 90
@@ -569,6 +670,8 @@ Bicycle=true
 MapPosition=0,18,5
 Outdoor=true
 ShowArea=true
+BicycleAlways=false
+HealingSpot=103,28,21
 #-------------------------------
 [104]
 # Route 89
@@ -582,9 +685,12 @@ ShowArea=true
 [105]
 # Mt. Hermon
 Weather=Snow,100
+Bicycle=false
 MapPosition=0,23,4
 Outdoor=true
+BicycleAlways=false
 ShowArea=true
+HealingSpot=105,35,18
 #-------------------------------
 [106]
 # Hermon-Route 89
@@ -600,6 +706,8 @@ Bicycle=true
 MapPosition=0,20,24
 Outdoor=true
 ShowArea=true
+BicycleAlways=false
+HealingSpot=107,21,15
 #-------------------------------
 [108]
 # Dead Sea-Route 90
@@ -623,10 +731,26 @@ Bicycle=true
 MapPosition=0,18,28
 Outdoor=true
 ShowArea=true
+BicycleAlways=false
+HealingSpot=110,49,37
 #-------------------------------
 [111]
 # Beer Sheva
+Bicycle=true
+MapPosition=0,14,27
+Outdoor=true
+BicycleAlways=false
 ShowArea=true
+HealingSpot=111,23,32
+#-------------------------------
+[112]
+# House to Gaza
+Bicycle=false
+MapPosition=0,14,27
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=111,23,32
 #-------------------------------
 [113]
 # Mysterious Tunnel
@@ -651,6 +775,8 @@ Bicycle=true
 MapPosition=0,9,26
 Outdoor=true
 ShowArea=true
+BicycleAlways=false
+HealingSpot=115,21,10
 #-------------------------------
 [116]
 # Gaza-tunnel
@@ -674,6 +800,8 @@ Bicycle=true
 MapPosition=0,16,31
 Outdoor=true
 ShowArea=true
+BicycleAlways=false
+HealingSpot=118,16,22
 #-------------------------------
 [119]
 # Route 25
@@ -683,12 +811,66 @@ Outdoor=true
 BicycleAlways=false
 ShowArea=true
 #-------------------------------
+[120]
+# Rehovot House 1
+Bicycle=false
+MapPosition=0,13,21
+Outdoor=false
+BicycleAlways=false
+HealingSpot=48,30,32
+ShowArea=false
+#-------------------------------
 [121]
 # Route 204
 Bicycle=true
 MapPosition=0,17,33
 Outdoor=true
 ShowArea=true
+#-------------------------------
+[122]
+# Green house 6
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[123]
+# Green house 1
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[124]
+# Green house 2
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[125]
+# Green house 3
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[126]
+# Green house 4
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
 #-------------------------------
 [127]
 # Route 204
@@ -698,6 +880,69 @@ Outdoor=true
 BicycleAlways=false
 ShowArea=true
 #-------------------------------
+[128]
+# Green house 5
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[129]
+# Green house 7
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[130]
+# Green house 8
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[131]
+# Green house 9
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[132]
+# Green house 10
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[133]
+# Green house 11
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[134]
+# Green house 12
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
 [135]
 # Underwater
 Bicycle=false
@@ -706,11 +951,23 @@ Outdoor=false
 BicycleAlways=false
 ShowArea=false
 #-------------------------------
+[136]
+# Green house 13
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
 [137]
 # Mizpe Ramon
 Bicycle=true
+MapPosition=0,14,35
 Outdoor=true
+BicycleAlways=false
 ShowArea=true
+HealingSpot=137,12,20
 #-------------------------------
 [138]
 # Nordau Beach
@@ -729,6 +986,69 @@ Outdoor=true
 BicycleAlways=false
 ShowArea=true
 #-------------------------------
+[140]
+# Park Green House 1
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[141]
+# Park Green House 2
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[142]
+# Park Green House 3
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[143]
+# Purple House 1
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[144]
+# Purple House 2
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[145]
+# Purple House 3
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[146]
+# Purple House 4
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
 [147]
 # Eilat
 DiveMap=158
@@ -736,6 +1056,107 @@ Bicycle=true
 MapPosition=0,15,48
 Outdoor=true
 ShowArea=true
+BicycleAlways=false
+HealingSpot=147,35,12
+#-------------------------------
+[148]
+# Poison Gym
+Bicycle=false
+MapPosition=0,17,9
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=98,26,27
+#-------------------------------
+[149]
+# Ice Gym
+Bicycle=false
+MapPosition=0,23,4
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=105,35,18
+#-------------------------------
+[150]
+# Fire Gym
+Bicycle=false
+MapPosition=0,16,31
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=118,16,22
+#-------------------------------
+[151]
+# Multi Gym
+Bicycle=false
+MapPosition=0,18,21
+HealingSpot=85,11,42
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
+[152]
+# Water Gym
+Bicycle=false
+MapPosition=0,15,48
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=147,35,12
+#-------------------------------
+[153]
+# Hamas base 2F
+Bicycle=false
+MapPosition=0,9,26
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=115,21,10
+#-------------------------------
+[154]
+# Ground Gym
+Bicycle=false
+MapPosition=0,14,27
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=111,23,32
+#-------------------------------
+[155]
+# Grass Gym
+Bicycle=false
+MapPosition=0,16,16
+HealingSpot=92,37,33
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
+[156]
+# Electric Gym
+Bicycle=false
+MapPosition=0,13,21
+Outdoor=false
+BicycleAlways=false
+HealingSpot=48,30,32
+ShowArea=false
+#-------------------------------
+[157]
+# Psychic Gym
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[158]
+# Underwater
+Bicycle=false
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+MapPosition=0,15,48
+HealingSpot=147,35,12
 #-------------------------------
 [159]
 # League Island
@@ -744,6 +1165,133 @@ MapPosition=0,6,7
 Outdoor=true
 BicycleAlways=false
 ShowArea=true
+HealingSpot=159,19,17
+#-------------------------------
+[160]
+# Culture Dojo
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[161]
+# Hamas base
+Bicycle=false
+MapPosition=0,9,26
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=115,21,10
+#-------------------------------
+[162]
+# Arcade Shop
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[163]
+# Berry Shop
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[164]
+# Nature Museum
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[165]
+# Broadcasting Tower
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[166]
+# Mall
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[167]
+# Rehovot House 2
+Bicycle=false
+MapPosition=0,13,21
+Outdoor=false
+BicycleAlways=false
+HealingSpot=48,30,32
+ShowArea=false
+#-------------------------------
+[168]
+# Trade Center
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[169]
+# Fortune Teller
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[170]
+# Harbor Center
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[171]
+# Environmental Protection
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[172]
+# Poke Center
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[173]
+# Poke Mart
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
 #-------------------------------
 [174]
 # Underwater Cave
@@ -779,6 +1327,915 @@ Outdoor=false
 BicycleAlways=false
 ShowArea=false
 #-------------------------------
+[178]
+# Weizmann's Science Institution
+Bicycle=false
+MapPosition=0,13,21
+Outdoor=false
+BicycleAlways=false
+HealingSpot=48,30,32
+ShowArea=false
+#-------------------------------
+[179]
+# Poke mart
+Bicycle=false
+MapPosition=0,13,21
+Outdoor=false
+BicycleAlways=false
+HealingSpot=48,30,32
+ShowArea=false
+#-------------------------------
+[180]
+# El Aksa Mosque
+Bicycle=false
+MapPosition=0,18,21
+HealingSpot=85,11,42
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
+[181]
+# Poke Center
+Bicycle=false
+MapPosition=0,18,21
+HealingSpot=85,11,42
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
+[182]
+# House 1
+Bicycle=false
+MapPosition=0,18,21
+HealingSpot=85,11,42
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
+[183]
+# House 2
+Bicycle=false
+MapPosition=0,18,21
+HealingSpot=85,11,42
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
+[184]
+# House 3
+Bicycle=false
+MapPosition=0,18,21
+HealingSpot=85,11,42
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
+[185]
+# House 4
+Bicycle=false
+MapPosition=0,18,21
+HealingSpot=85,11,42
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
+[186]
+# House 5
+Bicycle=false
+MapPosition=0,18,21
+HealingSpot=85,11,42
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
+[187]
+# House 6
+Bicycle=false
+MapPosition=0,18,21
+HealingSpot=85,11,42
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
+[188]
+# Big House 1
+Bicycle=false
+MapPosition=0,18,21
+HealingSpot=85,11,42
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
+[189]
+# Big House 2
+Bicycle=false
+MapPosition=0,18,21
+HealingSpot=85,11,42
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
+[190]
+# Poke Mart
+Bicycle=false
+MapPosition=0,18,21
+HealingSpot=85,11,42
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
+[191]
+# Blue House
+Bicycle=false
+MapPosition=0,18,21
+HealingSpot=85,11,42
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
+[193]
+# Gray Roof House
+Bicycle=false
+MapPosition=0,18,21
+HealingSpot=85,11,42
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
+[194]
+# Knesset
+Bicycle=false
+MapPosition=0,18,21
+HealingSpot=85,11,42
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
+[195]
+# Poke Center
+Bicycle=false
+MapPosition=0,16,16
+HealingSpot=92,37,33
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
+[196]
+# Poke Mart
+Bicycle=false
+MapPosition=0,16,16
+HealingSpot=92,37,33
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
+[197]
+# School
+Bicycle=false
+MapPosition=0,16,16
+HealingSpot=92,37,33
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
+[198]
+# House 1
+Bicycle=false
+MapPosition=0,16,16
+HealingSpot=92,37,33
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
+[199]
+# House 2
+Bicycle=false
+MapPosition=0,16,16
+HealingSpot=92,37,33
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
+[200]
+# Poke Center
+Bicycle=false
+MapPosition=0,20,14
+Outdoor=false
+ShowArea=false
+HealingSpot=93,12,15
+BicycleAlways=false
+#-------------------------------
+[201]
+# Poke Center
+Bicycle=false
+MapPosition=0,17,9
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=98,26,27
+#-------------------------------
+[202]
+# Poke Center
+Bicycle=false
+MapPosition=0,21,8
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=99,16,34
+#-------------------------------
+[203]
+# Poke Center
+Bicycle=false
+MapPosition=0,23,4
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=105,35,18
+#-------------------------------
+[204]
+# Poke Center
+Bicycle=false
+MapPosition=0,20,24
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=107,21,15
+#-------------------------------
+[205]
+# Poke Center
+Bicycle=false
+MapPosition=0,18,28
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=110,49,37
+#-------------------------------
+[206]
+# Poke Center
+Bicycle=false
+MapPosition=0,14,27
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=111,23,32
+#-------------------------------
+[207]
+# Poke Center
+Bicycle=false
+MapPosition=0,9,26
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=115,21,10
+#-------------------------------
+[208]
+# Blue House 1
+Bicycle=false
+MapPosition=0,16,31
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=118,16,22
+#-------------------------------
+[209]
+# Poke Center
+Bicycle=false
+MapPosition=0,14,35
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=137,12,20
+#-------------------------------
+[210]
+# Poke Center
+Bicycle=false
+MapPosition=0,15,48
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=147,35,12
+#-------------------------------
+[211]
+# Poke Center
+Bicycle=false
+MapPosition=0,18,5
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=103,28,21
+#-------------------------------
+[212]
+# Poke Mart
+Bicycle=false
+MapPosition=0,20,14
+Outdoor=false
+ShowArea=false
+HealingSpot=93,12,15
+BicycleAlways=false
+#-------------------------------
+[213]
+# Poke Center
+Bicycle=false
+MapPosition=0,16,31
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=118,16,22
+#-------------------------------
+[214]
+# Poke Mart
+Bicycle=false
+MapPosition=0,21,8
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=99,16,34
+#-------------------------------
+[215]
+# Poke Mart
+Bicycle=false
+MapPosition=0,23,4
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=105,35,18
+#-------------------------------
+[216]
+# Poke Mart
+Bicycle=false
+MapPosition=0,20,24
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=107,21,15
+#-------------------------------
+[217]
+# Poke Mart
+Bicycle=false
+MapPosition=0,18,28
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=110,49,37
+#-------------------------------
+[218]
+# Poke Mart
+Bicycle=false
+MapPosition=0,14,27
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=111,23,32
+#-------------------------------
+[219]
+# Poke Mart
+Bicycle=false
+MapPosition=0,17,9
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=98,26,27
+#-------------------------------
+[220]
+# Poke Mart
+Bicycle=false
+MapPosition=0,14,35
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=137,12,20
+#-------------------------------
+[221]
+# Poke Mart
+Bicycle=false
+MapPosition=0,18,5
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=103,28,21
+#-------------------------------
+[222]
+# Poke Mart
+Bicycle=false
+MapPosition=0,15,48
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=147,35,12
+#-------------------------------
+[223]
+# Blue House 1
+Bicycle=false
+MapPosition=0,20,14
+Outdoor=false
+ShowArea=false
+HealingSpot=93,12,15
+BicycleAlways=false
+#-------------------------------
+[224]
+# Blue House 2
+Bicycle=false
+MapPosition=0,20,14
+Outdoor=false
+ShowArea=false
+HealingSpot=93,12,15
+BicycleAlways=false
+#-------------------------------
+[225]
+# Green House 1
+Bicycle=false
+MapPosition=0,20,14
+Outdoor=false
+ShowArea=false
+HealingSpot=93,12,15
+BicycleAlways=false
+#-------------------------------
+[226]
+# Factory of Chemicals
+Bicycle=false
+MapPosition=0,17,9
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=98,26,27
+#-------------------------------
+[227]
+# Green House 1
+Bicycle=false
+MapPosition=0,17,9
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=98,26,27
+#-------------------------------
+[228]
+# Green House 2
+Bicycle=false
+MapPosition=0,17,9
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=98,26,27
+#-------------------------------
+[229]
+# Green House 3
+Bicycle=false
+MapPosition=0,17,9
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=98,26,27
+#-------------------------------
+[230]
+# Green House 4
+Bicycle=false
+MapPosition=0,17,9
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=98,26,27
+#-------------------------------
+[231]
+# Green House 1
+Bicycle=false
+MapPosition=0,21,8
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=99,16,34
+#-------------------------------
+[232]
+# Green House 2
+Bicycle=false
+MapPosition=0,21,8
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=99,16,34
+#-------------------------------
+[233]
+# Green House 3
+Bicycle=false
+MapPosition=0,21,8
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=99,16,34
+#-------------------------------
+[234]
+# Green House 4
+Bicycle=false
+MapPosition=0,21,8
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=99,16,34
+#-------------------------------
+[235]
+# Broadcasting Tower&Fossil Lab
+Bicycle=false
+MapPosition=0,23,4
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=105,35,18
+#-------------------------------
+[236]
+# Green House
+Bicycle=false
+MapPosition=0,20,24
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=107,21,15
+#-------------------------------
+[237]
+# Red House 1
+Bicycle=false
+MapPosition=0,18,28
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=110,49,37
+#-------------------------------
+[238]
+# Red House 2
+Bicycle=false
+MapPosition=0,18,28
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=110,49,37
+#-------------------------------
+[239]
+# Red House 3
+Bicycle=false
+MapPosition=0,18,28
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=110,49,37
+#-------------------------------
+[240]
+# Train Station
+Bicycle=false
+MapPosition=0,14,27
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=111,23,32
+#-------------------------------
+[241]
+# Blue house with 2 entrances
+Bicycle=false
+MapPosition=0,14,27
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=111,23,32
+#-------------------------------
+[242]
+# Blue house 1
+Bicycle=false
+MapPosition=0,14,27
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=111,23,32
+#-------------------------------
+[243]
+# Poke Mart
+Bicycle=false
+MapPosition=0,16,31
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=118,16,22
+#-------------------------------
+[244]
+# Pool
+Bicycle=false
+MapPosition=0,14,27
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=111,23,32
+#-------------------------------
+[245]
+# Green House
+Bicycle=false
+MapPosition=0,14,27
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=111,23,32
+#-------------------------------
+[246]
+# Ground House 1
+Bicycle=false
+MapPosition=0,9,26
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=115,21,10
+#-------------------------------
+[247]
+# Ground House 2
+Bicycle=false
+MapPosition=0,9,26
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=115,21,10
+#-------------------------------
+[248]
+# Operation Cave 1
+Bicycle=false
+MapPosition=0,9,26
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=115,21,10
+#-------------------------------
+[249]
+# Operation Cave 2
+Bicycle=false
+MapPosition=0,9,26
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=115,21,10
+#-------------------------------
+[250]
+# Blue House 2
+Bicycle=false
+MapPosition=0,16,31
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=118,16,22
+#-------------------------------
+[251]
+# Blue House 3
+Bicycle=false
+MapPosition=0,16,31
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=118,16,22
+#-------------------------------
+[252]
+# Large Blue House
+Bicycle=false
+MapPosition=0,16,31
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=118,16,22
+#-------------------------------
+[253]
+# Synagogue
+Bicycle=false
+MapPosition=0,17,9
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=98,26,27
+#-------------------------------
+[254]
+# Event Hall
+Bicycle=false
+MapPosition=0,16,31
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=118,16,22
+#-------------------------------
+[255]
+# Textile factory
+Bicycle=false
+MapPosition=0,16,31
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=118,16,22
+#-------------------------------
+[256]
+# Underground Nuclear Reactor
+Bicycle=false
+MapPosition=0,16,31
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=118,16,22
+#-------------------------------
+[257]
+# House 1
+Bicycle=false
+MapPosition=0,14,35
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=137,12,20
+#-------------------------------
+[258]
+# House 2
+Bicycle=false
+MapPosition=0,14,35
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=137,12,20
+#-------------------------------
+[259]
+# Watch Tower
+Bicycle=false
+MapPosition=0,14,35
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=137,12,20
+#-------------------------------
+[260]
+# House 1
+Bicycle=false
+MapPosition=0,18,5
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=103,28,21
+#-------------------------------
+[261]
+# House 2
+Bicycle=false
+MapPosition=0,18,5
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=103,28,21
+#-------------------------------
+[262]
+# House 3
+Bicycle=false
+MapPosition=0,18,5
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=103,28,21
+#-------------------------------
+[263]
+# Pokémon League
+Bicycle=false
+Outdoor=false
+BicycleAlways=false
+ShowArea=true
+MapPosition=0,6,7
+HealingSpot=159,19,17
+#-------------------------------
+[264]
+# Blue House 1
+Bicycle=false
+MapPosition=0,15,48
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=147,35,12
+#-------------------------------
+[265]
+# Blue House 2
+Bicycle=false
+MapPosition=0,15,48
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=147,35,12
+#-------------------------------
+[266]
+# Blue House 3
+Bicycle=false
+MapPosition=0,15,48
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=147,35,12
+#-------------------------------
+[267]
+# Blue House 4
+Bicycle=false
+MapPosition=0,15,48
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=147,35,12
+#-------------------------------
+[268]
+# Green House 1
+Bicycle=false
+MapPosition=0,15,48
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=147,35,12
+#-------------------------------
+[269]
+# Green House 2
+Bicycle=false
+MapPosition=0,15,48
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=147,35,12
+#-------------------------------
+[270]
+# Green House 3
+Bicycle=false
+MapPosition=0,15,48
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=147,35,12
+#-------------------------------
+[271]
+# Green House 4
+Bicycle=false
+MapPosition=0,15,48
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=147,35,12
+#-------------------------------
+[272]
+# Hotel
+Bicycle=false
+MapPosition=0,15,48
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=147,35,12
+#-------------------------------
+[273]
+# Dance Studio
+Bicycle=false
+MapPosition=0,15,48
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=147,35,12
+#-------------------------------
+[274]
+# Casino
+Bicycle=false
+MapPosition=0,15,48
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=147,35,12
+#-------------------------------
+[275]
+# Ice Mall
+Bicycle=false
+MapPosition=0,15,48
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=147,35,12
+#-------------------------------
+[276]
+# Move Relearner
+Bicycle=false
+MapPosition=0,15,48
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=147,35,12
+#-------------------------------
+[277]
+# Underwater Observatory
+Bicycle=false
+MapPosition=0,15,48
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=147,35,12
+#-------------------------------
+[278]
+# Pokémon Day Care
+Bicycle=false
+MapPosition=0,20,14
+Outdoor=false
+ShowArea=false
+HealingSpot=93,12,15
+BicycleAlways=false
+#-------------------------------
+[279]
+# Underwater Cave
+Bicycle=false
+MapPosition=0,15,48
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=147,35,12
+#-------------------------------
 [280]
 # Water cave
 DiveMap=279
@@ -788,14 +2245,99 @@ DarkMap=true
 Outdoor=false
 WildBattleBGM=Mythical Battle.ogg
 ShowArea=false
+MapPosition=0,15,48
+HealingSpot=147,35,12
 #-------------------------------
 [281]
 # Jail - Dark Gym
-Bicycle=false
 DarkMap=true
+Bicycle=false
+MapPosition=0,9,26
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=115,21,10
+#-------------------------------
+[282]
+# Science Entrance
+Bicycle=false
+MapPosition=0,6,7
 Outdoor=false
 BicycleAlways=false
 ShowArea=false
+HealingSpot=159,19,17
+#-------------------------------
+[283]
+# Science Elite
+Bicycle=false
+MapPosition=0,6,7
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=159,19,17
+#-------------------------------
+[284]
+# Culture Entrance
+Bicycle=false
+MapPosition=0,6,7
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=159,19,17
+#-------------------------------
+[285]
+# Culture Elite
+Bicycle=false
+MapPosition=0,6,7
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=159,19,17
+#-------------------------------
+[286]
+# Religion Entrance
+Bicycle=false
+MapPosition=0,6,7
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=159,19,17
+#-------------------------------
+[287]
+# Religion Elite
+Bicycle=false
+MapPosition=0,6,7
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=159,19,17
+#-------------------------------
+[288]
+# Hall of Fame
+Bicycle=false
+MapPosition=0,6,7
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=159,19,17
+#-------------------------------
+[289]
+# Champion Entrance
+Bicycle=false
+MapPosition=0,6,7
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=159,19,17
+#-------------------------------
+[290]
+# Champion room
+Bicycle=false
+MapPosition=0,6,7
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=159,19,17
 #-------------------------------
 [291]
 # Cave
@@ -817,6 +2359,8 @@ Outdoor=false
 BicycleAlways=false
 WildBattleBGM=Mythical Battle.ogg
 ShowArea=false
+MapPosition=0,18,21
+HealingSpot=85,11,42
 #-------------------------------
 [293]
 # Cobieye Room
@@ -826,3 +2370,112 @@ DarkMap=true
 Outdoor=false
 BicycleAlways=false
 ShowArea=false
+HealingSpot=81,40,35
+#-------------------------------
+[294]
+# Arcade
+Bicycle=false
+MapPosition=0,14,18
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=81,40,35
+#-------------------------------
+[295]
+# Hamas base 3F
+Bicycle=false
+MapPosition=0,9,26
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=115,21,10
+#-------------------------------
+[296]
+# Hamas base 4F
+Bicycle=false
+MapPosition=0,9,26
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=115,21,10
+#-------------------------------
+[297]
+# Hamas base 5F
+Bicycle=false
+MapPosition=0,9,26
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=115,21,10
+#-------------------------------
+[298]
+# Hamas base Elevator
+Bicycle=false
+MapPosition=0,9,26
+Outdoor=false
+ShowArea=false
+BicycleAlways=false
+HealingSpot=115,21,10
+#-------------------------------
+[299]
+# Mada-Tech
+Bicycle=false
+MapPosition=0,17,9
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=98,26,27
+#-------------------------------
+[301]
+# Building 1
+Bicycle=false
+MapPosition=0,17,9
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=98,26,27
+#-------------------------------
+[302]
+# Building 2
+Bicycle=false
+MapPosition=0,17,9
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=98,26,27
+#-------------------------------
+[303]
+# Zoo
+Bicycle=false
+MapPosition=0,17,9
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=98,26,27
+#-------------------------------
+[304]
+# Office tower
+Bicycle=false
+MapPosition=0,17,9
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=98,26,27
+#-------------------------------
+[305]
+# Move tutors
+Bicycle=false
+MapPosition=0,17,9
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=98,26,27
+#-------------------------------
+[306]
+# Name rater
+Bicycle=false
+MapPosition=0,17,9
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+HealingSpot=98,26,27
