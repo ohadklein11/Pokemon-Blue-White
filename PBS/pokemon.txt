@@ -20201,7 +20201,7 @@ Pokedex=It is born straight after Purim, when a lonely spirit meets a deserted P
 BattlerPlayerY=6
 BattlerEnemyY=24
 BattlerAltitude=10
-Evolutions=DEADEX,Level,50
+Evolutions=DEADEX,Level,45
 #-------------------------------
 [690]
 Name=Deadex
@@ -20231,7 +20231,7 @@ Pokedex=Even before Pokemon Sword and Shield came to the world there was an anci
 BattlerPlayerY=1
 BattlerEnemyY=19
 BattlerAltitude=7
-Evolutions=DEADFIGHT,Level,60
+Evolutions=DEADFIGHT,Level,55
 #-------------------------------
 [691]
 Name=Deadfight
@@ -20292,7 +20292,7 @@ WildItemUncommon=METALCOAT
 BattlerPlayerY=0
 BattlerEnemyY=18
 BattlerAltitude=19
-Evolutions=MEMODOK,Level,52
+Evolutions=MEMODOK,Level,44
 #-------------------------------
 [693]
 Name=Memodok
@@ -20352,7 +20352,7 @@ WildItemUncommon=METRONOME
 BattlerPlayerY=0
 BattlerEnemyY=13
 BattlerAltitude=0
-Evolutions=EIRIANSESS,Level,45
+Evolutions=EIRIANSESS,Level,37
 #-------------------------------
 [695]
 Name=Eiriansess
@@ -20512,7 +20512,7 @@ Rareness=180
 Happiness=70
 Abilities=GUTS,IRONFIST
 HiddenAbility=SCRAPPY
-Moves=1,MUDSLAP,1,TACKLE,5,KARATECHOP,8,MUDSPORT,13,NEEDLEARM,16,BULLDOZE,21,REVENGE,24,CAMOUFLAGE,29,MAGNITUDE,32,BULKUP,37,DRAINPUNCH,40,DRILLRUN,51,LEAFBLADE,56,CLOSECOMBAT
+Moves=1,MUDSLAP,1,TACKLE,5,KARATECHOP,8,MUDSPORT,13,NEEDLEARM,16,BULLDOZE,21,REVENGE,24,CAMOUFLAGE,29,MAGNITUDE,32,BULKUP,39,DRAINPUNCH,44,DRILLRUN,51,LEAFBLADE,56,CLOSECOMBAT
 EggMoves=DYNAMICPUNCH,FORESIGHT,SECRETPOWER,BULLETSEED,SEEDBOMB
 Compatibility=Humanlike,Field
 StepsToHatch=5355
@@ -20527,7 +20527,7 @@ Pokedex=It can hide very well between trees, and uses that ability to hide or to
 BattlerPlayerY=0
 BattlerEnemyY=11
 BattlerAltitude=0
-Evolutions=MAGIKIN,Level,50
+Evolutions=MAGIKIN,Level,42
 #-------------------------------
 [701]
 Name=Magikin
@@ -20572,7 +20572,7 @@ Rareness=255
 Happiness=70
 Abilities=ICEBODY
 HiddenAbility=RUNAWAY
-Moves=1,TACKLE,1,GROWL,4,POWDERSNOW,7,ECHOEDVOICE,10,ICESHARD,13,ROCKTOMB,13,HAZE,19,HAIL,22,AURORABEAM,25,ROCKSLIDE,28,HORNATTACK
+Moves=1,TACKLE,1,GROWL,4,POWDERSNOW,7,ECHOEDVOICE,10,ICESHARD,13,ROCKTOMB,13,HAZE,19,HAIL,22,AURORABEAM,25,ROCKSLIDE,30,HORNATTACK,32,REVENGE,35,AFTERYOU
 EggMoves=DEFENSECURL,ROLLOUT,MIST,DISARMINGVOICE
 Compatibility=Field
 StepsToHatch=5355
@@ -20586,7 +20586,7 @@ Pokedex=Common in cold climate. Warms itself with its thick wool. It jumps aroun
 BattlerPlayerY=0
 BattlerEnemyY=16
 BattlerAltitude=0
-Evolutions=HADSHOFKERN,Level,43
+Evolutions=HADSHOFKERN,Level,35
 #-------------------------------
 [703]
 Name=Had Shofkern
@@ -20601,7 +20601,7 @@ Rareness=120
 Happiness=70
 Abilities=ICEBODY
 HiddenAbility=RUNAWAY
-Moves=1,TACKLE,1,GROWL,4,POWDERSNOW,7,ECHOEDVOICE,10,ICESHARD,13,ROCKTOMB,13,HAZE,19,HAIL,22,AURORABEAM,25,ROCKSLIDE,30,HORNATTACK,32,REVENGE,35,AFTERYOU,39,COTTONGUARD,43,AVALANCHE,47,HEADBUTT,51,HYPERVOICE
+Moves=1,TACKLE,1,GROWL,4,POWDERSNOW,7,ECHOEDVOICE,10,ICESHARD,13,ROCKTOMB,13,HAZE,19,HAIL,22,AURORABEAM,25,ROCKSLIDE,30,HORNATTACK,32,REVENGE,35,AFTERYOU,39,COTTONGUARD,40,AVALANCHE,45,HEADBUTT,50,HYPERVOICE
 Compatibility=Field
 StepsToHatch=5355
 Height=1.0
@@ -20614,7 +20614,7 @@ Pokedex=Lives and moves with its pack. Its duty is to protect its younglings. Th
 BattlerPlayerY=0
 BattlerEnemyY=13
 BattlerAltitude=0
-Evolutions=JACULY,Level,53
+Evolutions=JACULY,Level,45
 #-------------------------------
 [704]
 Name=Jaculy
@@ -20851,7 +20851,7 @@ Pokedex=Spikdott is mostly friendly, but when it feels in danger it will use its
 BattlerPlayerY=0
 BattlerEnemyY=19
 BattlerAltitude=0
-Evolutions=THORNLIDOT,Level,50
+Evolutions=THORNLIDOT,Level,48
 #-------------------------------
 [712]
 Name=Thornlidot
@@ -20991,7 +20991,7 @@ Rareness=255
 Happiness=70
 Abilities=STORMDRAIN
 HiddenAbility=WATERABSORB
-Moves=1,POUND,4,HARDEN,7,MUDSLAP,10,ROCKTHROW,14,DEFENSECURL,17,ROCKTOMB,20,SANDTOMB,23,ROCKPOLISH,27,ROCKSLIDE
+Moves=1,POUND,4,HARDEN,7,MUDSLAP,10,ROCKTHROW,14,DEFENSECURL,17,ROCKTOMB,20,SANDTOMB,23,ROCKPOLISH,30,ROCKSLIDE
 EggMoves=ENDURE,FLAIL,ROCKCLIMB,AQUARING,WATERGUN,WATERPULSE,EMBER,FIREFANG
 Compatibility=Mineral
 StepsToHatch=4080
@@ -21007,7 +21007,7 @@ WildItemUncommon=EVERSTONE
 BattlerPlayerY=0
 BattlerEnemyY=18
 BattlerAltitude=0
-Evolutions=KASHLOS,Level,40
+Evolutions=KASHLOS,Level,32
 #-------------------------------
 [717]
 Name=Kashlos
@@ -21036,7 +21036,7 @@ Pokedex=Lives underwater and near water resources. The colder its habitat - the 
 BattlerPlayerY=0
 BattlerEnemyY=11
 BattlerAltitude=0
-Evolutions=KOSHIMAAYAN,Level,53
+Evolutions=KOSHIMAAYAN,Level,43
 #-------------------------------
 [718]
 Name=Koshi Maayan
@@ -21550,7 +21550,7 @@ Pokedex=It secretes liquid which contains poisonous chemical matter which spread
 BattlerPlayerY=0
 BattlerEnemyY=17
 BattlerAltitude=0
-Evolutions=STINKBOMB,Level,51
+Evolutions=STINKBOMB,Level,45
 #-------------------------------
 [735]
 Name=Stink Bomb
@@ -21611,7 +21611,7 @@ Pokedex=It steals food and valuables at night and stores them in its mouth. It h
 BattlerPlayerY=0
 BattlerEnemyY=16
 BattlerAltitude=0
-Evolutions=TIKTIKAN,Level,51
+Evolutions=TIKTIKAN,Level,45
 #-------------------------------
 [737]
 Name=Tiktikan
@@ -22506,7 +22506,7 @@ Pokedex=According to researches, Rocks that move at night are actually Rockton. 
 BattlerPlayerY=0
 BattlerEnemyY=14
 BattlerAltitude=0
-Evolutions=CROLLSTONE,Level,45
+Evolutions=CROLLSTONE,Level,42
 #-------------------------------
 [767]
 Name=Crollstone
@@ -23328,7 +23328,7 @@ Pokedex=Rabbis tell that the rebellion of Bar-Kohva was successful thanks to the
 BattlerPlayerY=0
 BattlerEnemyY=20
 BattlerAltitude=0
-Evolutions=CAPTAINROCK,Level,60
+Evolutions=CAPTAINROCK,Level,55
 #-------------------------------
 [795]
 Name=Captain Rock
@@ -23344,7 +23344,7 @@ Rareness=90
 Happiness=70
 Abilities=IRONFIST,KEENEYE
 HiddenAbility=BATTLEARMOR
-Moves=1,HARDEN,1,TACKLE,5,ROCKSMASH,9,ENDURE,13,PROTECT,17,SLINGOFDAVID,21,BULLETPUNCH,25,FORCEPALM,29,BULKUP,33,IRONHEAD,38,BULLDOZE,43,SUBMISSION,45,ROCKPOLISH,48,DRILLRUN,53,WILDCHARGE,63,CLOSECOMBAT,65,KINGSSHIELD
+Moves=1,HARDEN,1,TACKLE,5,ROCKSMASH,9,ENDURE,13,PROTECT,17,SLINGOFDAVID,21,BULLETPUNCH,25,FORCEPALM,29,BULKUP,33,IRONHEAD,38,BULLDOZE,43,SUBMISSION,45,ROCKPOLISH,48,DRILLRUN,53,WILDCHARGE,60,CLOSECOMBAT,63,KINGSSHIELD
 Compatibility=Humanlike,Mineral
 StepsToHatch=5355
 Height=2.0
@@ -23357,7 +23357,7 @@ Pokedex=The rebellion of the Hashmonaim is famous in Jewish culture, and it is s
 BattlerPlayerY=0
 BattlerEnemyY=15
 BattlerAltitude=0
-Evolutions=KINGROCK,Level,70
+Evolutions=KINGROCK,Level,65
 #-------------------------------
 [796]
 Name=King Rock
@@ -23373,7 +23373,7 @@ Rareness=45
 Happiness=70
 Abilities=IRONFIST,KEENEYE
 HiddenAbility=BATTLEARMOR
-Moves=1,HARDEN,1,TACKLE,5,ROCKSMASH,9,ENDURE,13,PROTECT,17,SLINGOFDAVID,21,BULLETPUNCH,25,FORCEPALM,29,BULKUP,33,IRONHEAD,38,BULLDOZE,43,SUBMISSION,48,DRILLRUN,63,CLOSECOMBAT,65,KINGSSHIELD,70,DEATHSYRINGE,70,SACRIFICE,70,ARMYATTACK
+Moves=1,HARDEN,1,TACKLE,5,ROCKSMASH,9,ENDURE,13,PROTECT,17,SLINGOFDAVID,21,BULLETPUNCH,25,FORCEPALM,29,BULKUP,33,IRONHEAD,38,BULLDOZE,43,SUBMISSION,48,DRILLRUN,60,CLOSECOMBAT,63,KINGSSHIELD,65,DEATHSYRINGE,65,SACRIFICE,65,ARMYATTACK
 Compatibility=Humanlike,Mineral
 StepsToHatch=5355
 Height=2.2
