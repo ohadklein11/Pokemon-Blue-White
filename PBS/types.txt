@@ -14,7 +14,7 @@ Resistances=ROCK,BUG,DARK
 Name=Flying
 InternalName=FLYING
 Weaknesses=ROCK,ELECTRIC,ICE
-Resistances=FIGHTING,BUG,GRASS,CULTURE
+Resistances=FIGHTING,BUG,GRASS
 Immunities=GROUND
 
 [3]
