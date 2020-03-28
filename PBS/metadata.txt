@@ -1453,6 +1453,15 @@ BicycleAlways=false
 HealingSpot=85,11,42
 ShowArea=false
 #-------------------------------
+[192]
+# top of watch tower
+Bicycle=false
+Outdoor=true
+MapPosition=0,14,35
+HealingSpot=137,12,20
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
 [193]
 # Gray Roof House
 Bicycle=false
