@@ -21306,8 +21306,8 @@ Habitat=Forest
 RegionalNumbers=77
 Kind=Owl
 Pokedex=Its imagination is so strong that it can turn it into reality. It likes fantasy-related items. It holds one with its wing, and the rest it stores in its nest.
-BattlerPlayerY=5
-BattlerEnemyY=19
+BattlerPlayerY=2
+BattlerEnemyY=24
 BattlerAltitude=21
 Evolutions=KOSMOSHOOF,Item,LIGHTSABER,YANSHUMORDOR,Item,MAGICWAND
 #-------------------------------
@@ -21385,7 +21385,7 @@ Rareness=120
 Happiness=70
 Abilities=BATTLEARMOR,SHELLARMOR
 HiddenAbility=MEGALAUNCHER
-Moves=1,METALCLAW,1,ENDURE,1,SANDTOMB,5,FURYCUTTER,9,IRONDEFENSE,13,LOCKON,16,BULLDOZE,20,ROBOTICARM,23,ROCKETSCIENCE,27,AUTOTOMIZE,30,SANDATTACK,34,DIG,38,BULLETPUNCH,41,AURASPHERE,45,IRONTAIL,47,SMACKDOWN,49,EARTHQUAKE
+Moves=1,METALCLAW,1,ENDURE,1,SANDTOMB,5,FURYCUTTER,9,IRONDEFENSE,13,LOCKON,16,BULLDOZE,20,ROBOTICARM,23,ROCKETSCIENCE,27,AUTOTOMIZE,30,SANDATTACK,34,DIG,38,BULLETPUNCH,41,AURASPHERE,46,IRONTAIL,48,SMACKDOWN,50,EARTHQUAKE
 EggMoves=WATERPULSE,DARKPULSE,MUDSHOT,SPIKES,POISONFANG,TOXICSPIKES
 Compatibility=Bug,Mineral
 StepsToHatch=5355
@@ -21399,7 +21399,7 @@ Pokedex=This Pokemon can protect itself from bullets and mines. Chefs almost mad
 BattlerPlayerY=0
 BattlerEnemyY=21
 BattlerAltitude=0
-Evolutions=TANKRAVI,Level,35
+Evolutions=TANKRAVI,Level,45
 #-------------------------------
 [730]
 Name=Tankravi
@@ -21415,7 +21415,7 @@ Rareness=60
 Happiness=70
 Abilities=BATTLEARMOR,SHELLARMOR
 HiddenAbility=MEGALAUNCHER
-Moves=1,METALCLAW,1,ENDURE,1,SANDTOMB,5,FURYCUTTER,9,IRONDEFENSE,13,LOCKON,16,BULLDOZE,20,ROBOTICARM,23,ROCKETSCIENCE,27,AUTOTOMIZE,30,SANDATTACK,34,DIG,38,BULLETPUNCH,43,AURASPHERE,49,IRONTAIL,53,SMACKDOWN,57,EARTHQUAKE,61,ARMYATTACK
+Moves=1,METALCLAW,1,ENDURE,1,SANDTOMB,5,FURYCUTTER,9,IRONDEFENSE,13,LOCKON,16,BULLDOZE,20,ROBOTICARM,23,ROCKETSCIENCE,27,AUTOTOMIZE,30,SANDATTACK,34,DIG,38,BULLETPUNCH,41,AURASPHERE,45,IRONTAIL,50,SMACKDOWN,54,EARTHQUAKE,59,ARMYATTACK
 Compatibility=Bug,Mineral
 StepsToHatch=5355
 Height=1.8
@@ -22027,8 +22027,8 @@ RegionalNumbers=101
 Kind=Alef-Bet
 Pokedex=It is known that this sinister Pokemon likes entering peoples mouths and make them grammar fanatics. Its favorite victims are teachers.
 FormName=Alef
-BattlerPlayerY=17
-BattlerEnemyY=26
+BattlerPlayerY=8
+BattlerEnemyY=30
 BattlerAltitude=19
 Evolutions=
 #-------------------------------
@@ -23215,7 +23215,7 @@ BattlerAltitude=0
 Evolutions=
 #-------------------------------
 [791]
-Name=Nine Matzpoon
+Name=Nine Mazpun
 InternalName=NINEMATZPOON
 Type1=CULTURE
 BaseStats=130,90,55,60,90,100
@@ -23357,7 +23357,7 @@ Pokedex=The rebellion of the Hashmonaim is famous in Jewish culture, and it is s
 BattlerPlayerY=0
 BattlerEnemyY=15
 BattlerAltitude=0
-Evolutions=KINGROCK,Level,65
+Evolutions=KINGROCK,Level,60
 #-------------------------------
 [796]
 Name=King Rock

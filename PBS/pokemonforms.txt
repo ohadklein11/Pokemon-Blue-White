@@ -464,19 +464,21 @@ FormName=Tet
 #-------------------------------
 [HEBREWUNOWN-9]
 FormName=Yud
-BattlerPlayerY=29
-BattlerEnemyY=36
+BattlerPlayerY=12
+BattlerEnemyY=34
 #-------------------------------
 [HEBREWUNOWN-10]
 FormName=Kaf
 #-------------------------------
 [HEBREWUNOWN-11]
 FormName=Kaf Sofit
-BattlerPlayerY=9
-BattlerEnemyY=18
+BattlerPlayerY=4
+BattlerEnemyY=27
 #-------------------------------
 [HEBREWUNOWN-12]
 FormName=Lamed
+BattlerPlayerY=2
+BattlerEnemyY=26
 #-------------------------------
 [HEBREWUNOWN-13]
 FormName=Mem
@@ -489,8 +491,8 @@ FormName=Nun
 #-------------------------------
 [HEBREWUNOWN-16]
 FormName=Nun Sofit
-BattlerPlayerY=7
-BattlerEnemyY=19
+BattlerPlayerY=4
+BattlerEnemyY=27
 #-------------------------------
 [HEBREWUNOWN-17]
 FormName=Sameh
@@ -503,8 +505,8 @@ FormName=Pei
 #-------------------------------
 [HEBREWUNOWN-20]
 FormName=Pei Sofit
-BattlerPlayerY=5
-BattlerEnemyY=15
+BattlerPlayerY=3
+BattlerEnemyY=26
 #-------------------------------
 [HEBREWUNOWN-21]
 FormName=Tzadik
@@ -512,12 +514,12 @@ FormName=Tzadik
 [HEBREWUNOWN-22]
 FormName=Tzadik Sofit
 BattlerPlayerY=2
-BattlerEnemyY=15
+BattlerEnemyY=26
 #-------------------------------
 [HEBREWUNOWN-23]
 FormName=Kuf
-BattlerPlayerY=0
-BattlerEnemyY=10
+BattlerPlayerY=1
+BattlerEnemyY=24
 #-------------------------------
 [HEBREWUNOWN-24]
 FormName=Resh

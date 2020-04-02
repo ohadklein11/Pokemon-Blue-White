@@ -1456,10 +1456,10 @@ ShowArea=false
 [192]
 # top of watch tower
 Bicycle=false
-Outdoor=true
 MapPosition=0,14,35
-HealingSpot=137,12,20
+Outdoor=true
 BicycleAlways=false
+HealingSpot=137,12,20
 ShowArea=false
 #-------------------------------
 [193]
@@ -2435,6 +2435,13 @@ BicycleAlways=false
 HealingSpot=98,26,27
 ShowArea=false
 #-------------------------------
+[300]
+# Dungeon 1
+Bicycle=false
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
 [301]
 # Building 1
 Bicycle=false
@@ -2487,4 +2494,18 @@ MapPosition=0,17,9
 Outdoor=false
 BicycleAlways=false
 HealingSpot=98,26,27
+ShowArea=false
+#-------------------------------
+[307]
+# Dungeon bottom
+Bicycle=false
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+#-------------------------------
+[308]
+# Dungeon Top
+Bicycle=false
+Outdoor=false
+BicycleAlways=false
 ShowArea=false
