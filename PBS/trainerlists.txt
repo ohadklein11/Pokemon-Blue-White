@@ -1,4 +1,4 @@
-#-------------------------------
+﻿#-------------------------------
 [DefaultTrainerList]
 Trainers=bttrainers.txt
 Pokemon=btpokemon.txt
@@ -16,7 +16,7 @@ Challenges=littlecupsingle,littlecupdouble
 [TrainerList]
 Trainers=pikacuptr.txt
 Pokemon=pikacuppm.txt
-Challenges=pikacupsingle,pikacupdouble
+Challenges=pikacupsingle,pikacupdouble,towerdouble
 #-------------------------------
 [TrainerList]
 Trainers=fancycupsingletr.txt
