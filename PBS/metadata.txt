@@ -324,8 +324,9 @@ MapPosition=0,16,10
 #-------------------------------
 [052]
 # Battle Frontier
-MapPosition=0,17,10
+Bicycle=true
 Outdoor=true
+BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [053]
@@ -2361,7 +2362,7 @@ ShowArea=false
 #-------------------------------
 [292]
 # Secret room
-Weather=Sunny,100
+Weather=Sun,100
 Bicycle=false
 MapPosition=0,18,21
 DarkMap=true
