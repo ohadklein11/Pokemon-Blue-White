@@ -1,1 +1,1 @@
-start /affinity 1 game.exe
+start /affinity 2 game.exe
