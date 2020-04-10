@@ -19292,7 +19292,7 @@ Pokedex=This pokemon lives inside of tree logs and chews on leaves. It is known 
 WildItemCommon=OCCABERRY
 WildItemUncommon=MIRACLESEED
 BattlerPlayerY=0
-BattlerEnemyY=18
+BattlerEnemyY=26
 BattlerAltitude=0
 Evolutions=GRASSYCADA,Level,20
 #-------------------------------
