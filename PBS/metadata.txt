@@ -1,7 +1,7 @@
 ﻿#-------------------------------
 [000]
-PlayerA=RIVAL_MICHAEL,trchar000,boy_bike,boy_surf,boy_run,boy_surf,boy_fish_offset,xxx
-PlayerB=RIVAL_SIVAN,trchar001,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,xxx
+PlayerA=RIVAL_MICHAEL,trchar000,boy_bike,boy_surf,boy_run,boy_surf,boy_fish_offset,boy_watering,xxx
+PlayerB=RIVAL_SIVAN,trchar001,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,girl_watering,xxx
 TrainerVictoryME=Battle victory trainer.ogg
 WildVictoryME=Battle victory wild.ogg
 TrainerBattleBGM=Trainer Battle.ogg
