@@ -567,7 +567,7 @@
 567,TRICKORTREAT,Trick-or-Treat,142,0,GHOST,Status,0,20,0,00,0,b,"The user takes the target trick-or-treating. This adds Ghost type to the target's type."
 568,NOBLEROAR,Noble Roar,13A,0,NORMAL,Status,0,30,0,00,0,bcfk,"Letting out a noble roar, the user intimidates the target and lowers its Attack and Sp. Atk stats."
 569,IONDELUGE,Ion Deluge,146,0,ELECTRIC,Status,0,25,0,20,1,,"The user disperses electrically charged particles, which changes Normal-type moves to Electric-type moves."
-570,PARABOLICCHARGE,Parabolic Charge,0DD,50,ELECTRIC,Special,100,20,0,00,0,bef,"The user attacks everything around it. The user's HP is restored by half the damage taken by those hit."
+570,PARABOLICCHARGE,Parabolic Charge,0DD,50,ELECTRIC,Special,100,20,0,00,0,bef,"The user attacks everything around it. The user's HP is restored by half the damage taken."
 571,FORESTSCURSE,Forest's Curse,143,0,GRASS,Status,0,20,0,00,0,b,"The user puts a forest curse on the target. Afflicted targets are now Grass type as well."
 572,PETALBLIZZARD,Petal Blizzard,000,90,GRASS,Physical,90,15,0,08,0,bef,"The user stirs up a violent petal blizzard and attacks everything around it."
 573,FREEZEDRY,Freeze-Dry,135,70,ICE,Special,100,20,0,00,0,bef,"The user cools the target. This may also leave the target frozen. This move is super effective on Water types."
