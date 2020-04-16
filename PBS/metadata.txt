@@ -2038,6 +2038,7 @@ Outdoor=false
 BicycleAlways=false
 HealingSpot=118,16,22
 ShowArea=false
+BattleBack=Lab
 #-------------------------------
 [257]
 # House 1

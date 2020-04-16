@@ -80,7 +80,7 @@ Name=Grass
 InternalName=GRASS
 IsSpecialType=true
 Weaknesses=FLYING,POISON,BUG,FIRE,ICE
-Resistances=GROUND,WATER,GRASS,ELECTRIC
+Resistances=GROUND,WATER,GRASS,ELECTRIC,RELIGION
 
 [13]
 Name=Electric
@@ -123,7 +123,7 @@ Name=Fairy
 InternalName=FAIRY
 IsSpecialType=true
 Weaknesses=POISON,STEEL
-Resistances=FIGHTING,BUG,DARK,RELIGION,SCIENCE
+Resistances=FIGHTING,BUG,DARK,SCIENCE
 Immunities=DRAGON
 
 [19]
@@ -146,6 +146,6 @@ Immunities=RELIGION
 Name=Religion
 InternalName=RELIGION
 IsSpecialType=true
-Weaknesses=POISON,FAIRY,ELECTRIC,SCIENCE
+Weaknesses=POISON,GRASS,ELECTRIC,SCIENCE
 Resistances=GHOST,DARK,PSYCHIC
 Immunities=CULTURE
