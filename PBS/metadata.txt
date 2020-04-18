@@ -21,7 +21,6 @@ ShowArea=true
 #-------------------------------
 [003]
 # \PN's house
-BattleBack=IndoorB
 MapPosition=0,13,12
 HealingSpot=2,8,8
 #-------------------------------
@@ -58,7 +57,6 @@ HealingSpot=8,17,11
 #-------------------------------
 [010]
 # Cedolan Gym
-BattleBack=IndoorB
 MapPosition=0,13,10
 #-------------------------------
 [011]
@@ -204,7 +202,6 @@ ShowArea=true
 #-------------------------------
 [034]
 # Ice Cave
-BattleBack=IndoorC
 Bicycle=true
 MapPosition=0,15,6
 #-------------------------------
@@ -221,7 +218,6 @@ HealingSpot=35,17,7
 #-------------------------------
 [037]
 # Pokémon League
-BattleBack=EliteA
 MapPosition=0,13,6
 #-------------------------------
 [038]
@@ -547,6 +543,7 @@ DarkMap=false
 Outdoor=false
 BicycleAlways=false
 ShowArea=true
+BattleBack=Unown
 #-------------------------------
 [089]
 # Jerusalem-Route 90
@@ -613,6 +610,7 @@ MapPosition=0,18,15
 Outdoor=true
 BicycleAlways=false
 ShowArea=true
+BattleBack=Forest
 #-------------------------------
 [097]
 # Route 71
@@ -1319,6 +1317,7 @@ MapPosition=0,10,14
 Outdoor=true
 BicycleAlways=false
 ShowArea=true
+BattleBack=Island
 #-------------------------------
 [177]
 # Underwater
@@ -2286,6 +2285,7 @@ Outdoor=false
 BicycleAlways=false
 HealingSpot=159,19,17
 ShowArea=false
+BattleBack=Science
 #-------------------------------
 [284]
 # Culture Entrance
@@ -2304,6 +2304,7 @@ Outdoor=false
 BicycleAlways=false
 HealingSpot=159,19,17
 ShowArea=false
+BattleBack=Culture
 #-------------------------------
 [286]
 # Religion Entrance
@@ -2322,6 +2323,7 @@ Outdoor=false
 BicycleAlways=false
 HealingSpot=159,19,17
 ShowArea=false
+BattleBack=Religion
 #-------------------------------
 [288]
 # Hall of Fame
@@ -2349,6 +2351,7 @@ Outdoor=false
 BicycleAlways=false
 HealingSpot=159,19,17
 ShowArea=false
+BattleBack=Champion
 #-------------------------------
 [291]
 # Cave
