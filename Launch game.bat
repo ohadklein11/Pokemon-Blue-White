@@ -1,1 +1,0 @@
-start /affinity 2 game.exe
