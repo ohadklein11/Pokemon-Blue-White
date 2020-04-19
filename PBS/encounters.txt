@@ -136,7 +136,7 @@ GRASSECT,10,12
 GRASSECT,10,12
 #-------------------------------
 084 # Route 1
-25,10,10
+25,25,25
 Water
 SNOPEKOR,30,35
 SNOPEKOR,30,35
@@ -190,7 +190,7 @@ FIRCOON,12,14
 GRASSECT,12,14
 #-------------------------------
 086 # Stalactite Cave
-25,10,10
+25,25,25
 Cave
 KOSHIS,26,28
 PIXITE,26,28
@@ -231,7 +231,7 @@ ROTAMNOON,40,50
 ROTAMNOON,40,50
 #-------------------------------
 087 # Stalactite Cave
-25,10,10
+25,25,25
 Cave
 KOSHIS,25,27
 PIXITE,25,27
@@ -288,7 +288,7 @@ HEBREWUNOWN,30
 HEBREWUNOWN,30
 #-------------------------------
 091 # Route 20
-25,10,10
+25,25,25
 Water
 EYCHTOOO,30,35
 SNOPEKOR,30,35
@@ -532,7 +532,7 @@ ILKABUTO,40,50
 ILKABUTO,40,50
 #-------------------------------
 101 # Route 77
-25,10,10
+25,25,25
 Water
 BUBBLY,30,35
 ILKABUTO,30,35
