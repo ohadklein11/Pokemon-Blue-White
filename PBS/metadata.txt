@@ -247,7 +247,7 @@ BicycleAlways=true
 ShowArea=true
 #-------------------------------
 [042]
-# Upper house
+# Yavne
 Bicycle=false
 MapPosition=0,11,23
 Outdoor=false
@@ -440,7 +440,7 @@ MapPosition=1,13,16
 Outdoor=true
 #-------------------------------
 [076]
-# Player's house
+# Yavne
 Bicycle=false
 MapPosition=0,11,23
 Outdoor=false
@@ -458,7 +458,7 @@ HealingSpot=33,17,23
 ShowArea=false
 #-------------------------------
 [078]
-# Right house
+# Yavne
 Bicycle=false
 MapPosition=0,11,23
 Outdoor=false
@@ -467,7 +467,7 @@ HealingSpot=33,17,23
 ShowArea=false
 #-------------------------------
 [079]
-# Rehovot City Poké Center
+# Poke Center
 Bicycle=false
 MapPosition=0,13,21
 Outdoor=false
@@ -476,7 +476,7 @@ HealingSpot=48,30,32
 ShowArea=false
 #-------------------------------
 [081]
-# Tel Aviv
+# DELETE
 Bicycle=true
 MapPosition=0,14,18
 Outdoor=true
@@ -537,16 +537,16 @@ ShowArea=true
 #-------------------------------
 [088]
 # Unown Temple
+BattleBack=Unown
 Bicycle=false
 MapPosition=0,18,19
 DarkMap=false
 Outdoor=false
 BicycleAlways=false
 ShowArea=true
-BattleBack=Unown
 #-------------------------------
 [089]
-# Jerusalem-Route 90
+# Jerusalem
 Bicycle=true
 MapPosition=0,19,21
 Outdoor=false
@@ -588,7 +588,7 @@ HealingSpot=93,12,15
 ShowArea=true
 #-------------------------------
 [094]
-# Beit She'an-Route 90
+# Beit She'an
 Bicycle=true
 MapPosition=0,20,14
 Outdoor=false
@@ -605,12 +605,12 @@ ShowArea=true
 #-------------------------------
 [096]
 # Iron Forest
+BattleBack=Forest
 Bicycle=false
 MapPosition=0,18,15
 Outdoor=true
 BicycleAlways=false
 ShowArea=true
-BattleBack=Forest
 #-------------------------------
 [097]
 # Route 71
@@ -639,7 +639,7 @@ HealingSpot=99,16,34
 ShowArea=true
 #-------------------------------
 [100]
-# Tiberias-Route 90
+# Tiberias
 Bicycle=true
 MapPosition=0,21,8
 Outdoor=false
@@ -692,7 +692,7 @@ HealingSpot=105,35,18
 ShowArea=true
 #-------------------------------
 [106]
-# Hermon-Route 89
+# Mt. Hermon
 Bicycle=false
 MapPosition=0,23,4
 Outdoor=false
@@ -709,7 +709,7 @@ HealingSpot=107,21,15
 ShowArea=true
 #-------------------------------
 [108]
-# Dead Sea-Route 90
+# Dead Sea
 Bicycle=true
 MapPosition=0,20,24
 Outdoor=false
@@ -743,7 +743,7 @@ HealingSpot=111,23,32
 ShowArea=true
 #-------------------------------
 [112]
-# House to Gaza
+# Beer Sheva
 Bicycle=false
 MapPosition=0,14,27
 Outdoor=false
@@ -752,7 +752,7 @@ HealingSpot=111,23,32
 ShowArea=false
 #-------------------------------
 [113]
-# Mysterious Tunnel
+# Tunnel to Gaza
 Bicycle=false
 MapPosition=0,11,27
 DarkMap=true
@@ -761,7 +761,7 @@ BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [114]
-# Beersheva-tunnel
+# Tunnel to Gaza
 Bicycle=false
 MapPosition=0,14,27
 Outdoor=false
@@ -778,7 +778,7 @@ HealingSpot=115,21,10
 ShowArea=true
 #-------------------------------
 [116]
-# Gaza-tunnel
+# Tunnel to Gaza
 Bicycle=false
 MapPosition=0,9,26
 Outdoor=false
@@ -811,7 +811,7 @@ BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [120]
-# Rehovot House 1
+# Rehovot
 Bicycle=false
 MapPosition=0,13,21
 Outdoor=false
@@ -827,7 +827,7 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [122]
-# Green house 6
+# Tel Aviv
 Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
@@ -836,7 +836,7 @@ HealingSpot=81,40,35
 ShowArea=false
 #-------------------------------
 [123]
-# Green house 1
+# Tel Aviv
 Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
@@ -845,7 +845,7 @@ HealingSpot=81,40,35
 ShowArea=false
 #-------------------------------
 [124]
-# Green house 2
+# Tel Aviv
 Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
@@ -854,7 +854,7 @@ HealingSpot=81,40,35
 ShowArea=false
 #-------------------------------
 [125]
-# Green house 3
+# Tel Aviv
 Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
@@ -863,7 +863,7 @@ HealingSpot=81,40,35
 ShowArea=false
 #-------------------------------
 [126]
-# Green house 4
+# Tel Aviv
 Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
@@ -880,7 +880,7 @@ BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [128]
-# Green house 5
+# Tel Aviv
 Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
@@ -889,7 +889,7 @@ HealingSpot=81,40,35
 ShowArea=false
 #-------------------------------
 [129]
-# Green house 7
+# Tel Aviv
 Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
@@ -898,7 +898,7 @@ HealingSpot=81,40,35
 ShowArea=false
 #-------------------------------
 [130]
-# Green house 8
+# Tel Aviv
 Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
@@ -907,7 +907,7 @@ HealingSpot=81,40,35
 ShowArea=false
 #-------------------------------
 [131]
-# Green house 9
+# Tel Aviv
 Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
@@ -916,7 +916,7 @@ HealingSpot=81,40,35
 ShowArea=false
 #-------------------------------
 [132]
-# Green house 10
+# Tel Aviv
 Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
@@ -925,7 +925,7 @@ HealingSpot=81,40,35
 ShowArea=false
 #-------------------------------
 [133]
-# Green house 11
+# Tel Aviv
 Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
@@ -934,7 +934,7 @@ HealingSpot=81,40,35
 ShowArea=false
 #-------------------------------
 [134]
-# Green house 12
+# Tel Aviv
 Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
@@ -943,7 +943,7 @@ HealingSpot=81,40,35
 ShowArea=false
 #-------------------------------
 [135]
-# Underwater
+# Nordau Beach
 Bicycle=false
 MapPosition=0,13,17
 Outdoor=false
@@ -951,7 +951,7 @@ BicycleAlways=false
 ShowArea=false
 #-------------------------------
 [136]
-# Green house 13
+# Tel Aviv
 Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
@@ -986,7 +986,7 @@ BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [140]
-# Park Green House 1
+# Tel Aviv
 Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
@@ -995,7 +995,7 @@ HealingSpot=81,40,35
 ShowArea=false
 #-------------------------------
 [141]
-# Park Green House 2
+# Tel Aviv
 Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
@@ -1004,7 +1004,7 @@ HealingSpot=81,40,35
 ShowArea=false
 #-------------------------------
 [142]
-# Park Green House 3
+# Tel Aviv
 Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
@@ -1013,7 +1013,7 @@ HealingSpot=81,40,35
 ShowArea=false
 #-------------------------------
 [143]
-# Purple House 1
+# Tel Aviv
 Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
@@ -1022,7 +1022,7 @@ HealingSpot=81,40,35
 ShowArea=false
 #-------------------------------
 [144]
-# Purple House 2
+# Tel Aviv
 Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
@@ -1031,7 +1031,7 @@ HealingSpot=81,40,35
 ShowArea=false
 #-------------------------------
 [145]
-# Purple House 3
+# Tel Aviv
 Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
@@ -1040,7 +1040,7 @@ HealingSpot=81,40,35
 ShowArea=false
 #-------------------------------
 [146]
-# Purple House 4
+# Tel Aviv
 Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
@@ -1060,6 +1060,7 @@ ShowArea=true
 #-------------------------------
 [148]
 # Poison Gym
+BattleBack=GymPoison
 Bicycle=false
 MapPosition=0,17,9
 Outdoor=false
@@ -1069,6 +1070,7 @@ ShowArea=false
 #-------------------------------
 [149]
 # Ice Gym
+BattleBack=GymIce
 Bicycle=false
 MapPosition=0,23,4
 Outdoor=false
@@ -1078,6 +1080,7 @@ ShowArea=false
 #-------------------------------
 [150]
 # Fire Gym
+BattleBack=GymFire
 Bicycle=false
 MapPosition=0,16,31
 Outdoor=false
@@ -1087,6 +1090,7 @@ ShowArea=false
 #-------------------------------
 [151]
 # Multi Gym
+BattleBack=GymMulti
 Bicycle=false
 MapPosition=0,18,21
 Outdoor=false
@@ -1096,6 +1100,7 @@ ShowArea=false
 #-------------------------------
 [152]
 # Water Gym
+BattleBack=GymWater
 Bicycle=false
 MapPosition=0,15,48
 Outdoor=false
@@ -1105,6 +1110,7 @@ ShowArea=false
 #-------------------------------
 [153]
 # Hamas base 2F
+BattleBack=GymDark
 Bicycle=false
 MapPosition=0,9,26
 Outdoor=false
@@ -1114,6 +1120,7 @@ ShowArea=false
 #-------------------------------
 [154]
 # Ground Gym
+BattleBack=GymGround
 Bicycle=false
 MapPosition=0,14,27
 Outdoor=false
@@ -1123,6 +1130,7 @@ ShowArea=false
 #-------------------------------
 [155]
 # Grass Gym
+BattleBack=GymGrass
 Bicycle=false
 MapPosition=0,16,16
 Outdoor=false
@@ -1132,6 +1140,7 @@ ShowArea=false
 #-------------------------------
 [156]
 # Electric Gym
+BattleBack=GymElectric
 Bicycle=false
 MapPosition=0,13,21
 Outdoor=false
@@ -1141,6 +1150,7 @@ ShowArea=false
 #-------------------------------
 [157]
 # Psychic Gym
+BattleBack=GymPsychic
 Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
@@ -1149,7 +1159,7 @@ HealingSpot=81,40,35
 ShowArea=false
 #-------------------------------
 [158]
-# Underwater
+# Eilat
 Bicycle=false
 MapPosition=0,15,48
 Outdoor=false
@@ -1177,6 +1187,7 @@ ShowArea=false
 #-------------------------------
 [161]
 # Hamas base
+BattleBack=GymDark
 Bicycle=false
 MapPosition=0,9,26
 Outdoor=false
@@ -1221,7 +1232,7 @@ HealingSpot=81,40,35
 ShowArea=false
 #-------------------------------
 [166]
-# Mall
+# Tel Aviv Mall
 Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
@@ -1230,7 +1241,7 @@ HealingSpot=81,40,35
 ShowArea=false
 #-------------------------------
 [167]
-# Rehovot House 2
+# Rehovot
 Bicycle=false
 MapPosition=0,13,21
 Outdoor=false
@@ -1293,7 +1304,7 @@ HealingSpot=81,40,35
 ShowArea=false
 #-------------------------------
 [174]
-# Underwater Cave
+# Nordau Beach
 Bicycle=false
 MapPosition=0,12,17
 Outdoor=false
@@ -1301,7 +1312,7 @@ BicycleAlways=false
 ShowArea=false
 #-------------------------------
 [175]
-# Water cave
+# Nordau Beach
 DiveMap=174
 Bicycle=false
 MapPosition=0,12,17
@@ -1312,15 +1323,15 @@ ShowArea=false
 [176]
 # The Mediterranean Sea
 DiveMap=177
+BattleBack=Island
 Bicycle=true
 MapPosition=0,10,14
 Outdoor=true
 BicycleAlways=false
 ShowArea=true
-BattleBack=Island
 #-------------------------------
 [177]
-# Underwater
+# The Mediterranean Sea
 Bicycle=false
 MapPosition=0,10,14
 Outdoor=false
@@ -1364,7 +1375,7 @@ HealingSpot=85,11,42
 ShowArea=false
 #-------------------------------
 [182]
-# House 1
+# Jerusalem
 Bicycle=false
 MapPosition=0,18,21
 Outdoor=false
@@ -1373,7 +1384,7 @@ HealingSpot=85,11,42
 ShowArea=false
 #-------------------------------
 [183]
-# House 2
+# Jerusalem
 Bicycle=false
 MapPosition=0,18,21
 Outdoor=false
@@ -1382,7 +1393,7 @@ HealingSpot=85,11,42
 ShowArea=false
 #-------------------------------
 [184]
-# House 3
+# Jerusalem
 Bicycle=false
 MapPosition=0,18,21
 Outdoor=false
@@ -1391,7 +1402,7 @@ HealingSpot=85,11,42
 ShowArea=false
 #-------------------------------
 [185]
-# House 4
+# Jerusalem
 Bicycle=false
 MapPosition=0,18,21
 Outdoor=false
@@ -1400,7 +1411,7 @@ HealingSpot=85,11,42
 ShowArea=false
 #-------------------------------
 [186]
-# House 5
+# Jerusalem
 Bicycle=false
 MapPosition=0,18,21
 Outdoor=false
@@ -1409,7 +1420,8 @@ HealingSpot=85,11,42
 ShowArea=false
 #-------------------------------
 [187]
-# House 6
+# Jerusalem
+BattleBack=Abulele
 Bicycle=false
 MapPosition=0,18,21
 Outdoor=false
@@ -1418,7 +1430,7 @@ HealingSpot=85,11,42
 ShowArea=false
 #-------------------------------
 [188]
-# Big House 1
+# Jerusalem
 Bicycle=false
 MapPosition=0,18,21
 Outdoor=false
@@ -1427,7 +1439,7 @@ HealingSpot=85,11,42
 ShowArea=false
 #-------------------------------
 [189]
-# Big House 2
+# Jerusalem
 Bicycle=false
 MapPosition=0,18,21
 Outdoor=false
@@ -1445,7 +1457,7 @@ HealingSpot=85,11,42
 ShowArea=false
 #-------------------------------
 [191]
-# Blue House
+# Move Deleter
 Bicycle=false
 MapPosition=0,18,21
 Outdoor=false
@@ -1454,7 +1466,7 @@ HealingSpot=85,11,42
 ShowArea=false
 #-------------------------------
 [192]
-# top of watch tower
+# Mizpe Ramon
 Bicycle=false
 MapPosition=0,14,35
 Outdoor=true
@@ -1463,7 +1475,7 @@ HealingSpot=137,12,20
 ShowArea=false
 #-------------------------------
 [193]
-# Gray Roof House
+# Jerusalem
 Bicycle=false
 MapPosition=0,18,21
 Outdoor=false
@@ -1499,7 +1511,7 @@ HealingSpot=92,37,33
 ShowArea=false
 #-------------------------------
 [197]
-# School
+# Raanana School
 Bicycle=false
 MapPosition=0,16,16
 Outdoor=false
@@ -1508,7 +1520,7 @@ HealingSpot=92,37,33
 ShowArea=false
 #-------------------------------
 [198]
-# House 1
+# Raanana
 Bicycle=false
 MapPosition=0,16,16
 Outdoor=false
@@ -1517,7 +1529,7 @@ HealingSpot=92,37,33
 ShowArea=false
 #-------------------------------
 [199]
-# House 2
+# Raanana
 Bicycle=false
 MapPosition=0,16,16
 Outdoor=false
@@ -1598,7 +1610,7 @@ HealingSpot=115,21,10
 ShowArea=false
 #-------------------------------
 [208]
-# Blue House 1
+# Dimona
 Bicycle=false
 MapPosition=0,16,31
 Outdoor=false
@@ -1733,7 +1745,7 @@ HealingSpot=147,35,12
 ShowArea=false
 #-------------------------------
 [223]
-# Blue House 1
+# Beit She'an
 Bicycle=false
 MapPosition=0,20,14
 Outdoor=false
@@ -1742,7 +1754,7 @@ HealingSpot=93,12,15
 ShowArea=false
 #-------------------------------
 [224]
-# Blue House 2
+# Beit She'an
 Bicycle=false
 MapPosition=0,20,14
 Outdoor=false
@@ -1751,7 +1763,7 @@ HealingSpot=93,12,15
 ShowArea=false
 #-------------------------------
 [225]
-# Green House 1
+# Beit She'an
 Bicycle=false
 MapPosition=0,20,14
 Outdoor=false
@@ -1760,7 +1772,7 @@ HealingSpot=93,12,15
 ShowArea=false
 #-------------------------------
 [226]
-# Factory of Chemicals
+# Haifa
 Bicycle=false
 MapPosition=0,17,9
 Outdoor=false
@@ -1769,7 +1781,7 @@ HealingSpot=98,26,27
 ShowArea=false
 #-------------------------------
 [227]
-# Green House 1
+# Haifa
 Bicycle=false
 MapPosition=0,17,9
 Outdoor=false
@@ -1778,7 +1790,7 @@ HealingSpot=98,26,27
 ShowArea=false
 #-------------------------------
 [228]
-# Green House 2
+# Haifa
 Bicycle=false
 MapPosition=0,17,9
 Outdoor=false
@@ -1787,7 +1799,7 @@ HealingSpot=98,26,27
 ShowArea=false
 #-------------------------------
 [229]
-# Green House 3
+# Haifa
 Bicycle=false
 MapPosition=0,17,9
 Outdoor=false
@@ -1796,7 +1808,7 @@ HealingSpot=98,26,27
 ShowArea=false
 #-------------------------------
 [230]
-# Green House 4
+# Haifa
 Bicycle=false
 MapPosition=0,17,9
 Outdoor=false
@@ -1805,7 +1817,7 @@ HealingSpot=98,26,27
 ShowArea=false
 #-------------------------------
 [231]
-# Green House 1
+# Tiberias
 Bicycle=false
 MapPosition=0,21,8
 Outdoor=false
@@ -1814,7 +1826,7 @@ HealingSpot=99,16,34
 ShowArea=false
 #-------------------------------
 [232]
-# Green House 2
+# Tiberias
 Bicycle=false
 MapPosition=0,21,8
 Outdoor=false
@@ -1823,7 +1835,7 @@ HealingSpot=99,16,34
 ShowArea=false
 #-------------------------------
 [233]
-# Green House 3
+# Tiberias
 Bicycle=false
 MapPosition=0,21,8
 Outdoor=false
@@ -1832,7 +1844,7 @@ HealingSpot=99,16,34
 ShowArea=false
 #-------------------------------
 [234]
-# Green House 4
+# Tiberias
 Bicycle=false
 MapPosition=0,21,8
 Outdoor=false
@@ -1841,7 +1853,7 @@ HealingSpot=99,16,34
 ShowArea=false
 #-------------------------------
 [235]
-# Broadcasting Tower&Fossil Lab
+# Mt. Hermon
 Bicycle=false
 MapPosition=0,23,4
 Outdoor=false
@@ -1850,7 +1862,7 @@ HealingSpot=105,35,18
 ShowArea=false
 #-------------------------------
 [236]
-# Green House
+# Dead Sea
 Bicycle=false
 MapPosition=0,20,24
 Outdoor=false
@@ -1859,7 +1871,7 @@ HealingSpot=107,21,15
 ShowArea=false
 #-------------------------------
 [237]
-# Red House 1
+# Arad
 Bicycle=false
 MapPosition=0,18,28
 Outdoor=false
@@ -1868,7 +1880,7 @@ HealingSpot=110,49,37
 ShowArea=false
 #-------------------------------
 [238]
-# Red House 2
+# Arad
 Bicycle=false
 MapPosition=0,18,28
 Outdoor=false
@@ -1877,7 +1889,7 @@ HealingSpot=110,49,37
 ShowArea=false
 #-------------------------------
 [239]
-# Red House 3
+# Arad
 Bicycle=false
 MapPosition=0,18,28
 Outdoor=false
@@ -1886,7 +1898,7 @@ HealingSpot=110,49,37
 ShowArea=false
 #-------------------------------
 [240]
-# Train Station
+# Beer Sheva Train
 Bicycle=false
 MapPosition=0,14,27
 Outdoor=false
@@ -1895,7 +1907,7 @@ HealingSpot=111,23,32
 ShowArea=false
 #-------------------------------
 [241]
-# Blue house with 2 entrances
+# Beer Sheva
 Bicycle=false
 MapPosition=0,14,27
 Outdoor=false
@@ -1904,7 +1916,7 @@ HealingSpot=111,23,32
 ShowArea=false
 #-------------------------------
 [242]
-# Blue house 1
+# Beer Sheva
 Bicycle=false
 MapPosition=0,14,27
 Outdoor=false
@@ -1922,7 +1934,7 @@ HealingSpot=118,16,22
 ShowArea=false
 #-------------------------------
 [244]
-# Pool
+# Beer Sheva Pool
 Bicycle=false
 MapPosition=0,14,27
 Outdoor=false
@@ -1931,7 +1943,7 @@ HealingSpot=111,23,32
 ShowArea=false
 #-------------------------------
 [245]
-# Green House
+# Beer Sheva
 Bicycle=false
 MapPosition=0,14,27
 Outdoor=false
@@ -1940,7 +1952,7 @@ HealingSpot=111,23,32
 ShowArea=false
 #-------------------------------
 [246]
-# Ground House 1
+# Gaza
 Bicycle=false
 MapPosition=0,9,26
 Outdoor=false
@@ -1949,7 +1961,7 @@ HealingSpot=115,21,10
 ShowArea=false
 #-------------------------------
 [247]
-# Ground House 2
+# Gaza
 Bicycle=false
 MapPosition=0,9,26
 Outdoor=false
@@ -1958,7 +1970,7 @@ HealingSpot=115,21,10
 ShowArea=false
 #-------------------------------
 [248]
-# Operation Cave 1
+# Gaza
 Bicycle=false
 MapPosition=0,9,26
 Outdoor=false
@@ -1967,7 +1979,7 @@ HealingSpot=115,21,10
 ShowArea=false
 #-------------------------------
 [249]
-# Operation Cave 2
+# Gaza
 Bicycle=false
 MapPosition=0,9,26
 Outdoor=false
@@ -1976,7 +1988,7 @@ HealingSpot=115,21,10
 ShowArea=false
 #-------------------------------
 [250]
-# Blue House 2
+# Dimona
 Bicycle=false
 MapPosition=0,16,31
 Outdoor=false
@@ -1985,7 +1997,7 @@ HealingSpot=118,16,22
 ShowArea=false
 #-------------------------------
 [251]
-# Blue House 3
+# Dimona
 Bicycle=false
 MapPosition=0,16,31
 Outdoor=false
@@ -1994,7 +2006,7 @@ HealingSpot=118,16,22
 ShowArea=false
 #-------------------------------
 [252]
-# Large Blue House
+# Dimona
 Bicycle=false
 MapPosition=0,16,31
 Outdoor=false
@@ -2003,7 +2015,7 @@ HealingSpot=118,16,22
 ShowArea=false
 #-------------------------------
 [253]
-# Synagogue
+# Haifa Synagogue
 Bicycle=false
 MapPosition=0,17,9
 Outdoor=false
@@ -2012,7 +2024,7 @@ HealingSpot=98,26,27
 ShowArea=false
 #-------------------------------
 [254]
-# Event Hall
+# Dimona Wedding Hall
 Bicycle=false
 MapPosition=0,16,31
 Outdoor=false
@@ -2030,17 +2042,17 @@ HealingSpot=118,16,22
 ShowArea=false
 #-------------------------------
 [256]
-# Underground Nuclear Reactor
+# Secret Lab
+BattleBack=Lab
 Bicycle=false
 MapPosition=0,16,31
 Outdoor=false
 BicycleAlways=false
 HealingSpot=118,16,22
 ShowArea=false
-BattleBack=Lab
 #-------------------------------
 [257]
-# House 1
+# Mizpe Ramon
 Bicycle=false
 MapPosition=0,14,35
 Outdoor=false
@@ -2049,7 +2061,7 @@ HealingSpot=137,12,20
 ShowArea=false
 #-------------------------------
 [258]
-# House 2
+# Mizpe Ramon
 Bicycle=false
 MapPosition=0,14,35
 Outdoor=false
@@ -2058,7 +2070,7 @@ HealingSpot=137,12,20
 ShowArea=false
 #-------------------------------
 [259]
-# Watch Tower
+# Mizpe Ramon
 Bicycle=false
 MapPosition=0,14,35
 Outdoor=false
@@ -2067,7 +2079,7 @@ HealingSpot=137,12,20
 ShowArea=false
 #-------------------------------
 [260]
-# House 1
+# Nahariya
 Bicycle=false
 MapPosition=0,18,5
 Outdoor=false
@@ -2076,7 +2088,7 @@ HealingSpot=103,28,21
 ShowArea=false
 #-------------------------------
 [261]
-# House 2
+# Nahariya
 Bicycle=false
 MapPosition=0,18,5
 Outdoor=false
@@ -2085,7 +2097,7 @@ HealingSpot=103,28,21
 ShowArea=false
 #-------------------------------
 [262]
-# House 3
+# Nahariya
 Bicycle=false
 MapPosition=0,18,5
 Outdoor=false
@@ -2103,7 +2115,7 @@ HealingSpot=159,19,17
 ShowArea=true
 #-------------------------------
 [264]
-# Blue House 1
+# Eilat
 Bicycle=false
 MapPosition=0,15,48
 Outdoor=false
@@ -2112,7 +2124,7 @@ HealingSpot=147,35,12
 ShowArea=false
 #-------------------------------
 [265]
-# Blue House 2
+# Eilat
 Bicycle=false
 MapPosition=0,15,48
 Outdoor=false
@@ -2121,7 +2133,7 @@ HealingSpot=147,35,12
 ShowArea=false
 #-------------------------------
 [266]
-# Blue House 3
+# Eilat
 Bicycle=false
 MapPosition=0,15,48
 Outdoor=false
@@ -2130,7 +2142,7 @@ HealingSpot=147,35,12
 ShowArea=false
 #-------------------------------
 [267]
-# Blue House 4
+# Eilat
 Bicycle=false
 MapPosition=0,15,48
 Outdoor=false
@@ -2139,7 +2151,7 @@ HealingSpot=147,35,12
 ShowArea=false
 #-------------------------------
 [268]
-# Green House 1
+# Eilat
 Bicycle=false
 MapPosition=0,15,48
 Outdoor=false
@@ -2148,7 +2160,7 @@ HealingSpot=147,35,12
 ShowArea=false
 #-------------------------------
 [269]
-# Green House 2
+# Eilat
 Bicycle=false
 MapPosition=0,15,48
 Outdoor=false
@@ -2157,7 +2169,7 @@ HealingSpot=147,35,12
 ShowArea=false
 #-------------------------------
 [270]
-# Green House 3
+# Eilat
 Bicycle=false
 MapPosition=0,15,48
 Outdoor=false
@@ -2166,7 +2178,7 @@ HealingSpot=147,35,12
 ShowArea=false
 #-------------------------------
 [271]
-# Green House 4
+# Eilat
 Bicycle=false
 MapPosition=0,15,48
 Outdoor=false
@@ -2238,7 +2250,7 @@ HealingSpot=93,12,15
 ShowArea=false
 #-------------------------------
 [279]
-# Underwater Cave
+# Eilat
 Bicycle=false
 MapPosition=0,15,48
 Outdoor=false
@@ -2247,7 +2259,7 @@ HealingSpot=147,35,12
 ShowArea=false
 #-------------------------------
 [280]
-# Water cave
+# Eilat
 DiveMap=279
 Weather=Storm,100
 Bicycle=false
@@ -2260,6 +2272,7 @@ ShowArea=false
 #-------------------------------
 [281]
 # Jail - Dark Gym
+BattleBack=CaveDarker
 Bicycle=false
 MapPosition=0,9,26
 DarkMap=true
@@ -2269,7 +2282,7 @@ HealingSpot=115,21,10
 ShowArea=false
 #-------------------------------
 [282]
-# Science Entrance
+# Pokémon League
 Bicycle=false
 MapPosition=0,6,7
 Outdoor=false
@@ -2278,17 +2291,17 @@ HealingSpot=159,19,17
 ShowArea=false
 #-------------------------------
 [283]
-# Science Elite
+# Pokémon League
+BattleBack=Science
 Bicycle=false
 MapPosition=0,6,7
 Outdoor=false
 BicycleAlways=false
 HealingSpot=159,19,17
 ShowArea=false
-BattleBack=Science
 #-------------------------------
 [284]
-# Culture Entrance
+# Pokémon League
 Bicycle=false
 MapPosition=0,6,7
 Outdoor=false
@@ -2297,17 +2310,17 @@ HealingSpot=159,19,17
 ShowArea=false
 #-------------------------------
 [285]
-# Culture Elite
+# Pokémon League
+BattleBack=Culture
 Bicycle=false
 MapPosition=0,6,7
 Outdoor=false
 BicycleAlways=false
 HealingSpot=159,19,17
 ShowArea=false
-BattleBack=Culture
 #-------------------------------
 [286]
-# Religion Entrance
+# Pokémon League
 Bicycle=false
 MapPosition=0,6,7
 Outdoor=false
@@ -2316,14 +2329,14 @@ HealingSpot=159,19,17
 ShowArea=false
 #-------------------------------
 [287]
-# Religion Elite
+# Pokémon League
+BattleBack=Religion
 Bicycle=false
 MapPosition=0,6,7
 Outdoor=false
 BicycleAlways=false
 HealingSpot=159,19,17
 ShowArea=false
-BattleBack=Religion
 #-------------------------------
 [288]
 # Hall of Fame
@@ -2335,7 +2348,7 @@ HealingSpot=159,19,17
 ShowArea=false
 #-------------------------------
 [289]
-# Champion Entrance
+# Pokémon League
 Bicycle=false
 MapPosition=0,6,7
 Outdoor=false
@@ -2344,14 +2357,14 @@ HealingSpot=159,19,17
 ShowArea=false
 #-------------------------------
 [290]
-# Champion room
+# Pokémon League
+BattleBack=Champion
 Bicycle=false
 MapPosition=0,6,7
 Outdoor=false
 BicycleAlways=false
 HealingSpot=159,19,17
 ShowArea=false
-BattleBack=Champion
 #-------------------------------
 [291]
 # Cave
@@ -2365,7 +2378,7 @@ WildBattleBGM=Mythical Battle.ogg
 ShowArea=false
 #-------------------------------
 [292]
-# Secret room
+# Knesset
 Weather=Sun,100
 Bicycle=false
 MapPosition=0,18,21
@@ -2377,7 +2390,7 @@ HealingSpot=85,11,42
 ShowArea=false
 #-------------------------------
 [293]
-# Cobieye Room
+# Broadcasting Tower
 Bicycle=false
 MapPosition=0,14,18
 DarkMap=true
@@ -2397,6 +2410,7 @@ ShowArea=false
 #-------------------------------
 [295]
 # Hamas base 3F
+BattleBack=GymDark
 Bicycle=false
 MapPosition=0,9,26
 Outdoor=false
@@ -2406,6 +2420,7 @@ ShowArea=false
 #-------------------------------
 [296]
 # Hamas base 4F
+BattleBack=GymDark
 Bicycle=false
 MapPosition=0,9,26
 Outdoor=false
@@ -2415,6 +2430,7 @@ ShowArea=false
 #-------------------------------
 [297]
 # Hamas base 5F
+BattleBack=GymDark
 Bicycle=false
 MapPosition=0,9,26
 Outdoor=false
@@ -2441,14 +2457,15 @@ HealingSpot=98,26,27
 ShowArea=false
 #-------------------------------
 [300]
-# Dungeon 1
+# Hamas Dungeon
+BattleBack=CaveDark
 Bicycle=false
 Outdoor=false
 BicycleAlways=false
 ShowArea=false
 #-------------------------------
 [301]
-# Building 1
+# Haifa Hotel
 Bicycle=false
 MapPosition=0,17,9
 Outdoor=false
@@ -2457,7 +2474,7 @@ HealingSpot=98,26,27
 ShowArea=false
 #-------------------------------
 [302]
-# Building 2
+# Haifa
 Bicycle=false
 MapPosition=0,17,9
 Outdoor=false
@@ -2466,7 +2483,7 @@ HealingSpot=98,26,27
 ShowArea=false
 #-------------------------------
 [303]
-# Zoo
+# Haifa Zoo
 Bicycle=false
 MapPosition=0,17,9
 Outdoor=false
@@ -2475,7 +2492,7 @@ HealingSpot=98,26,27
 ShowArea=false
 #-------------------------------
 [304]
-# Office tower
+# Haifa Office tower
 Bicycle=false
 MapPosition=0,17,9
 Outdoor=false
@@ -2502,15 +2519,81 @@ HealingSpot=98,26,27
 ShowArea=false
 #-------------------------------
 [307]
-# Dungeon bottom
+# Hamas Dungeon
+BattleBack=CaveDark
 Bicycle=false
 Outdoor=false
 BicycleAlways=false
 ShowArea=false
 #-------------------------------
 [308]
-# Dungeon Top
+# Hamas Dungeon
+BattleBack=CaveDarker
 Bicycle=false
 Outdoor=false
 BicycleAlways=false
 ShowArea=false
+#-------------------------------
+[313]
+# Tel Aviv
+Bicycle=true
+MapPosition=0,14,18
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+#-------------------------------
+[314]
+# Tel Aviv
+Bicycle=true
+MapPosition=0,14,18
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+#-------------------------------
+[315]
+# Tel Aviv
+Bicycle=true
+MapPosition=0,14,18
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+#-------------------------------
+[316]
+# Tel Aviv
+Bicycle=true
+MapPosition=0,14,18
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+#-------------------------------
+[317]
+# Tel Aviv
+Bicycle=true
+MapPosition=0,14,18
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+#-------------------------------
+[318]
+# Tel Aviv
+Bicycle=true
+MapPosition=0,14,18
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+#-------------------------------
+[319]
+# Tel Aviv
+Bicycle=true
+MapPosition=0,14,18
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+#-------------------------------
+[320]
+# Tel Aviv
+Bicycle=true
+MapPosition=0,14,18
+Outdoor=true
+BicycleAlways=false
+ShowArea=true

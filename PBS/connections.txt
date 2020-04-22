@@ -76,25 +76,71 @@
 119,East,49,118,West,0
 # The Mediterranean Sea (176) - League Island (159)
 176,North,0,159,South,9
+# Tel Aviv (319) - Tel Aviv (313)
+319,South,0,313,North,77
+# Tel Aviv (314) - Tel Aviv (313)
+314,West,0,313,East,0
+# Route 1 (84) - Tel Aviv (313)
+84,North,0,313,South,16
+# Tel Aviv (315) - Tel Aviv (313)
+315,South,0,313,North,0
+# Tel Aviv (317) - Tel Aviv (313)
+317,South,0,313,North,39
 # Route 410 (43) - Yavne (33)
 43,South,0,33,North,0
 # Nordau Beach (138) - The Mediterranean Sea (176)
 138,West,0,176,East,10
-# Tel Aviv (81) - Nordau Beach (138)
-81,North,0,138,South,30
+# Tel Aviv (314) - Tel Aviv (319)
+314,North,17,319,South,0
+# Tel Aviv (320) - Tel Aviv (319)
+320,South,0,319,North,4
+# Route 20 (91) - Tel Aviv (319)
+91,West,77,319,East,0
+# Tel Aviv (317) - Tel Aviv (319)
+317,East,0,319,West,0
+# Tel Aviv (318) - Tel Aviv (319)
+318,South,38,319,North,0
 # Route 1 (84) - Route 431 (83)
 84,South,2,83,North,0
 # Rehovot (48) - Route 431 (83)
 48,East,0,83,West,19
+# Tel Aviv (320) - Nordau Beach (138)
+320,North,0,138,South,111
+# Tel Aviv (316) - Nordau Beach (138)
+316,North,0,138,South,30
+# Tel Aviv (318) - Nordau Beach (138)
+318,North,0,138,South,69
+# Route 1 (84) - Tel Aviv (314)
+84,North,44,314,South,0
+# Tel Aviv (315) - Tel Aviv (314)
+315,South,60,314,North,0
+# Route 20 (91) - Tel Aviv (314)
+91,West,126,314,East,0
+# Tel Aviv (317) - Tel Aviv (314)
+317,South,21,314,North,0
+# Route 20 (91) - Tel Aviv (320)
+91,West,36,320,East,0
+# Tel Aviv (317) - Tel Aviv (320)
+317,North,42,320,South,0
+# Tel Aviv (318) - Tel Aviv (320)
+318,East,0,320,West,0
 # Raanana (92) - Route 60 (95)
 92,East,7,95,West,0
 # Route 20 (91) - Route 1 (84)
 91,South,0,84,North,103
-# Tel Aviv (81) - Route 1 (84)
-81,South,16,84,North,0
-# Tel Aviv (81) - Route 20 (91)
-81,East,0,91,West,36
+# Tel Aviv (316) - Tel Aviv (315)
+316,South,0,315,North,0
+# Tel Aviv (317) - Tel Aviv (315)
+317,West,4,315,East,0
+# Tel Aviv (318) - Tel Aviv (315)
+318,West,45,315,East,0
+# Tel Aviv (317) - Tel Aviv (316)
+317,West,0,316,East,41
+# Tel Aviv (318) - Tel Aviv (316)
+318,West,0,316,East,0
 # Raanana (92) - Route 20 (91)
 92,West,24,91,East,0
+# Tel Aviv (318) - Tel Aviv (317)
+318,South,0,317,North,0
 # Route 410 (43) - Rehovot (48)
 43,North,34,48,South,0
