@@ -144,3 +144,15 @@
 318,South,0,317,North,0
 # Route 410 (43) - Rehovot (48)
 43,North,34,48,South,0
+# Jerusalem (310) - Jerusalem (309)
+310,North,49,309,South,0
+# Jerusalem (311) - Jerusalem (309)
+311,North,0,309,South,0
+# Jerusalem (81) - Jerusalem (309)
+81,East,0,309,West,0
+# Jerusalem (311) - Jerusalem (310)
+311,West,0,310,East,0
+# Jerusalem (81) - Jerusalem (310)
+81,South,0,310,North,0
+# Jerusalem (81) - Jerusalem (311)
+81,East,54,311,West,0

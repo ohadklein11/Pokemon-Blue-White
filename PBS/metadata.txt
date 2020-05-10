@@ -476,7 +476,7 @@ HealingSpot=48,30,32
 ShowArea=false
 #-------------------------------
 [081]
-# DELETE
+# Jerusalem
 Bicycle=true
 MapPosition=0,14,18
 Outdoor=true
@@ -507,15 +507,6 @@ Bicycle=true
 MapPosition=0,17,19
 Outdoor=true
 BicycleAlways=false
-ShowArea=true
-#-------------------------------
-[085]
-# Jerusalem
-Bicycle=true
-MapPosition=0,18,21
-Outdoor=true
-BicycleAlways=false
-HealingSpot=85,11,42
 ShowArea=true
 #-------------------------------
 [086]
@@ -1178,6 +1169,7 @@ ShowArea=true
 #-------------------------------
 [160]
 # Culture Dojo
+BattleBack=Dojo
 Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
@@ -1772,7 +1764,7 @@ HealingSpot=93,12,15
 ShowArea=false
 #-------------------------------
 [226]
-# Haifa
+# Factory
 Bicycle=false
 MapPosition=0,17,9
 Outdoor=false
@@ -2391,6 +2383,7 @@ ShowArea=false
 #-------------------------------
 [293]
 # Broadcasting Tower
+BattleBack=LegendaryCulture
 Bicycle=false
 MapPosition=0,14,18
 DarkMap=true
@@ -2533,6 +2526,33 @@ Bicycle=false
 Outdoor=false
 BicycleAlways=false
 ShowArea=false
+#-------------------------------
+[309]
+# Jerusalem
+Bicycle=true
+MapPosition=0,14,18
+Outdoor=true
+BicycleAlways=false
+HealingSpot=81,40,35
+ShowArea=true
+#-------------------------------
+[310]
+# Jerusalem
+Bicycle=true
+MapPosition=0,14,18
+Outdoor=true
+BicycleAlways=false
+HealingSpot=81,40,35
+ShowArea=true
+#-------------------------------
+[311]
+# Jerusalem
+Bicycle=true
+MapPosition=0,14,18
+Outdoor=true
+BicycleAlways=false
+HealingSpot=81,40,35
+ShowArea=true
 #-------------------------------
 [313]
 # Tel Aviv
