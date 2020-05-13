@@ -990,12 +990,12 @@ TEAMHAMAS_M
 Mohammad
 2
 NINETZEL,48
-MEOWCHU,49
+NINECHESHIRE,49
 #-------------------------------
 TEAMHAMAS_F
 Masuda
 2
-MEOWCHU,48
+NINECHESHIRE,48
 KNIFILL,49
 #-------------------------------
 TEAMHAMAS_F
@@ -1053,7 +1053,7 @@ NINETZEL,48
 TEAMHAMAS_M
 Ali
 1
-MEOWCHU,49
+NINECHESHIRE,49
 #-------------------------------
 TEAMHAMAS_M
 Ahmed
@@ -1494,7 +1494,7 @@ VIRUS,48
 TEAMHAMAS_M
 Hamoud
 1
-MEOWCHU,48
+NINECHESHIRE,48
 #-------------------------------
 ATHLETE_F
 Sarit
@@ -1505,7 +1505,7 @@ KUALALUN,45
 MAN_BLONDHAIR
 Hanan
 2
-HOSO,49
+KESPIRAL,49
 ELIYAHOO,48
 #-------------------------------
 WOMAN_BLACKHAIR
@@ -1545,7 +1545,7 @@ MEMODOK,51
 ARS_F
 Shaked
 2
-MEOWCHU,51
+KESPIRAL,51
 ILAERODACTYL,52
 #-------------------------------
 HIKER
@@ -1592,7 +1592,7 @@ Dolev
 STRAKING,55
 KUALALUN,55
 YANSHUMORDOR,55
-KOSMOSHOOF,55
+KESPIRAL,55
 #-------------------------------
 MAN_BLACKHAIR
 Lior
@@ -1601,11 +1601,6 @@ TANKRAVI,55
 THREELYON,55
 STINKBOMB,55
 ILCHANDELURE,55
-#-------------------------------
-ATHLETE_M
-DELETE
-1
-TANKRAVI,10,,ROTOTILLER
 #-------------------------------
 TEAMHAMAS_M
 Nas'er
@@ -1624,7 +1619,7 @@ CROLLSTONE,43
 ELITEHAMAS_F
 Ada
 2
-MEOWCHU,64
+NINECHESHIRE,64
 NINETZEL,64
 #-------------------------------
 ELITEHAMAS_M
