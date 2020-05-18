@@ -2,7 +2,7 @@
 [0]
 Filename=mapRegion0.png
 Name="Israel Region"
-Point=11,23,Yavne,"Water Tower",33,17,15,
+Point=11,23,Yavne,"Water Tower",33,17,23,
 Point=13,21,Rehovot,"Electric Gym",48,30,32,
 Point=14,18,"Tel Aviv","Psychic Gym",318,1,35,
 Point=14,17,"Nordau Beach",,,,,
@@ -14,7 +14,7 @@ Point=19,21,Jerusalem,"Multi Gym",,,,
 Point=16,16,Raanana,"Grass Gym",92,37,33
 Point=18,15,"Iron Forest",,,,,
 Point=20,14,"Beit She'an",,93,12,15,
-Point=21,8,Tiberias,"Kinneret Sea",99,16,34,
+Point=21,8,Tiberias,"Kineret Sea",99,16,34,
 Point=17,9,Haifa,"Poison Gym",98,26,27,
 Point=18,5,Nahariya,,103,28,21,
 Point=23,4,"Mt. Hermon","Ice Gym",105,35,18,

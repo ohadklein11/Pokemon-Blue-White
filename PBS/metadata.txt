@@ -509,6 +509,17 @@ Outdoor=true
 BicycleAlways=false
 ShowArea=true
 #-------------------------------
+[085]
+# Eilat
+DiveMap=279
+Bicycle=false
+BicycleAlways=false
+Outdoor=false
+DarkMap=true
+ShowArea=false
+MapPosition=0,15,48
+HealingSpot=147,35,12
+#-------------------------------
 [086]
 # Stalactite Cave
 Bicycle=false
@@ -537,7 +548,7 @@ BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [089]
-# Jerusalem
+# Passage
 Bicycle=true
 MapPosition=0,19,21
 Outdoor=false
@@ -579,7 +590,7 @@ HealingSpot=93,12,15
 ShowArea=true
 #-------------------------------
 [094]
-# Beit She'an
+# Passage
 Bicycle=true
 MapPosition=0,20,14
 Outdoor=false
@@ -630,7 +641,7 @@ HealingSpot=99,16,34
 ShowArea=true
 #-------------------------------
 [100]
-# Tiberias
+# Passage
 Bicycle=true
 MapPosition=0,21,8
 Outdoor=false
@@ -683,7 +694,7 @@ HealingSpot=105,35,18
 ShowArea=true
 #-------------------------------
 [106]
-# Mt. Hermon
+# Passage
 Bicycle=false
 MapPosition=0,23,4
 Outdoor=false
@@ -700,7 +711,7 @@ HealingSpot=107,21,15
 ShowArea=true
 #-------------------------------
 [108]
-# Dead Sea
+# Passage
 Bicycle=true
 MapPosition=0,20,24
 Outdoor=false
@@ -734,7 +745,7 @@ HealingSpot=111,23,32
 ShowArea=true
 #-------------------------------
 [112]
-# Beer Sheva
+# Classified House
 Bicycle=false
 MapPosition=0,14,27
 Outdoor=false
@@ -743,7 +754,7 @@ HealingSpot=111,23,32
 ShowArea=false
 #-------------------------------
 [113]
-# Tunnel to Gaza
+# Secret Tunnel
 Bicycle=false
 MapPosition=0,11,27
 DarkMap=true
@@ -752,7 +763,7 @@ BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [114]
-# Tunnel to Gaza
+# Secret Tunnel
 Bicycle=false
 MapPosition=0,14,27
 Outdoor=false
@@ -769,7 +780,7 @@ HealingSpot=115,21,10
 ShowArea=true
 #-------------------------------
 [116]
-# Tunnel to Gaza
+# Secret Tunnel
 Bicycle=false
 MapPosition=0,9,26
 Outdoor=false
@@ -2252,7 +2263,6 @@ ShowArea=false
 #-------------------------------
 [280]
 # Eilat
-DiveMap=279
 Weather=Storm,100
 Bicycle=false
 MapPosition=0,15,48
@@ -2371,7 +2381,7 @@ ShowArea=false
 #-------------------------------
 [292]
 # Knesset
-Weather=Sun,100
+Weather=Sunny,100
 Bicycle=false
 MapPosition=0,18,21
 DarkMap=true
