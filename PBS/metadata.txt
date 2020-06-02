@@ -191,6 +191,7 @@ Outdoor=false
 BicycleAlways=false
 HealingSpot=33,17,23
 ShowArea=false
+BattleBack=CaveDark
 #-------------------------------
 [033]
 # Yavne

@@ -571,7 +571,7 @@
 571,FORESTSCURSE,Forest's Curse,143,0,GRASS,Status,0,20,0,00,0,b,"The user puts a forest curse on the target. Afflicted targets are now Grass type as well."
 572,PETALBLIZZARD,Petal Blizzard,000,90,GRASS,Physical,90,15,0,08,0,bef,"The user stirs up a violent petal blizzard and attacks everything around it."
 573,FREEZEDRY,Freeze-Dry,135,70,ICE,Special,100,20,0,00,0,bef,"The user cools the target. This may leave the target frozen. This move is super effective on Water."
-574,DISARMINGVOICE,Disarming Voice,0A5,15,FAIRY,Special,100,40,0,00,0,befk,"With a charming cry, the user does emotional damage to opposing Pokémon. This attack never misses."
+574,DISARMINGVOICE,Disarming Voice,0A5,40,FAIRY,Special,100,15,0,00,0,befk,"With a charming cry, the user does emotional damage to opposing Pokémon. This attack never misses."
 575,PARTINGSHOT,Parting Shot,151,0,DARK,Status,0,20,0,00,0,bck,"The user lowers the target's Attack and Sp. Atk. Then it switches with a party Pokémon."
 576,TOPSYTURVY,Topsy-Turvy,141,0,DARK,Status,0,20,0,00,0,bcf,"All stat changes affecting the target turn topsy-turvy and become the opposite of what they were."
 577,DRAININGKISS,Draining Kiss,14F,50,FAIRY,Special,100,10,0,00,0,abef,"The user steals the target's energy with a kiss. The user's HP is restored by over half of the damage."

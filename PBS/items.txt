@@ -380,12 +380,12 @@
 380,TM93,TM93,TM93s,4,3000,The user shrouds itself in electricity and smashes into its target. It also damages the user a little.,3,0,0,WILDCHARGE
 381,TM94,TM94,TM94s,4,1000,The user attacks with a punch that can shatter a rock. It may also lower the target's Defense stat.,3,0,0,ROCKSMASH
 382,TM95,TM95,TM95s,4,3000,"The user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.",3,0,0,BEATUP
-383,HM01,HM01,HM01s,4,0,The target is cut with a scythe or claw. It can also be used to cut down thin trees.,4,0,0,CUT
-384,HM02,HM02,HM02s,4,0,"The user soars, then strikes on the second turn. It can also be used to fly to any familiar town.",4,0,0,FLY
-385,HM03,HM03,HM03s,4,0,It swamps the area around the user with a giant wave. It can also be used for crossing water.,4,0,0,SURF
-386,HM04,HM04,HM04s,4,0,The target is slugged with a punch thrown at maximum power. This move can also be used to move boulders.,4,0,0,STRENGTH
-387,HM05,HM05,HM05s,4,0,The user charges the target at an awesome speed. It can also be used to climb a waterfall.,4,0,0,WATERFALL
-388,HM06,HM06,HM06s,4,0,"The user dives on the first turn, and floats up and attacks on the second. It can be used to dive in the ocean.",4,0,0,DIVE
+383,HM01,HM01,HM01s,4,3000,The target is cut with a scythe or claw. It can also be used to cut down thin trees.,4,0,0,CUT
+384,HM02,HM02,HM02s,4,5000,"The user soars, then strikes on the second turn. It can also be used to fly to any familiar town.",4,0,0,FLY
+385,HM03,HM03,HM03s,4,5000,It swamps the area around the user with a giant wave. It can also be used for crossing water.,4,0,0,SURF
+386,HM04,HM04,HM04s,4,4000,The target is slugged with a punch thrown at maximum power. This move can also be used to move boulders.,4,0,0,STRENGTH
+387,HM05,HM05,HM05s,4,4000,The user charges the target at an awesome speed. It can also be used to climb a waterfall.,4,0,0,WATERFALL
+388,HM06,HM06,HM06s,4,4000,"The user dives on the first turn, and floats up and attacks on the second. It can be used to dive in the ocean.",4,0,0,DIVE
 389,CHERIBERRY,Cheri Berry,Cheri Berries,5,500,It may be used or held by a Pokémon to recover from paralysis.,1,1,5,
 390,CHESTOBERRY,Chesto Berry,Chesto Berries,5,500,It may be used or held by a Pokémon to recover from sleep.,1,1,5,
 391,PECHABERRY,Pecha Berry,Pecha Berries,5,500,It may be used or held by a Pokémon to recover from poison.,1,1,5,
