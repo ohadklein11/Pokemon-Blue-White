@@ -483,7 +483,7 @@ Bicycle=true
 MapPosition=0,14,18
 Outdoor=true
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=true
 #-------------------------------
 [082]
@@ -492,7 +492,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [083]
@@ -836,7 +836,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [123]
@@ -845,7 +845,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [124]
@@ -854,7 +854,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [125]
@@ -863,7 +863,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [126]
@@ -872,7 +872,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [127]
@@ -889,7 +889,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [129]
@@ -898,7 +898,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [130]
@@ -907,7 +907,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [131]
@@ -916,7 +916,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [132]
@@ -925,7 +925,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [133]
@@ -934,7 +934,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [134]
@@ -943,7 +943,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [135]
@@ -960,7 +960,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [137]
@@ -995,7 +995,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [141]
@@ -1004,7 +1004,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [142]
@@ -1013,7 +1013,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [143]
@@ -1022,7 +1022,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [144]
@@ -1031,7 +1031,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [145]
@@ -1040,7 +1040,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [146]
@@ -1049,7 +1049,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [147]
@@ -1099,7 +1099,7 @@ Bicycle=false
 MapPosition=0,18,21
 Outdoor=false
 BicycleAlways=false
-HealingSpot=85,11,42
+HealingSpot=81,11,42
 ShowArea=false
 #-------------------------------
 [152]
@@ -1159,7 +1159,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [158]
@@ -1187,7 +1187,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [161]
@@ -1206,7 +1206,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [163]
@@ -1215,7 +1215,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [164]
@@ -1224,7 +1224,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [165]
@@ -1233,7 +1233,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [166]
@@ -1242,7 +1242,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [167]
@@ -1260,7 +1260,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [169]
@@ -1269,7 +1269,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [170]
@@ -1278,7 +1278,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [171]
@@ -1287,7 +1287,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [172]
@@ -1296,7 +1296,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [173]
@@ -1305,7 +1305,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [174]
@@ -1367,7 +1367,7 @@ Bicycle=false
 MapPosition=0,18,21
 Outdoor=false
 BicycleAlways=false
-HealingSpot=85,11,42
+HealingSpot=81,11,42
 ShowArea=false
 #-------------------------------
 [181]
@@ -1376,7 +1376,7 @@ Bicycle=false
 MapPosition=0,18,21
 Outdoor=false
 BicycleAlways=false
-HealingSpot=85,11,42
+HealingSpot=81,11,42
 ShowArea=false
 #-------------------------------
 [182]
@@ -1385,7 +1385,7 @@ Bicycle=false
 MapPosition=0,18,21
 Outdoor=false
 BicycleAlways=false
-HealingSpot=85,11,42
+HealingSpot=81,11,42
 ShowArea=false
 #-------------------------------
 [183]
@@ -1394,7 +1394,7 @@ Bicycle=false
 MapPosition=0,18,21
 Outdoor=false
 BicycleAlways=false
-HealingSpot=85,11,42
+HealingSpot=81,11,42
 ShowArea=false
 #-------------------------------
 [184]
@@ -1403,7 +1403,7 @@ Bicycle=false
 MapPosition=0,18,21
 Outdoor=false
 BicycleAlways=false
-HealingSpot=85,11,42
+HealingSpot=81,11,42
 ShowArea=false
 #-------------------------------
 [185]
@@ -1412,7 +1412,7 @@ Bicycle=false
 MapPosition=0,18,21
 Outdoor=false
 BicycleAlways=false
-HealingSpot=85,11,42
+HealingSpot=81,11,42
 ShowArea=false
 #-------------------------------
 [186]
@@ -1421,7 +1421,7 @@ Bicycle=false
 MapPosition=0,18,21
 Outdoor=false
 BicycleAlways=false
-HealingSpot=85,11,42
+HealingSpot=81,11,42
 ShowArea=false
 #-------------------------------
 [187]
@@ -1431,7 +1431,7 @@ Bicycle=false
 MapPosition=0,18,21
 Outdoor=false
 BicycleAlways=false
-HealingSpot=85,11,42
+HealingSpot=81,11,42
 ShowArea=false
 #-------------------------------
 [188]
@@ -1440,7 +1440,7 @@ Bicycle=false
 MapPosition=0,18,21
 Outdoor=false
 BicycleAlways=false
-HealingSpot=85,11,42
+HealingSpot=81,11,42
 ShowArea=false
 #-------------------------------
 [189]
@@ -1449,7 +1449,7 @@ Bicycle=false
 MapPosition=0,18,21
 Outdoor=false
 BicycleAlways=false
-HealingSpot=85,11,42
+HealingSpot=81,11,42
 ShowArea=false
 #-------------------------------
 [190]
@@ -1458,7 +1458,7 @@ Bicycle=false
 MapPosition=0,18,21
 Outdoor=false
 BicycleAlways=false
-HealingSpot=85,11,42
+HealingSpot=81,11,42
 ShowArea=false
 #-------------------------------
 [191]
@@ -1467,7 +1467,7 @@ Bicycle=false
 MapPosition=0,18,21
 Outdoor=false
 BicycleAlways=false
-HealingSpot=85,11,42
+HealingSpot=81,11,42
 ShowArea=false
 #-------------------------------
 [192]
@@ -1485,7 +1485,7 @@ Bicycle=false
 MapPosition=0,18,21
 Outdoor=false
 BicycleAlways=false
-HealingSpot=85,11,42
+HealingSpot=81,11,42
 ShowArea=false
 #-------------------------------
 [194]
@@ -1494,7 +1494,7 @@ Bicycle=false
 MapPosition=0,18,21
 Outdoor=false
 BicycleAlways=false
-HealingSpot=85,11,42
+HealingSpot=81,11,42
 ShowArea=false
 #-------------------------------
 [195]
@@ -2390,7 +2390,7 @@ DarkMap=true
 Outdoor=false
 BicycleAlways=false
 WildBattleBGM=Mythical Battle.ogg
-HealingSpot=85,11,42
+HealingSpot=81,11,42
 ShowArea=false
 #-------------------------------
 [293]
@@ -2401,7 +2401,7 @@ MapPosition=0,14,18
 DarkMap=true
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [294]
@@ -2410,7 +2410,7 @@ Bicycle=false
 MapPosition=0,14,18
 Outdoor=false
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=318,1,35
 ShowArea=false
 #-------------------------------
 [295]
@@ -2545,7 +2545,7 @@ Bicycle=true
 MapPosition=0,14,18
 Outdoor=true
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=81,11,42
 ShowArea=true
 #-------------------------------
 [310]
@@ -2554,7 +2554,7 @@ Bicycle=true
 MapPosition=0,14,18
 Outdoor=true
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=81,11,42
 ShowArea=true
 #-------------------------------
 [311]
@@ -2563,7 +2563,7 @@ Bicycle=true
 MapPosition=0,14,18
 Outdoor=true
 BicycleAlways=false
-HealingSpot=81,40,35
+HealingSpot=81,11,42
 ShowArea=true
 #-------------------------------
 [312]
@@ -2579,6 +2579,7 @@ Bicycle=true
 MapPosition=0,14,18
 Outdoor=true
 BicycleAlways=false
+HealingSpot=318,1,35
 ShowArea=true
 #-------------------------------
 [314]
@@ -2587,6 +2588,7 @@ Bicycle=true
 MapPosition=0,14,18
 Outdoor=true
 BicycleAlways=false
+HealingSpot=318,1,35
 ShowArea=true
 #-------------------------------
 [315]
@@ -2595,6 +2597,7 @@ Bicycle=true
 MapPosition=0,14,18
 Outdoor=true
 BicycleAlways=false
+HealingSpot=318,1,35
 ShowArea=true
 #-------------------------------
 [316]
@@ -2603,6 +2606,7 @@ Bicycle=true
 MapPosition=0,14,18
 Outdoor=true
 BicycleAlways=false
+HealingSpot=318,1,35
 ShowArea=true
 #-------------------------------
 [317]
@@ -2611,6 +2615,7 @@ Bicycle=true
 MapPosition=0,14,18
 Outdoor=true
 BicycleAlways=false
+HealingSpot=318,1,35
 ShowArea=true
 #-------------------------------
 [318]
@@ -2619,6 +2624,7 @@ Bicycle=true
 MapPosition=0,14,18
 Outdoor=true
 BicycleAlways=false
+HealingSpot=318,1,35
 ShowArea=true
 #-------------------------------
 [319]
@@ -2627,6 +2633,7 @@ Bicycle=true
 MapPosition=0,14,18
 Outdoor=true
 BicycleAlways=false
+HealingSpot=318,1,35
 ShowArea=true
 #-------------------------------
 [320]
@@ -2635,6 +2642,7 @@ Bicycle=true
 MapPosition=0,14,18
 Outdoor=true
 BicycleAlways=false
+HealingSpot=318,1,35
 ShowArea=true
 #-------------------------------
 [321]
