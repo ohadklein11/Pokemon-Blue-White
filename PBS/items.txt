@@ -549,3 +549,7 @@
 549,TUSKFOSSIL,Tusk Fossil,Tusk Fossils,1,1000,A fossil of an ancient Pokémon that lived in the snow. It appears to be part of a tusk.,0,0,8,
 550,ABILITYCAPSULE,Ability Capsule,Ability Capsules,1,10000,"A capsule that allows switching a Pokémon's ability when used.",1,0,0
 551,NATURECAPSULE,Nature Capsule,Nature Capsules,1,6000,"A capsule that allows switching a Pokémon's nature when used.",1,0,0
+552,FAIRYGEM,Fairy Gem,Fairy Gems,1,600,"A gem with an ordinary essence. When held, it strengthens the power of a Fairy-type move only once.",0,0,10,
+553,RELIGIONGEM,Religion Gem,Religion Gems,1,600,"A gem with an ordinary essence. When held, it strengthens the power of a Religion-type move only once.",0,0,10,
+554,CULTUREGEM,Culture Gem,Culture Gems,1,600,"A gem with an ordinary essence. When held, it strengthens the power of a Culture-type move only once.",0,0,10,
+555,SCIENCEGEM,Science Gem,Science Gems,1,600,"A gem with an ordinary essence. When held, it strengthens the power of a Science-type move only once.",0,0,10,
