@@ -694,6 +694,7 @@ Outdoor=true
 BicycleAlways=false
 HealingSpot=105,35,18
 ShowArea=true
+BattleBack=Snow
 #-------------------------------
 [106]
 # Passage
@@ -745,6 +746,7 @@ Outdoor=true
 BicycleAlways=false
 HealingSpot=111,23,32
 ShowArea=true
+BattleBack=Desert
 #-------------------------------
 [112]
 # Classified House
@@ -763,6 +765,7 @@ DarkMap=true
 Outdoor=false
 BicycleAlways=false
 ShowArea=true
+BattleBack=Cave
 #-------------------------------
 [114]
 # Secret Tunnel
@@ -771,12 +774,14 @@ MapPosition=0,14,27
 Outdoor=false
 BicycleAlways=false
 ShowArea=false
+BattleBack=Cave
 #-------------------------------
 [115]
 # Gaza
 Bicycle=true
 MapPosition=0,9,26
 Outdoor=true
+BattleBack=Desert
 BicycleAlways=false
 HealingSpot=115,21,10
 ShowArea=true
@@ -788,6 +793,7 @@ MapPosition=0,9,26
 Outdoor=false
 BicycleAlways=false
 ShowArea=false
+BattleBack=Cave
 #-------------------------------
 [117]
 # Route 80
@@ -803,6 +809,7 @@ Bicycle=true
 MapPosition=0,16,31
 Outdoor=true
 BicycleAlways=false
+BattleBack=Desert
 HealingSpot=118,16,22
 ShowArea=true
 #-------------------------------
@@ -970,6 +977,7 @@ MapPosition=0,14,35
 Outdoor=true
 BicycleAlways=false
 HealingSpot=137,12,20
+BattleBack=Desert
 ShowArea=true
 #-------------------------------
 [138]
@@ -979,6 +987,7 @@ Bicycle=true
 MapPosition=0,13,17
 Outdoor=true
 BicycleAlways=false
+BattleBack=Island
 ShowArea=true
 #-------------------------------
 [139]
@@ -1061,6 +1070,7 @@ Outdoor=true
 BicycleAlways=false
 HealingSpot=147,35,12
 ShowArea=true
+BattleBack=Desert
 #-------------------------------
 [148]
 # Poison Gym
@@ -2273,6 +2283,7 @@ Outdoor=false
 WildBattleBGM=Mythical Battle.ogg
 HealingSpot=147,35,12
 ShowArea=false
+BattleBack=Cave
 #-------------------------------
 [281]
 # Jail - Dark Gym
@@ -2380,6 +2391,7 @@ Outdoor=false
 BicycleAlways=false
 WildBattleBGM=Mythical Battle.ogg
 ShowArea=false
+BattleBack=Cave
 #-------------------------------
 [292]
 # Knesset
@@ -2392,6 +2404,7 @@ BicycleAlways=false
 WildBattleBGM=Mythical Battle.ogg
 HealingSpot=81,11,42
 ShowArea=false
+BattleBack=LegendaryCulture
 #-------------------------------
 [293]
 # Broadcasting Tower
