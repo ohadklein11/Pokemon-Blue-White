@@ -223,7 +223,7 @@
 223,AWAKENING,Awakening,Awakenings,2,250,A spray-type medicine. It awakens a Pokémon from the clutches of sleep.,1,1,0,
 224,ANTIDOTE,Antidote,Antidotes,2,100,A spray-type medicine. It lifts the effect of poison from one Pokémon.,1,1,0,
 225,BURNHEAL,Burn Heal,Burn Heals,2,250,A spray-type medicine. It heals a single Pokémon that is suffering from a burn.,1,1,0,
-226,PARALYZEHEAL,Paralyze Heal,Paralyze Heals,2,200,A spray-type medicine. It eliminates paralysis from a single Pokémon.,1,1,0,
+226,PARLYZHEAL,Paralyze Heal,Paralyze Heals,2,200,A spray-type medicine. It eliminates paralysis from a single Pokémon.,1,1,0,
 227,ICEHEAL,Ice Heal,Ice Heals,2,250,A spray-type medicine. It defrosts a Pokémon that has been frozen solid.,1,1,0,
 228,FULLHEAL,Full Heal,Full Heals,2,600,A spray-type medicine. It heals all the status problems of a single Pokémon.,1,1,0,
 229,LAVACOOKIE,Salted Cookie,Salted Cookies,2,500,Dead sea's local specialty. It heals all the status problems of one Pokémon.,1,1,0,
