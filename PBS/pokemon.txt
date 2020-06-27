@@ -22841,6 +22841,7 @@ Evolutions=
 Name=Negakosel
 InternalName=NEGAKOSEL
 Type1=SCIENCE
+Type2=DRAGON
 BaseStats=155,60,50,65,60,65
 GenderRate=Genderless
 GrowthRate=Parabolic
@@ -22849,8 +22850,8 @@ EffortPoints=0,0,0,1,1,0
 Rareness=45
 Happiness=70
 Abilities=TORRENT,BLAZE
-HiddenAbility=OWNTEMPO
-Moves=1,ABSORB,1,EMBER,1,WATERGUN,1,LEER,6,RADIATION,10,SUPERSONIC,12,INFECTIONSYRINGE,14,MEGADRAIN,16,VACCINATION,18,AQUARING,22,PAINSPLIT,25,FIREFANG,29,AQUAJET,32,STEROIDS,34,TRIATTACK,36,ENERGYBALL,36,FLAMETHROWER,36,AQUATAIL,39,CONCUSSION,43,ROCKETSCIENCE,46,DEATHSYRINGE
+HiddenAbility=OVERGROW
+Moves=1,ABSORB,1,EMBER,1,WATERGUN,1,LEER,6,RADIATION,10,SUPERSONIC,12,INFECTIONSYRINGE,14,MEGADRAIN,16,VACCINATION,18,AQUARING,22,PAINSPLIT,25,FIREFANG,29,AQUAJET,32,STEROIDS,34,TRIATTACK,36,ENERGYBALL,36,FLAMETHROWER,36,AQUATAIL,39,EUREKA,43,DRAGONPULSE,46,DEATHSYRINGE,50,OUTRAGE,55,EXPERIMENT
 Compatibility=Undiscovered
 StepsToHatch=5355
 Height=1.0
@@ -22862,7 +22863,7 @@ Kind=Experimental
 Pokedex=This abomination is the result of a failed experiment of a mad scientist. This Pokemon is in constant suffering, cannot fly and can barely attack.
 BattlerPlayerY=0
 BattlerEnemyY=19
-BattlerAltitude=19
+BattlerAltitude=0
 Evolutions=
 #-------------------------------
 [779]
@@ -23332,7 +23333,7 @@ Pokedex=Rabbis tell that the rebellion of Bar-Kohva was successful thanks to the
 BattlerPlayerY=0
 BattlerEnemyY=25
 BattlerAltitude=0
-Evolutions=CAPTAINROCK,Level,55	
+Evolutions=CAPTAINROCK,Level,55
 #-------------------------------
 [795]
 Name=Captain Rock
