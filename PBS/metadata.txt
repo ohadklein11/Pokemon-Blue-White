@@ -480,7 +480,7 @@ ShowArea=false
 [081]
 # Jerusalem
 Bicycle=true
-MapPosition=0,14,18
+MapPosition=0,18,21
 Outdoor=true
 BicycleAlways=false
 HealingSpot=318,1,35
