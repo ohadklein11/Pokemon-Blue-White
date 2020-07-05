@@ -334,37 +334,42 @@ HealingSpot=52,17,14
 [054]
 # Battle Frontier Arcade
 MapPosition=0,17,10
+ShowArea=true
 #-------------------------------
 [055]
 # Battle Tower
 MapPosition=0,17,10
 HealingSpot=52,30,10
+ShowArea=true
 #-------------------------------
 [056]
 # Battle Tower arena
-BattleBack=EliteA
+BattleBack=TowerArena
 MapPosition=0,17,10
 #-------------------------------
 [057]
-# Stadium Cup lobby
+# Stadium Cup
 MapPosition=0,17,10
+ShowArea=true
 #-------------------------------
 [058]
 # Battle Palace
 MapPosition=0,17,10
+ShowArea=true
 #-------------------------------
 [059]
 # Battle Palace arena
-BattleBack=EliteD
+BattleBack=PalaceArena
 MapPosition=0,17,10
 #-------------------------------
 [060]
 # Battle Arena
 MapPosition=0,17,10
+ShowArea=true
 #-------------------------------
 [061]
 # Battle Arena arena
-BattleBack=EliteB
+BattleBack=BattleArena
 MapPosition=0,17,10
 #-------------------------------
 [062]
@@ -610,7 +615,7 @@ ShowArea=true
 [096]
 # Iron Forest
 BattleBack=Forest
-Bicycle=false
+Bicycle=true
 MapPosition=0,18,15
 Outdoor=true
 BicycleAlways=false
@@ -687,6 +692,7 @@ ShowArea=true
 #-------------------------------
 [105]
 # Mt. Hermon
+BattleBack=Snow
 Weather=Snow,100
 Bicycle=false
 MapPosition=0,23,4
@@ -694,7 +700,6 @@ Outdoor=true
 BicycleAlways=false
 HealingSpot=105,35,18
 ShowArea=true
-BattleBack=Snow
 #-------------------------------
 [106]
 # Passage
@@ -740,13 +745,13 @@ ShowArea=true
 #-------------------------------
 [111]
 # Beer Sheva
+BattleBack=Desert
 Bicycle=true
 MapPosition=0,14,27
 Outdoor=true
 BicycleAlways=false
 HealingSpot=111,23,32
 ShowArea=true
-BattleBack=Desert
 #-------------------------------
 [112]
 # Classified House
@@ -759,41 +764,41 @@ ShowArea=false
 #-------------------------------
 [113]
 # Secret Tunnel
+BattleBack=Cave
 Bicycle=false
 MapPosition=0,11,27
 DarkMap=true
 Outdoor=false
 BicycleAlways=false
 ShowArea=true
-BattleBack=Cave
 #-------------------------------
 [114]
 # Secret Tunnel
+BattleBack=Cave
 Bicycle=false
 MapPosition=0,14,27
 Outdoor=false
 BicycleAlways=false
 ShowArea=false
-BattleBack=Cave
 #-------------------------------
 [115]
 # Gaza
+BattleBack=Desert
 Bicycle=true
 MapPosition=0,9,26
 Outdoor=true
-BattleBack=Desert
 BicycleAlways=false
 HealingSpot=115,21,10
 ShowArea=true
 #-------------------------------
 [116]
 # Secret Tunnel
+BattleBack=Cave
 Bicycle=false
 MapPosition=0,9,26
 Outdoor=false
 BicycleAlways=false
 ShowArea=false
-BattleBack=Cave
 #-------------------------------
 [117]
 # Route 80
@@ -805,11 +810,11 @@ ShowArea=true
 #-------------------------------
 [118]
 # Dimona
+BattleBack=Desert
 Bicycle=true
 MapPosition=0,16,31
 Outdoor=true
 BicycleAlways=false
-BattleBack=Desert
 HealingSpot=118,16,22
 ShowArea=true
 #-------------------------------
@@ -972,22 +977,22 @@ ShowArea=false
 #-------------------------------
 [137]
 # Mizpe Ramon
+BattleBack=Desert
 Bicycle=true
 MapPosition=0,14,35
 Outdoor=true
 BicycleAlways=false
 HealingSpot=137,12,20
-BattleBack=Desert
 ShowArea=true
 #-------------------------------
 [138]
 # Nordau Beach
 DiveMap=135
+BattleBack=Island
 Bicycle=true
 MapPosition=0,13,17
 Outdoor=true
 BicycleAlways=false
-BattleBack=Island
 ShowArea=true
 #-------------------------------
 [139]
@@ -1064,13 +1069,13 @@ ShowArea=false
 [147]
 # Eilat
 DiveMap=158
+BattleBack=Desert
 Bicycle=true
 MapPosition=0,15,48
 Outdoor=true
 BicycleAlways=false
 HealingSpot=147,35,12
 ShowArea=true
-BattleBack=Desert
 #-------------------------------
 [148]
 # Poison Gym
@@ -2275,6 +2280,7 @@ ShowArea=false
 #-------------------------------
 [280]
 # Eilat
+BattleBack=Cave
 Weather=Storm,100
 Bicycle=false
 MapPosition=0,15,48
@@ -2283,7 +2289,6 @@ Outdoor=false
 WildBattleBGM=Mythical Battle.ogg
 HealingSpot=147,35,12
 ShowArea=false
-BattleBack=Cave
 #-------------------------------
 [281]
 # Jail - Dark Gym
@@ -2383,6 +2388,7 @@ ShowArea=false
 #-------------------------------
 [291]
 # Cave
+BattleBack=Cave
 Weather=Blizzard,100
 Bicycle=false
 MapPosition=0,19,8
@@ -2391,11 +2397,11 @@ Outdoor=false
 BicycleAlways=false
 WildBattleBGM=Mythical Battle.ogg
 ShowArea=false
-BattleBack=Cave
 #-------------------------------
 [292]
 # Knesset
-Weather=Sunny,100
+BattleBack=LegendaryCulture
+Weather=Sun,100
 Bicycle=false
 MapPosition=0,18,21
 DarkMap=true
@@ -2404,7 +2410,6 @@ BicycleAlways=false
 WildBattleBGM=Mythical Battle.ogg
 HealingSpot=81,11,42
 ShowArea=false
-BattleBack=LegendaryCulture
 #-------------------------------
 [293]
 # Broadcasting Tower
@@ -2580,11 +2585,11 @@ HealingSpot=81,11,42
 ShowArea=true
 #-------------------------------
 [312]
-# PWT Lobby
+# Tournament Hall
 Bicycle=false
 Outdoor=false
 BicycleAlways=false
-ShowArea=false
+ShowArea=true
 #-------------------------------
 [313]
 # Tel Aviv
@@ -2659,7 +2664,7 @@ HealingSpot=318,1,35
 ShowArea=true
 #-------------------------------
 [321]
-# PWT Stadium
+# Tournament Stadium
 BattleBack=Tournament
 Bicycle=false
 Outdoor=true
