@@ -2560,7 +2560,7 @@ ShowArea=false
 [309]
 # Jerusalem
 Bicycle=true
-MapPosition=0,14,18
+MapPosition=0,18,21
 Outdoor=true
 BicycleAlways=false
 HealingSpot=81,11,42
@@ -2569,7 +2569,7 @@ ShowArea=true
 [310]
 # Jerusalem
 Bicycle=true
-MapPosition=0,14,18
+MapPosition=0,18,21
 Outdoor=true
 BicycleAlways=false
 HealingSpot=81,11,42
@@ -2578,7 +2578,7 @@ ShowArea=true
 [311]
 # Jerusalem
 Bicycle=true
-MapPosition=0,14,18
+MapPosition=0,18,21
 Outdoor=true
 BicycleAlways=false
 HealingSpot=81,11,42
